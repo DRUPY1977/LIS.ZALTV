@@ -109,8 +109,10 @@ https://cetl.cdn.rcs.net.ar/mnp/cnne/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE
 http://190.11.130.46/mnp/cm/output.mpd
 
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE op2
+https://cetl.cdn.rcs.net.ar/mnp/cm/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE op3
 https://cetl.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER ESPECIAL
@@ -354,7 +356,7 @@ https://cetl.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 http://190.11.130.46/mnp/dsc_hgtv/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1234.png", HGTV ext2
-https://broker.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
+https://uranotv.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ALTERNATIVOS",NATGEO HD
@@ -579,10 +581,14 @@ http://148.113.190.252:8000/play/a01c
 http://190.11.130.46/mnp/tntseries/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES op2
-https://is-sancristobal.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+https://cetl.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1572.png",UNIVERSAL CINEMA ESTE HD
 http://177.53.155.236:8000/play/a09f/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1572.png",UNIVERSAL CINEMA op2
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/universalcinema.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/573.png",UNIVERSAL COMEDY HD
 http://177.53.155.236:8000/play/a094/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1577.png",UNIVERSAL CRIME HD
@@ -591,8 +597,18 @@ http://177.53.155.236:8000/play/a093/index.m3u8
 http://177.53.155.236:8000/play/a090/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE O HD
 http://177.53.155.236:8000/play/a091/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE HD op2
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/universalcrime.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE HD op3
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/universalpremiere.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/575.png",UNIVERSAL REALITY HD
 http://177.53.155.236:8000/play/a092/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/575.png",UNIVERSAL REALITY HD op2
+http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/universalreality.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", GOLF CHANNEL 
 http://190.11.130.46/mnp/golf/output.mpd
@@ -603,7 +619,7 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op2
 https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS HD
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS HD
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS COL
@@ -983,56 +999,21 @@ http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
 
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",EL TRECE
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6827
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TELEFE HD
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6828
-
-
 #EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",LA NACION
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6832
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",LA NACION op2
 http://45.172.16.186:9981/stream/channelid/1742480045?profile=pass
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",VOLVER
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6833
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TN 
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6836
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CRONICA
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6837
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CRONICA op2
+#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CRONICA 
 http://45.172.16.186:9981/stream/channelid/1832780892?profile=pass
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TyC Sports
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/1378
 
 #EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",AM Sports
 http://45.172.16.186:9981/stream/channelid/1283398386?profile=pass
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png", ENCUENTRO
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6842
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TNT SPORTS SD
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6843
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",C5N HD
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6854
-
 #EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",C5N
 http://45.172.16.186:9981/stream/channelid/193680835?profile=pass
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",A24
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6855
 
 #EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",A24 op2
 http://45.172.16.186:9981/stream/channelid/618458162?profile=pass
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",EL NUEVE HD
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6857
 
 
 #EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO
@@ -1170,8 +1151,6 @@ http://190.11.130.46/mnp/hbopop/output.mpd
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP op2
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP op3
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/universalreality.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO XTREME 
 http://190.11.130.46/mnp/hboxtr_hls/playlist.m3u8
