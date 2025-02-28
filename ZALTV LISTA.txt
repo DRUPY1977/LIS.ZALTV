@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://i.ibb.co/vqh35pC/SIN-LOGO.gif",INFO-SERVICIO ZALTV de 10 hs a 00 hs arg
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/2/2b/LogoNosvemosenelsietelogolv82.png",CANAL 7 DE SAN JUAN
-http://cdn.tvar.io/get-yt.m3u8?ch=@elsietemendoza&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV 
 http://190.11.130.46/mnp/america/output.mpd
 
@@ -63,9 +60,6 @@ https://cetl.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png", A24 ext3
 https://uranotv.cdn.rcs.net.ar/mnp/a24/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png", A24 ext4
-http://cdn.tvar.io/get-yt.m3u8?ch=@A24com&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png", CRONICA TV
 http://190.11.130.46/mnp/cronica/output.mpd
 
@@ -94,12 +88,6 @@ https://uranotv.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",TN ext3
 https://cetl.cdn.rcs.net.ar/mnp/tn/output.mpd
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",TN HD
-http://cdn.tvar.io/get-yt.m3u8?ch=@todonoticias&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1715.png",LA NACION HD
-http://cdn.tvar.io/get-yt.m3u8?ch=@lanacion&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png",IP NOTICIAS
 http://190.11.130.46/mnp/ip/output.mpd
@@ -593,6 +581,19 @@ http://190.11.130.46/mnp/tntseries/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES op2
 https://is-sancristobal.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1572.png",UNIVERSAL CINEMA ESTE HD
+http://177.53.155.236:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/573.png",UNIVERSAL COMEDY HD
+http://177.53.155.236:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1577.png",UNIVERSAL CRIME HD
+http://177.53.155.236:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE HD
+http://177.53.155.236:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE O HD
+http://177.53.155.236:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/575.png",UNIVERSAL REALITY HD
+http://177.53.155.236:8000/play/a092/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", GOLF CHANNEL 
 http://190.11.130.46/mnp/golf/output.mpd
 
@@ -602,13 +603,19 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op2
 https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS HD
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DIRECTV SPORTS
-https://director.shoeshopping.top/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS COL
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS AR
+http://177.53.155.236:8000/play/a0co/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png",DIRECTV SPORTS 2
-https://director.shoeshopping.top/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png",DIRECTV SPORTS+
-https://director.shoeshopping.top/v3/director/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0/master.m3u8
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0/master.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png",ESPN PREMIUM CL
 http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
@@ -2878,9 +2885,6 @@ https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FKNjwCV/logo-Alcarrizos-TV.png" group-title="EXTRAS",Alcarrizos TV HD
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://3.bp.blogspot.com/-U3ScBmLLZ20/VuSl4Bm2RLI/AAAAAAAAAu0/m2msXFNvzWoNTlhknLEhY0cEtyJYgOE_w/s1600/quiero-hd.png",QUIERO MUSICA HD
-http://cdn.tvar.io/get-yt.m3u8?ch=@quieromusicatv&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
-
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO
 https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8
 
@@ -3416,14 +3420,16 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV PELICULAS
-https://seo.tv.bo/tv/ISEO-TV-4.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV
-https://seo.tv.bo/tv/ISEO-TV-1.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV NOVELAS
-https://seo.tv.bo/tv/ISEO-TV-3.m3u8
+https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
 
+#EXTINF:-1 tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="BOLIVIA",ABYA YALA TV HD
+https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
 
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS
 https://broker.cdn.rcs.net.ar/mnp/tntnovelas_hls/playlist.m3u8
@@ -3567,6 +3573,9 @@ https://posadas.cdn.masmediatv.es/SVoriginPacket15/smil:161_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="DEPORTES",ITV Deportes op2
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-logo="https://villarrealcf.es/wp-content/uploads/2023/07/Logo-HYPERMOTION.png" group-title="DEPORTES",LA LIGA HYPERMOTION
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1Yjk3NGExZTE2YjY3LTEyMWEtN2Y3NC00NTFhLTkxYjY3MGQx/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",EUROSPORT 1 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
@@ -4501,10 +4510,6 @@ https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Solidaria-TV-Espana-en-DIRECTO-Online.png" group-title="BOLIVIA",SOLIDARIA TV BOLIVIA HD
 https://tv.bitstreaming.net:3073/live/solidariatvlive.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/tv/ISEO-TV-8.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/ATB_logo_nuevo.png" group-title="BOLIVIA",ATB Cochabamba
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ATB_Cochabamba.m3u8
 
@@ -4689,11 +4694,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4VJjCq/flolklore-tv-peru.png" group-title="RETRO",Folklore TV op2
 https://live-evg1.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="PERU",VM Latino
-https://live-evg4.tv360.bitel.com.pe/bitel/vmlatino/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png" group-title="PERU",VM Latino op2
-https://live-evg25.tv360.bitel.com.pe/bitel/vmlatino/bitel/vmlatino_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="PERU",TV COSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
