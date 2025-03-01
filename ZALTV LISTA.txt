@@ -619,6 +619,9 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op2
 https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img2.wikia.nocookie.net/__cb20121007054058/disney/images/3/3a/2000px-ESPN_Deportes_logo.png",ESPN DEPORTES
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTktNDNkNC02M2Q0LTk1YWVjODEy/master.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS HD
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8
 
@@ -638,6 +641,9 @@ http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT SPORTS CL
 http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png",GOL TV
+http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
 http://45.172.16.186:9981/stream/channelid/676727849?profile=pass
@@ -2137,6 +2143,9 @@ https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0bJp30/th.png" group-title="RETRO",TV TICA 
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pj0Dk6VL/cine-retro-genial-3.png" group-title="RETRO",RETRO CINEMA
+http://srv5.zcast.com.br/retrocinema/retrocinema/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-SERIES-png-.png",MEMORIAS SERIES
 https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8  
@@ -4555,8 +4564,8 @@ https://panel.host-live.com:19360/80780/80780.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8gBA94q0v2iXqpZkS5CIHMFpK0W_dn78Mozo9H2ik_yjdsgOhCZHbAf6RPg-0RFbsjI4Ktd3FZqQ5ZYbfWmRzb-NZseL2X6MtPUE2dGsUn2cGFAF3y9mOWrK43Ec4ax8znIZPSlknDBg5PCng1ijJAvnoK4ch3CenJnwVoSrHeORITnX_1jzYJzhiJss/s200/celtatv.png" group-title="INTERIOR AR",CELTA TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/P1RCf0R/canal-10-senillosa-tv.png" group-title="INTERIOR AR",CANAL 10 SENILLOSA
-https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fcttt6r/tele-posadas.png" group-title="INTERIOR AR",TELEPOSADAS
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal40hd.com.ar/img/logo%20png%20Letras%20Negras%20(1).png" group-title="INTERIOR AR",CANAL 40
 https://canalsj.kozow.com/canal40/index.m3u8
