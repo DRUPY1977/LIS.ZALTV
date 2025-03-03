@@ -2423,20 +2423,20 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN Latinoamerica HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Bigchannel.png",BIG CHANNEL
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL
 https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Bigchannel.png",BIG CHANNEL op2
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL op2
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL op3
+https://xhateaec.com:8800/hls/bigtv/bigtv/2e7c0930c48d249969862b4c76ab97c8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="INFANTILES",Magic Kids TV HD
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png",MAGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Magickids95.png" group-title="INFANTILES",El Magic TV
-https://kali.vdopanel.com:3063/stream/play.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png",PEQUE TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -3004,6 +3004,9 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mo
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/ynVFGHQ/GENTV-LOGO-PNG.png",GEN TV
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/mFvqxyG1/NEXT-NUEVO-LOGO.png",NET TV HD
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/272.png", HTV
