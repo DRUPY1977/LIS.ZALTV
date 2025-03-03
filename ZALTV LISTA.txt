@@ -637,8 +637,6 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OWVhZDhi
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS COL
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS AR
-http://177.53.155.236:8000/play/a0co/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png",DIRECTV SPORTS 2
 https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8
@@ -2522,8 +2520,6 @@ https://cloud2.streaminglivehd.com:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.ibb.co/NY9Gqkc/SOCCER-7.png",SOCCER 7
 https://cloud2.streaminglivehd.com:1936/8062/8062/playlist.m3u8 
 
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://cdn6.aptoide.com/imgs/a/a/8/aa88c2a4548c3b54a843aea6201de857_fgraphic.png",Eventos HD
-http://45.172.16.186:9981/stream/channelid/378813307?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
@@ -2563,12 +2559,14 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE",FMH Movies op2
 https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE",FMH Movies op3
+https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 https://loadbalancer16.cdn.rcs.net.ar/mnp/dhe/output.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD op2
-https://airsat.cdn.rcs.net.ar/mnp/dhe_hls/playlist.m3u8
+https://router.cdn.rcs.net.ar/mnp/dhe_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD op3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/dhe/output.mpd
@@ -2677,7 +2675,7 @@ https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
 hhttps://loadbalancer20.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png", AMC op2
-https://airsat.cdn.rcs.net.ar/mnp/amc/output.mpd
+https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png", AMC op3
 https://loadbalancer16.cdn.rcs.net.ar/mnp/amc/output.mpd
@@ -2850,7 +2848,7 @@ https://copacogen.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8?
 https://copacotf.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://appnew.megainfoapp.com/files/1/unicanal1.png",UNICANAL op2
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=tvaccion
+https://tigocloudtf.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=tvaccion
 
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://appnew.megainfoapp.com/files/1/unicanal1.png",UNICANAL op3
 https://copacogen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?admin=tvaccion
@@ -2958,6 +2956,9 @@ https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op2
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op3
+https://live-zlr1.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://assets.tv24.co/channels/vevo-90s-00s-uk-l.webp",VEVO '90s & '00s
 https://d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8
@@ -3332,7 +3333,7 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/tecnopolis/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY op2
-https://airsat.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://router.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY op3
 https://loadbalancer20.cdn.rcs.net.ar/mnp/discovery/output.mpd
@@ -3347,8 +3348,7 @@ https://loadbalancer16.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC op3
-https://airsat.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-
+https://router.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC op4
 https://uranotv.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
@@ -3360,7 +3360,7 @@ https://broker.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 https://loadbalancer16.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H op3
-https://airsat.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://router.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H op4
 https://uranotv.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
@@ -3440,7 +3440,7 @@ https://loadbalancer16.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/232.png", GOURMET
-https://airsat.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+https://loadbalancer16.cdn.rcs.net.ar/mnp/gourmet/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/232.png", GOURMET op2
 https://broker.cdn.rcs.net.ar/mnp/gourmet/output.mpd
@@ -3796,7 +3796,10 @@ https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 https://g3.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op2
-https://g2.proy-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8
+https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op3
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCnYk81/CANAL-10-DE-JUNIN.png" group-title="INTERIOR AR",CANAL 10 DE JUNIN
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_480p.m3u8
@@ -3820,6 +3823,9 @@ https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 https://router.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE CORDOBA
+https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE CORDOBA op2
 https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",TELEFE Rosario
@@ -4224,7 +4230,7 @@ http://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL op3
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL op4
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL Bantel
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 
 
