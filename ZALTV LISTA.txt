@@ -2889,6 +2889,9 @@ https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="EXTRAS",TVC 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="EXTRAS",ECUAVISA TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6oOdZc.png" group-title="EXTRAS",COTUBANAMA TV
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
@@ -3798,9 +3801,6 @@ https://g3.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/ca
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op2
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op3
-http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCnYk81/CANAL-10-DE-JUNIN.png" group-title="INTERIOR AR",CANAL 10 DE JUNIN
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_480p.m3u8
 
@@ -3812,9 +3812,6 @@ https://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op2
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
-
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op3
-http://cdn.tvar.io/get-yt.m3u8?ch=@eldoce&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png",CANAL 10 DE CORDOBA
 https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
