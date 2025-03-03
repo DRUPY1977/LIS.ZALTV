@@ -835,6 +835,8 @@ http://186.148.196.82:8001/play/a00p
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports op9 🇦🇷
 http://216.244.200.34:8000/play/a04j/index.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 🇦🇷 
+https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷
 http://201.217.246.177:8000/play/a078/index.m3u8
@@ -1606,6 +1608,18 @@ https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS
 https://dsr.ride.com.ar/tvmia/bn22/playlist.m3u8 
+
+#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-YLVe6I3igQ0/TqBIiqUj41I/AAAAAAAAQgc/_Mpia_yIIpI/s1600/elgaragetv.png" group-title="ALTERNATIVOS",GARAJE TV
+https://dsr.ride.com.ar/tvmia/c02/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/190_UY.png" group-title="ALTERNATIVOS",CANAL 4 MONTECARLO
+https://dsr.ride.com.ar/tvmia/c06/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="ALTERNATIVOS",A3CINE
+https://dsr.ride.com.ar/tvmia/c08/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/540_UY.png" group-title="ALTERNATIVOS",PASIONES
+https://dsr.ride.com.ar/tvmia/c09/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="ALTERNATIVOS",ECDF
@@ -2533,11 +2547,6 @@ https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv?android_vs.ts.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6yvnhLM.png" group-title="CINE 24/7",PELIS MANIA
 https://stream-cdn-iad.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cinemundo.pt/wp-content/uploads/2015/09/logo-seo.png" group-title="CINE 24/7",CINEMUNDO
-https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_0.flv?android_vs.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cinemundo.pt/wp-content/uploads/2015/09/logo-seo.png" group-title="CINE 24/7",CINEMUNDO PLUS
-https://stream-cdn-iad.vaughnsoft.net/play/live_cinemundo_plus.flv?android_vs.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE",FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8
@@ -4808,6 +4817,8 @@ https://panel.host-live.com/8186/8186/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal3lasheras.com/wp-content/uploads/2022/10/canal3logo-x1.png" group-title="INTERIOR AR",CANAL 3 DE LAS HERAS
 https://stream.arcast.com.ar/canal3/canal3/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB4ptnKZ/Screenshot-20250224-145743-XPlayer-Video-Player-removebg-preview.png"group-title="INTERIOR AR",MULTIVISIÓN 
+https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2024/03/Canal-Somos-UNO-Chaco-en-VIVO-y-Online.png" group-title="INTERIOR AR",SOMOS UNO CHACO
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist.m3u8
@@ -4824,6 +4835,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4V7psdX/SFRur-Est-400x400.png" group-title="PERU",NZK Television 
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png"group-title="RELIGIOSOS",CINE DIOS
+https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9vLHFf/Ga-QDl2-EXMAARsr-V.png" group-title="PERU",SOLAR Television 
