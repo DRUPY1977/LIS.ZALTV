@@ -2141,6 +2141,8 @@ http://181.13.173.86:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1236_AR.png",MAGAZINE SD op2
 http://45.5.151.151:8000/play/a0pz/index.m3u8
 
+#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/127.png",CANAL CIUDAD
+https://g1.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png", NET TV (VARIEDAD)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
