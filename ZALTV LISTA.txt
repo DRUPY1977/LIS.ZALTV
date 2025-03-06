@@ -32,6 +32,8 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE alt1
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE alt2
+http://vocotv.pro/live/bruce111/bruce111/3191.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png", EL TRECE
 http://190.11.130.46/mnp/el13/output.mpd
@@ -41,6 +43,9 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/mono.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png", EL TRECE op3
 https://uranotv.cdn.rcs.net.ar/mnp/el13/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png", EL TRECE op4
+http://vocotv.pro/live/bruce111/bruce111/3227.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", CANAL 26 
 http://190.11.130.46/mnp/canal26/output.mpd
@@ -2141,8 +2146,6 @@ http://181.13.173.86:8000/play/a02h/index.m3u8
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1236_AR.png",MAGAZINE SD op2
 http://45.5.151.151:8000/play/a0pz/index.m3u8
 
-#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/127.png",CANAL CIUDAD
-https://g1.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png", NET TV (VARIEDAD)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
@@ -2183,8 +2186,10 @@ http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV
-https://g4.mc-slo.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
 
+https://g4.mc-slo.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
+#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV op2
+http://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV
 http://45.172.16.186:9981/stream/channelid/1374059852?profile=pass
@@ -2809,6 +2814,9 @@ https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Zt0PxX/MAS-CINE-PNG.png" group-title="CINE",+ CINE
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="CINE",RESTELLI TV CANAL 5 MG
+https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPjVvX/MAS-CINE-PNG.png" group-title="CINE",+ CINE CLASSIC
 https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
 
@@ -2890,9 +2898,6 @@ https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="EXTRAS",TVC 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1200px-Logo_Ecuavisa.svg.png" group-title="EXTRAS",ECUAVISA TV
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6oOdZc.png" group-title="EXTRAS",COTUBANAMA TV
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
@@ -3570,7 +3575,10 @@ https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op3
 https://loadbalancer16.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="DEPORTES",TYC EVENTOS 2
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS DEPORTIVOS
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SN4gjZ3QmMlFWOyIWL2E2M40yYxQDNtgzMihTL4YGN2EWNjR2L.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",TYC EVENTOS 2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="DEPORTES", EVENTOS TyC PLAY 1
@@ -3803,6 +3811,9 @@ https://g3.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/ca
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op2
 https://g2.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png", CANAL 10 DE MAR DEL PLATA op3
+http://186.0.233.76:1935/Canal10MDQ/smil:canal10mdq.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HCnYk81/CANAL-10-DE-JUNIN.png" group-title="INTERIOR AR",CANAL 10 DE JUNIN
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_480p.m3u8
 
@@ -3814,6 +3825,9 @@ https://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op2
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op3
+http://cdn.tvar.io/get-yt.m3u8?ch=@eldoce&tokenjwt=GlAXmBNV5rsK/jgPs4hs5ukuAkYXKpLGreQGjbrceEg=
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png",CANAL 10 DE CORDOBA
 https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
