@@ -2181,13 +2181,12 @@ http://45.172.16.186:9981/stream/channelid/635786642?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD
 http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 
-
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="INTERIOR AR", CANAL E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV
-
 https://g4.mc-slo.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
+
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV op2
 http://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
@@ -2527,6 +2526,8 @@ https://cloud2.streaminglivehd.com:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.ibb.co/NY9Gqkc/SOCCER-7.png",SOCCER 7
 https://cloud2.streaminglivehd.com:1936/8062/8062/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS DEPORTIVOS
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SN4gjZ3QmMlFWOyIWL2E2M40yYxQDNtgzMihTL4YGN2EWNjR2L.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
@@ -3575,10 +3576,10 @@ https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op3
 https://loadbalancer16.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS DEPORTIVOS
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SN4gjZ3QmMlFWOyIWL2E2M40yYxQDNtgzMihTL4YGN2EWNjR2L.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 1
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",TYC EVENTOS 2
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="DEPORTES", EVENTOS TyC PLAY 1
