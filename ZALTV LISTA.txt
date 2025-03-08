@@ -1760,7 +1760,8 @@ http://185.236.229.62:9981/play/a01z
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://lolokoko.tv/pma564!fghu1/img/small/4funhits.png",4Fun.TV
 http://185.236.229.62:9981/play/a01y
 
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telecanal_(2011).png" group-title="CHILE",TELECANAL 
+http://45.235.37.254/telecanalhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tv-plus.png" group-title="CHILE",TV+
 http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1768,18 +1769,35 @@ http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_pr
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/TVN-Chile-Logo.png" group-title="CHILE",TVN HD 
 http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/TVN-Chile-Logo.png" group-title="CHILE",TVN HD op2
+http://45.235.37.254/tvnhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" group-title="CHILE",LA RED
 http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Emblema_de_La_Red.png" group-title="CHILE",LA RED op2
+http://45.235.37.254/laredhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="CHILE",MEGA
 http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/d4/Mega_Chile_2020.png" group-title="CHILE",MEGA op2
+http://45.235.37.254/megahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",Canal 13
 http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+#EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",Canal 13 op2
+http://45.235.37.254/canal13hd/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",Chilevision HD
 http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",Chilevision HD op2
+http://45.235.37.254/chvhd/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
