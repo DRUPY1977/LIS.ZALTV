@@ -201,48 +201,52 @@ https://cetl.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK 
 http://190.11.130.46/mnp/cartoon/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK op2
-https://cetl.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK CL
+http://45.235.37.254/cartoonnetworkhd/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK op3
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK op2
 https://uranotv.cdn.rcs.net.ar/mnp/cartoon/output.mpd
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV
 http://190.11.130.46/mnp/babytv/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV op2
+https://uranotv.cdn.rcs.net.ar/mnp/babytv/output.mpd
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV cl
 http://live1.cl.cdn.lla.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV op2
-https://uranotv.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV cl op2
+http://45.235.37.254/babytv/index.m3u8
+
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO 
 http://190.11.130.46/mnp/boomerang/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO ext2
-https://cetl.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO ext3
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO op2
 https://uranotv.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1280px-Cartoonito_-_Logo_2021.svg.png", CARTOONITO cl
+http://45.235.37.254/cartoonito/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS
 http://190.11.130.46/mnp/disc_kids/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS op2
-https://cetl.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS op3
 https://uranotv.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DISCOVERY KIDS cl
+http://45.235.37.254/discoverykidshd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK
 http://190.11.130.46/mnp/nickelodeon/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK ext2
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK op2
 https://cetl.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK ext3
-https://uranotv.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK cl
+http://45.235.37.254/nickhd/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.ibb.co/ccjVpXP/nick-jr-logo-2023-by-carlosoof10-dg23uz3-fullview.png", NICK JR ext1
@@ -260,6 +264,9 @@ http://190.11.130.46/mnp/disney/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/312.png", DISNEY CHANNEL op2
 https://cetl.cdn.rcs.net.ar/mnp/disney/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/312.png", DISNEY CHANNEL cl
+http://45.235.37.254/disneyhd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/315.png" group-title="ALTERNATIVOS",DISNEY JR
 http://190.11.130.46/mnp/disneyjr/output.mpd
 
@@ -272,6 +279,10 @@ http://190.11.130.46/mnp/tooncast/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST MX
 https://cetl.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST cl
+http://45.235.37.254/tooncast/index.m3u8
+
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA ext
 http://45.172.16.186:9981/stream/channelid/1250571035?profile=pass
@@ -320,6 +331,8 @@ https://cetl.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY op3
 https://uranotv.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY cl
+http://45.235.37.254/discoveryhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
@@ -377,6 +390,8 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ALTERNATIVOS",NATGEO HD op2
 https://cetl.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ALTERNATIVOS",NATGEO HD cl
+http://45.235.37.254/natgeohd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY
 http://190.11.130.46/mnp/history/output.mpd
@@ -387,19 +402,32 @@ https://cetl.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY ext3
 https://uranotv.cdn.rcs.net.ar/mnp/history/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY cl
+http://45.235.37.254/historyhd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://beta.directv.com.ar/content/dam/public-sites/channels/1744.png",H2 HD cl
+http://45.235.37.254/history2hd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://beta.directv.com.ar/content/dam/public-sites/channels/1734.png",ANIMAL PLANET cl
+http://45.235.37.254/animalplanethd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://beta.directv.com.ar/content/dam/public-sites/channels/1731.png",DISCOVERY TEATER cl
+http://45.235.37.254/discoverytheaterhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/232.png", GOURMET
 http://190.11.130.46/mnp/gourmet/output.mpd
 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg/1280px-Logo_M%C3%A1s_Chic_(canal_de_televisi%C3%B3n).svg.png",MAS CHIC
-http://190.11.130.46/mnp/maschic/output.mpd
-
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://americatvlistings.com/img/co/logo/canal-de-las-estrellas.png",LAS ESTRELLAS cl
+http://45.235.37.254/lasestrellas/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS
 http://190.11.130.46/mnp/tntnovelas/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS ext2
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS cl
+http://45.235.37.254/tntnovelas/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", TELEMUNDO
 http://190.11.130.46/mnp/telemundo/output.mpd
@@ -428,6 +456,8 @@ http://190.11.130.46/mnp/dhe/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",DHE op2
 https://uranotv.cdn.rcs.net.ar/mnp/dhe/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png",DHE cl
+http://45.235.37.254/dhehd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png", STAR CHANNEL
 http://190.11.130.46/mnp/foxhd/output.mpd 
@@ -435,11 +465,17 @@ http://190.11.130.46/mnp/foxhd/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png", STAR CHANNEL op2
 https://cetl.cdn.rcs.net.ar/mnp/foxhd/output.mpd 
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png", STAR CHANNEL cl
+http://45.235.37.254/starhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png", WARNER
 http://190.11.130.46/mnp/warner/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png", WARNER op2
 https://cetl.cdn.rcs.net.ar/mnp/warner/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png", WARNER cl
+http://45.235.37.254/warnerhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/230.png",MAS CHIC
 http://190.11.130.46/mnp/maschic/output.mpd
@@ -453,6 +489,8 @@ http://190.11.130.46/mnp/ae/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/207.png", A&E op2
 https://cetl.cdn.rcs.net.ar/mnp/ae/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/207.png", A&E cl
+http://45.235.37.254/aehd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png", AXN
 http://190.11.130.46/mnp/axn/output.mpd
@@ -460,6 +498,8 @@ http://190.11.130.46/mnp/axn/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png", AXN op2
 https://uranotv.cdn.rcs.net.ar/mnp/axn/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png", AXN cl
+http://45.235.37.254/axnhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png", AMC
 http://190.11.130.46/mnp/amc/output.mpd
@@ -467,6 +507,8 @@ http://190.11.130.46/mnp/amc/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png", AMC op2
 https://uranotv.cdn.rcs.net.ar/mnp/amc/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png", AMC cl
+http://45.235.37.254/amchd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/208.png", SONY
 http://190.11.130.46/mnp/sony/output.mpd
@@ -474,12 +516,17 @@ http://190.11.130.46/mnp/sony/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/208.png", SONY op2
 https://uranotv.cdn.rcs.net.ar/mnp/sony/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/208.png", SONY cl
+http://45.235.37.254/sonyhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png", UNIVERSAL
 http://190.11.130.46/mnp/universal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png", UNIVERSAL op2
 https://cetl.cdn.rcs.net.ar/mnp/universal/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png", UNIVERSAL cl
+http://45.235.37.254/universalhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL
 http://190.11.130.46/mnp/st_universal/output.mpd
@@ -487,12 +534,14 @@ http://190.11.130.46/mnp/st_universal/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL op2
 https://cetl.cdn.rcs.net.ar/mnp/st_universal/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL cl
+http://45.235.37.254/studiouniversalhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png", CINECANAL
 http://190.11.130.46/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png", CINECANAL op2
 https://cetl.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
-
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/504.png", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
@@ -519,6 +568,9 @@ http://190.11.130.46/mnp/fx/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png", FX op2
 https://uranotv.cdn.rcs.net.ar/mnp/fx/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png", FX cl
+http://45.235.37.254/fxhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1510.png", PARAMOUNT
 http://190.11.130.46/mnp/paramount_hls/playlist.m3u8
 
@@ -531,11 +583,12 @@ http://190.11.130.46/mnp/space/output.mpd
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/518.png" group-title="ALTERNATIVOS", SPACE op2
 http://190.11.130.46/mnp/space/output.mpd
 
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/518.png" group-title="ALTERNATIVOS", SPACE cl
+http://45.235.37.254/spacehd/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/518.png" group-title="ALTERNATIVOS", SPACE BANT
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/space.stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/513.png" group-title="ALTERNATIVOS", DHE HD
-http://190.11.130.46/mnp/dhe/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/513.png" group-title="ALTERNATIVOS", DHE BANT
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/dhe.stream/playlist.m3u8
@@ -556,6 +609,9 @@ https://cetl.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1502_AR.png", TNT
 http://190.11.130.46/mnp/tnt/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1502_AR.png", TNT cl
+http://45.235.37.254/tnthd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1502_AR.png", TNT BANT
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/tnt.stream/playlist.m3u8
 
@@ -565,9 +621,14 @@ http://190.11.130.46/mnp/cinemax/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX op2
 https://cetl.cdn.rcs.net.ar.ar/mnp/cinemax/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX cl
+http://45.235.37.254/cinemaxhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX BANT
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/cinemax.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png", GOLDEN HD cl
+http://45.235.37.254/goldenhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png", GOLDEN HD
 http://148.113.190.252:8000/play/a017
@@ -575,11 +636,17 @@ http://148.113.190.252:8000/play/a017
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png",GOLDEN SD
 http://148.113.190.252:8000/play/a018
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/517_AR.png",GOLDEN EDGE cl
+http://45.235.37.254/goldenedge/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/517_AR.png",GOLDEN EDGE HD
 http://148.113.190.252:8000/play/a019
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/517_AR.png",GOLDEN EDGE SD
 http://148.113.190.252:8000/play/a01a
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png",GOLDEN PLUS cl
+http://45.235.37.254/goldenplus/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png",GOLDEN PLUS HD
 http://148.113.190.252:8000/play/a01b
@@ -590,6 +657,9 @@ http://148.113.190.252:8000/play/a01c
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES 
 http://190.11.130.46/mnp/tntseries/output.mpd
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES cl
+http://45.235.37.254/tntserieshd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES op2
 https://cetl.cdn.rcs.net.ar/mnp/tntseries/output.mpd
