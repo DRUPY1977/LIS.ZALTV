@@ -651,8 +651,14 @@ https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTY3OGNl
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png",ESPN PREMIUM CL
 http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png",ESPN PREMIUM CL op2
+http://45.235.37.254/espnpremiumhd/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT SPORTS CL
 http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT SPORTS CL op2
+http://45.235.37.254/tntsportshd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.empresastips.com/wp-content/uploads/2019/05/GOLTV-1.png",GOL TV
 http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
@@ -758,6 +764,15 @@ http://148.113.190.252:8000/play/a01s/index.m3u8
 http://148.113.190.252:8000/play/fspre/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_(Argentina)_-_2018_logo.png",FOX SPORT PREMIUM SD
 http://148.113.190.252:8000/play/a01u/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 1 CL
+http://45.235.37.254/espnhd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 CL
+http://45.235.37.254/espn2hd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 CL
+http://45.235.37.254/espn3hd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",AR ESPN 1 HD
 http://148.113.190.252:8000/play/a037/index.m3u8
@@ -1025,127 +1040,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
 
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",LA NACION
-http://45.172.16.186:9981/stream/channelid/1742480045?profile=pass
 
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CRONICA 
-http://45.172.16.186:9981/stream/channelid/1832780892?profile=pass
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",AM Sports
-http://45.172.16.186:9981/stream/channelid/1283398386?profile=pass
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",C5N
-http://45.172.16.186:9981/stream/channelid/193680835?profile=pass
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",A24 op2
-http://45.172.16.186:9981/stream/channelid/618458162?profile=pass
-
-
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO
-http://181.78.106.127:9000/play/ca068/index.m3u8
-
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO op2
-http://45.228.233.93:8000/play/ca064/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO Xtreme
-http://181.78.106.127:9000/play/ca069/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO Xtreme op2
-http://45.228.233.93:8000/play/ca089/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO Plus
-http://181.78.106.127:9000/play/ca070/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO Plus op2
-http://45.228.233.93:8000/play/ca0102/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",HBO FAMILY
-http://45.228.233.93:8000/play/ca082/index.m3u8
-
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CINEMAX CH-2
-#http://181.78.106.127:9000/play/ca079/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TLNOVELAS Alt
-http://181.78.106.127:9000/play/ca013/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",RCN Novelas Alt
-http://181.78.106.127:9000/play/ca014/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TLN TLNovelas
-http://181.78.106.127:9000/play/ca016/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Pasiones
-http://181.78.106.127:9000/play/ca017/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",A&E
-http://45.228.233.93:8000/play/ca087/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TLNOVELAS UNIVISION
-http://45.228.233.93:8000/play/ca088/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",MULTICINEMA
-http://45.228.233.93:8000/play/ca076/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",SYFY
-http://45.228.233.93:8000/play/ca077/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",AMC 
-http://45.228.233.93:8000/play/ca078/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",AXN HD
-http://45.228.233.93:8000/play/ca079/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",STUDIO UNIVERSAL
-http://45.228.233.93:8000/play/ca091/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",PASIONES
-http://45.228.233.93:8000/play/ca092/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",BITME
-http://45.228.233.93:8000/play/ca093/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",AZ CORAZON 
-http://45.228.233.93:8000/play/ca094/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",MULTIPREMIER
-http://45.228.233.93:8000/play/ca0101/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Claro Sports 2
-http://181.78.106.127:9000/play/ca037/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Tigo Sports
-http://181.78.106.127:9000/play/ca038/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",BeiN Sports
-http://181.78.106.127:9000/play/ca039/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",CARTOON NETWORK
-http://181.78.106.127:9000/play/ca051/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",NICKELODEON
-http://181.78.106.127:9000/play/ca052/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Disney Channel Alt
-http://181.78.106.127:9000/play/ca053/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Sky Sports
-http://181.78.106.127:9000/play/ca028/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Sky Sports 2
-http://181.78.106.127:9000/play/ca029/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",Sky Sports La Liga
-http://181.78.106.127:9000/play/ca030/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TYC SPORTS
-http://45.228.233.93:8000/play/ca031/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",FOX SPORT 1
-http://181.78.106.127:9000/play/ca031/index.m3u8
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",FOX SPORT 2
-http://181.78.106.127:9000/play/ca032/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",TELEHIT Musica
-http://181.78.106.127:9000/play/ca065/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",MTV Hits
-http://181.78.106.127:9000/play/ca067/index.m3u8
-
-#EXTINF:-1 group-title="PRUEBAS" tvg-logo="https://zaltv.com/logo.png",FOOD NETWORK
-http://45.228.233.93:8000/play/ca049/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" group-title="PACK HBO",HBO 
 http://190.11.130.46/mnp/hbo/output.mpd
@@ -3581,6 +3476,25 @@ https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PY
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YzNlODViYzc5NDExLTg4M2EtMzE3NC03MTA0LWJiYWMzMTU0/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PE
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1ZjFmZmFjY2FhN2ZjLTJlODgtNzliNC01MTQzLTVhYTk4MjVm/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS EC
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1NDdkYTc0YTY4MjAyLWJjODgtYTgwNC04YWU4LWU3MDVmYzk3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS ES
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1MjM0N2M5ZGMyYTU5LTIwMjktNDc4NC03NzY4LTgzNWYwZWRm/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS LIGA TV
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1OTA1NzNhMDJmOWIyLTRiYmEtMTdhNC0zMTc0LWNlYThiZGZh/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS MAIN 
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTVkNTMxYmRkNDI4LWVmYjktNzc5NC05ZTM0LTAxM2Q3NGFm/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="DEPORTES", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
