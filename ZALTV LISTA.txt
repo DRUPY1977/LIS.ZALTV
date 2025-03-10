@@ -2049,7 +2049,7 @@ https://router.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png" group-title="NACIONALES AR",TELEMAX HD
-https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8main.m3u8?admin=tvaccion
 
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png", ENCUENTRO 
@@ -2814,6 +2814,12 @@ https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="EXTRAS",C9N op2
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8?admin=tvaccion
 
+#EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.ibb.co/b3DKd6j/mi-tv-paraguay.png",MI TV PY
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8
+
+#EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.ibb.co/b3DKd6j/mi-tv-paraguay.png",MI TV PY op 2
+https://copaco.desdeparaguay.net/mitv/mitv/playlist.m3u8?admin=mitvitapua
+
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://oromartv.com/wp-content/uploads/2024/01/LOGO_OTV_SOMBREADO_PEQUENIO_400x400.png",OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
@@ -3051,10 +3057,10 @@ https://paneltv.online:1936/8030/8030/playlist.m3u8
 https://tv.telselec.cl:3254/live/cygtvlive.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png",TIERRA MIA 
-https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8?admin=tvaccion
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://appnew.megainfoapp.com/files/1/musicTOPAR.png",MUSIC TOP
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8?admin=tvaccion
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://factor80.cl/wp/wp-content/uploads/2022/04/cropped-logo_03.png", FACTOR 80
 https://5ff3d9babae13.streamlock.net/8008/8008/chunklist.m3u8
@@ -5178,9 +5184,6 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.ibb.co/RNrqd31/canal-mas-television-5347.png",MAS TELEVISION COL op2 
 https://video.ejeserver.com/live/teledoradahd.m3u8
 
-
-#EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.ibb.co/b3DKd6j/mi-tv-paraguay.png",MI TV PY
-https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="🎵 MÚSICA",MEGACLASSIC TV
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
