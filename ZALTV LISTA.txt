@@ -2963,9 +2963,6 @@ https://broker.cdn.rcs.net.ar/mnp/mtv/output.mpd
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/264.png", MTV op2
 https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/153px-MuchMusicLA_%282007%29.svg.png" group-title="🎵 MÚSICA",MUCH MUSIC
-https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
-
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://appnew.megainfoapp.com/files/1/Canal%20CM.png",CM
 https://g1.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
@@ -3015,25 +3012,14 @@ https://archive.org/download/2_20231125_202311/mtvc.m3u8
 #EXTINF:-1 tvg-logo="https://forums.launchbox-app.com/uploads/monthly_2017_12/5a2afa6775212_PlaylistsGraffitiLOGO.png.ecff2a20b53bcdc8c332bce8d4f5992d.png" group-title="🎵 MÚSICA",BOX PLAYLIST
 https://d3e900fnvjyq99.cloudfront.net/d/BKFNLVLBL20NVRK6FYE0/hls3/now_-1m_15s/m.m3u8
 
-#EXTINF:-1 tvg-id="MUSICA" tvg-logo="http://1.bp.blogspot.com/-gwu7JNvZndU/U_pVRxpFyrI/AAAAAAAAFuo/NTfMX8Nnutw/s1600/4_Music_logo.svg.png" group-title="🎵 MÚSICA",4 MUSIC TV HD
-https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="MUSICA" tvg-logo="http://1.bp.blogspot.com/-gwu7JNvZndU/U_pVRxpFyrI/AAAAAAAAFuo/NTfMX8Nnutw/s1600/4_Music_logo.svg.png" group-title="🎵 MÚSICA",4 MUSIC TV HD op2
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n6sJp8V/logoradioldtime2-1.png" group-title="🎵 MÚSICA",RADIO OLD TIME
 https://5f700d5b2c46f.streamlock.net/tvoldtime/tvoldtime/chunklist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png",EL GALPON 80
-https://streamlov.alsolnet.com/amplificacion/live/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/r7CYw0t/360PNG.png",HITS 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFvN0zQ/771-Mundo-de-la-Musica-TV.png" group-title="🎵 MÚSICA",MUNDO DE LA MUSICA TV
-https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8
-
+https://tv.streaming-chile.com:1936/mundodelamusica/mundodelamusica/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png", TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
