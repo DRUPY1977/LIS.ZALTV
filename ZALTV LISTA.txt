@@ -3117,6 +3117,9 @@ https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="🎵 MÚSICA",MAGIC TV 
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzSvRJ6X/Logo-Corazon-TV.png" group-title="🎵 MÚSICA",CORAZON TV
+https://sistemastr.tropicalmoonmedia.com/live/F3E90639A2C46800148040AA40756A1E/28.m3u8
+
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
