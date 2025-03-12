@@ -2820,6 +2820,9 @@ https://d27a7brtx3v90o.cloudfront.net/original.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvc.com.ec/wp-content/themes/albavision-theme/parts-web/9212d2e4/logo.png" group-title="EXTRAS",TVC 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Ecuavisa-en-vivo-Online.png" group-title="EXTRAS",ECUAVISA GUAYAQUIL
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream0/chunks_dvr.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N6oOdZc.png" group-title="EXTRAS",COTUBANAMA TV
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
@@ -2835,6 +2838,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7acae1_79bb351050ce4760941788c17a1fc501~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20Conosur.png" group-title="EXTRAS",CANAL 26 CONO SUR JUTIAPA
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pngmart.com/files/23/Telemundo-Logo-PNG.png" group-title="EXTRAS",TELEMUNDO
+https://dmfxzlz63pfyh.cloudfront.net/10508/88886036/hls/master.m3u8?ads.xumo_channelId=88886036
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Latina-TV-en-vivo-Online-2.png" group-title="EXTRAS",LATINA CLASICOS
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
