@@ -857,31 +857,31 @@ http://45.235.37.254/espn3hd/index.m3u8
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 1 🇦🇷
-https://ub009.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub009.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 2 🇦🇷
-https://ub008.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub008.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 3 🇦🇷
-https://ub007.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub007.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 4 🇦🇷
-https://ub006.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub006.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 5 🇦🇷
-https://ub005.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 6 🇦🇷
-https://ub004.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub004.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 7 🇦🇷
-https://ub003.ride.com.ar/tvmia/c07/playlist.m3u8
+https://ub003.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 8 🇦🇷
-https://zammad.ride.com.ar/tvmia/c07/playlist.m3u8
+https://zammad.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 9 🇦🇷
-https://otrs.ride.com.ar/tvmia/c07/playlist.m3u8
+https://otrs.ride.com.ar/tvmia/an32/playlist.m3u8
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports op1 🇦🇷
