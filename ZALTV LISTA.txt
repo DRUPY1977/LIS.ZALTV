@@ -32,6 +32,8 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE alt1
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE alt2
+https://ub008.ride.com.ar/tvmia/an11/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png", EL TRECE
 http://190.11.130.46/mnp/el13/output.mpd
@@ -79,6 +81,14 @@ https://cetl.cdn.rcs.net.ar/mnp/c5n/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/s1600/c5n-2017.png", C5N ext3
 https://uranotv.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION +
+https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op2
+https://otrs.ride.com.ar/tvmia/an14/playlist.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op3
+https://ub008.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",TN 
 http://190.11.130.46/mnp/tn/output.mpd
@@ -105,6 +115,24 @@ http://190.11.130.46/mnp/cnne_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/cnn-en-espanol-new-Logo-Vector.svg-.png",CNN ESPAÑOL op2
 https://cetl.cdn.rcs.net.ar/mnp/cnne/output.mpd
+
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER
+https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op2
+https://otrs.ride.com.ar/tvmia/an18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op3
+https://ub008.ride.com.ar/tvmia/an18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV
+https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op2
+https://otrs.ride.com.ar/tvmia/an42/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op3
+https://ub008.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE
 http://190.11.130.46/mnp/cm/output.mpd
@@ -754,43 +782,6 @@ http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 Arg
 http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1920px-Claro_Sports_logo.svg.png",CLARO SPORTS MX
-http://187.249.112.44:9981/stream/channelid/202489485?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1920px-Claro_Sports_logo.svg.png",CLARO SPORTS MX op2
-http://201.174.162.89:9981/stream/channelid/202489485?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORTS HD MX
-http://187.249.112.44:9981/stream/channelid/885275483?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png",FOX SPORTS HD MX op2
-http://201.174.162.89:9981/stream/channelid/885275483?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tvlibre.org/img/fox-sports-2-mx.png",FOX SPORTS 2 HD MX
-http://187.249.112.44:9981/stream/channelid/1090878414?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tvlibre.org/img/fox-sports-2-mx.png",FOX SPORTS 2 HD MX op2
-http://201.174.162.89:9981/stream/channelid/1090878414?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN MX
-http://187.249.112.44:9981/stream/channelid/607524862?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN MX op2
-http://201.174.162.89:9981/stream/channelid/607524862?profile=pass
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 MX
-http://187.249.112.44:9981/stream/channelid/1893483298?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 MX op2
-http://201.174.162.89:9981/stream/channelid/1893483298?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 MX
-http://187.249.112.44:9981/stream/channelid/390268345?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 MX op2
-http://201.174.162.89:9981/stream/channelid/390268345?profile=pass
-
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 1 CL
 http://45.235.37.254/espnhd/index.m3u8
@@ -1291,13 +1282,6 @@ http://45.172.16.186:9981/stream/channelid/749664233?profile=pass
 http://45.172.16.186:9981/stream/channelid/1123434139?profile=pass
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="ALTERNATIVOS",CANAL 5 MX
-http://201.174.162.82:9981/stream/channelid/1812213255?profile=pass
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/Azteca-7-en-directo-Online.png" group-title="ALTERNATIVOS",AZTECA 7
-http://201.174.162.82:9981/stream/channelid/1717270385?profile=pass
-
-
 #EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA
 http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
@@ -1454,29 +1438,15 @@ https://dsr.ride.com.ar/tvmia/an06/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png",CRONICA TV
 https://dsr.ride.com.ar/tvmia/an10/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION +
-https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png",CANAL 26
 https://dsr.ride.com.ar/tvmia/an15/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/719.png",A24
 https://dsr.ride.com.ar/tvmia/an37/playlist.m3u8  
 
-#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER
-https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op2
-https://otrs.ride.com.ar/tvmia/an18/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1125.png" group-title="ALTERNATIVOS",NEX TV
 https://dsr.ride.com.ar/tvmia/an17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV
-https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op2
-https://otrs.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/12/Metro.png" group-title="ALTERNATIVOS",METRO
 https://dsr.ride.com.ar/tvmia/an43/playlist.m3u8
@@ -1505,73 +1475,78 @@ https://dsr.ride.com.ar/tvmia/an13/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/303.png",PAKA PAKA
 https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png",DEPORTV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png",DEPORTV
 https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8  
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png",DEPORTV op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png",DEPORTV op2
 https://otrs.ride.com.ar/tvmia/an09/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN op2
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN op2
 https://otrs.ride.com.ar/tvmia/an21/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2
 https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2 op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2 op2
 https://otrs.ride.com.ar/tvmia/bn06/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3 op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3 op2
 https://otrs.ride.com.ar/tvmia/an26/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS op2
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS op2
 https://otrs.ride.com.ar/tvmia/an23/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2
 https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2 op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2 op2
 https://otrs.ride.com.ar/tvmia/an24/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS
 https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS op2
 https://otrs.ride.com.ar/tvmia/an60/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/628.png",GOLF
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/628.png",GOLF
 https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS
 https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
  
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS op2
 https://otrs.ride.com.ar/tvmia/bn16/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV
 https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8  
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV op2
 https://otrs.ride.com.ar/tvmia/bn19/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU
 https://dsr.ride.com.ar/tvmia/bn35/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU op2
 https://otrs.ride.com.ar/tvmia/an35/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS
 https://dsr.ride.com.ar/tvmia/bn22/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS op2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS op2
 https://otrs.ride.com.ar/tvmia/bn22/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="DEPORTES",ECDF
+https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-YLVe6I3igQ0/TqBIiqUj41I/AAAAAAAAQgc/_Mpia_yIIpI/s1600/elgaragetv.png" group-title="ALTERNATIVOS",GARAJE TV
 https://dsr.ride.com.ar/tvmia/c02/playlist.m3u8
@@ -1582,9 +1557,6 @@ https://dsr.ride.com.ar/tvmia/c08/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/540_UY.png" group-title="ALTERNATIVOS",PASIONES
 https://dsr.ride.com.ar/tvmia/c09/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="ALTERNATIVOS",ECDF
-https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/190_UY.png" group-title="ALTERNATIVOS",CANAL 4 MONTECARLO
 https://dsr.ride.com.ar/tvmia/c06/playlist.m3u8
