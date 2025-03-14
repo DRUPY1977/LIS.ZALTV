@@ -833,6 +833,12 @@ https://zammad.ride.com.ar/tvmia/an32/playlist.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 9 🇦🇷
 https://otrs.ride.com.ar/tvmia/an32/playlist.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 10 🇦🇷
+https://ub002.ride.com.ar/tvmia/an32/playlist.m3u8
+
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 11 🇦🇷
+https://ub001.ride.com.ar/tvmia/an32/playlist.m3u8
+
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports op1 🇦🇷
 http://201.217.246.177:8000/play/a02u/index.m3u8
@@ -882,12 +888,16 @@ https://ub004.ride.com.ar/tvmia/c07/playlist.m3u8
 https://ub003.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 8 🇦🇷
-https://zammad.ride.com.ar/tvmia/an32/playlist.m3u8
+https://zammad.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 9 🇦🇷
-https://otrs.ride.com.ar/tvmia/an32/playlist.m3u8
+https://otrs.ride.com.ar/tvmia/c07/playlist.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 10 🇦🇷
+https://ub002.ride.com.ar/tvmia/c07/playlist.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 12 🇦🇷
+https://ub001.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷
 http://201.217.246.177:8000/play/a078/index.m3u8
