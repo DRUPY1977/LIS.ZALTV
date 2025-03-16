@@ -3529,8 +3529,15 @@ https://loadbalancer16.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 #EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 1
 https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
 
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 1 op2
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 2 op2
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PY
 https://director.taihotel.asia/v3/director/VE1YzNlODViYzc5NDExLTg4M2EtMzE3NC03MTA0LWJiYWMzMTU0/master.m3u8
@@ -3805,11 +3812,17 @@ https://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op2
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op3
+https://smt-usr-edge02.sensa.com.ar/output/Canal12D/output.mpd
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png",CANAL 10 DE CORDOBA
 https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png",CANAL 10 DE CORDOBA op2
 https://router.cdn.rcs.net.ar/iptelva/ch10cba/output.mpd
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-10-Cordoba-en-vivo-Online.png",CANAL 10 DE CORDOBA op3
+https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE CORDOBA
 https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
@@ -3817,11 +3830,20 @@ https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE CORDOBA op2
 https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE CORDOBA op3
+https://smt-usr-edge02.sensa.com.ar/output/Canal8D/output.mpd
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",TELEFE Rosario
 https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",TELEFE Rosario op2
+https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png",TELEFE SANTA FE
 https://cdn-cirion01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png",TELEFE SANTA FE op2
+https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/BzWdcSt/1650-Alfa-TV.png",ALFA TV
 https://v2.tustreaming.cl/alfatv/tracks-v1a1/mono.m3u8
