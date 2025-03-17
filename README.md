@@ -10,9 +10,6 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_premium.smil/ma
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY op3
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY op3
-http://201.174.162.89:9981/stream/channelid/806339471?profile=pass
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.mpd
 
@@ -21,9 +18,6 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_premium.smil/ma
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS  op3
 http://190.11.225.124:5000/live/venus_sd/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS SD
-http://201.174.162.89:9981/stream/channelid/2072467753?profile=pass
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/12/Hustler_HD.png",HUSTLER
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifest.mpd
