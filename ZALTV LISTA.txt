@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -9,6 +10,9 @@ http://190.11.130.46/mnp/america/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV op2
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV op3
+https://netcoop.cdn.rcs.net.ar/mnp/america/output.mpd
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/2560px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png", TV PUBLICA 
@@ -105,6 +109,8 @@ http://190.11.130.46/mnp/ip/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png",IP NOTICIAS op2
 https://uranotv.cdn.rcs.net.ar/mnp/ip/output.mpd
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png",IP NOTICIAS op3
+https://netcoop.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q9QDfk-tFmk/YGOUgpuobEI/AAAAAAAAWVw/7dppJhlcGhMn0VOdAC3vEvJpHZ5HV14fwCLcBGAsYHQ/w1200-h630-p-k-no-nu/RT.png" group-title="ALTERNATIVOS", RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -430,6 +436,9 @@ http://45.235.37.254/animalplanethd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://beta.directv.com.ar/content/dam/public-sites/channels/1731.png",DISCOVERY TEATER cl
 http://45.235.37.254/discoverytheaterhd/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",DISCOVERY ID cl
+http://45.235.37.254/idhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/232.png", GOURMET
 http://190.11.130.46/mnp/gourmet/output.mpd
@@ -2832,11 +2841,17 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/snt-canal-9-paraguay-logo-9C6C5CBA57-seeklogo.com.png" group-title="EXTRAS",SNT Paraguay op2
 https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8?admin=tvaccion
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/snt-canal-9-paraguay-logo-9C6C5CBA57-seeklogo.com.png" group-title="EXTRAS",SNT Paraguay op3
+https://dp7xchau0hnq3.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="EXTRAS",C9N 
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="EXTRAS",C9N op2
 https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8?admin=tvaccion
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/LOGO_C9N_2022.png" group-title="EXTRAS",C9N op3
+https://d1y0t05eznkmpn.cloudfront.net/index.m3u8
 
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.ibb.co/b3DKd6j/mi-tv-paraguay.png",MI TV PY
 https://rds3.desdeparaguay.net/mitv/mitv/chunklist.m3u8
@@ -3046,6 +3061,9 @@ https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR
 https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR op2
+https://smt-usr-edge02.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="🎵 MÚSICA",MTV CLASSIC US
 https://archive.org/download/2_20231125_202311/mtvc.m3u8
@@ -3664,8 +3682,7 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_SD.smil/manifest
 https://dsr.ride.com.ar/tvmia/sn32/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",EUROSPORT 1 op4 🇪🇸
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_hD.smil/playlist.m3u8
-
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_premium.smil/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",EUROSPORT 2 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_SD.smil/playlist.m3u8 
@@ -3676,6 +3693,9 @@ http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",EUROSPORT 2 op3 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP2.png",EUROSPORT 2 op4 🇪🇸
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_premium.smil/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://virgintelco.es/bundles/app/images/channels/iberalia_200x200.png",IBERALIA TV 🇪🇸
@@ -3707,23 +3727,31 @@ https://ott1.hdlatam.tv/live/taurus_tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png",REAL MADRID TV 🇪🇸
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_premium.smil/index.m3u8
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/index.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png",REAL MADRID TV op2
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_premium.smil/manifest.mpd 
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png",REAL MADRID TV op3
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/FIGHT-TIME-HD/FIGHT-TIME-HD_.png" group-title="DEPORTES",FIGHT TIME 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_premium.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://adminweb.onlycable.es/img/Canale/small/FIGHT-TIME-HD/FIGHT-TIME-HD_.png" group-title="DEPORTES",FIGHT TIME op2 🇪🇸
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:67_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckR2TJL/ADN-MOTO-RACING.png" group-title="DEPORTES",MOTO ADN CHANNEL 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_premium.smil/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ckR2TJL/ADN-MOTO-RACING.png" group-title="DEPORTES",MOTO ADN CHANNEL op2 🇪🇸
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:68_HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/escudo-betis-logo-84386F4F53-seeklogo.com.png" group-title="DEPORTES",VETIS TV 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_HD.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/escudo-betis-logo-84386F4F53-seeklogo.com.png" group-title="DEPORTES",VETIS TV op2 🇪🇸
+https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:62_premium.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://medias.unifrance.org/medias/5/67/148229/format_hd/tve-television-espanola.png",TVE 🇪🇸
 https://loadbalancer16.cdn.rcs.net.ar/mnp/tve/output.mpd
