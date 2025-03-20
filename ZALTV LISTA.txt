@@ -2404,8 +2404,8 @@ https://ott1.hdlatam.tv/live/k1ds_TVNXDRMBXMLSK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="INFANTILES",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk0srgKJ/chinola-tv.png" group-title="INFANTILES",CHINOLA TV
-https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON CLASICO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cartoonclasico/chunks.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN HD 
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
