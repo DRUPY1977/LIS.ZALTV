@@ -2509,14 +2509,6 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 6
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula4.mp4
 
-#EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 7
-https://stream-cdn-iad3.vaughnsoft.net/play/live_a_neflix01.flv?android_vs.ts.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MqSbfr1.png" group-title="CINE 24/7",TERROR MANIA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_terror_mania.flv?android_vs.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6yvnhLM.png" group-title="CINE 24/7",PELIS MANIA
-https://stream-cdn-iad3.vaughnsoft.net/play/live_peliculas_mania.flv?android_vs.ts.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_kids.png" group-title="CINE",FMH Kids
