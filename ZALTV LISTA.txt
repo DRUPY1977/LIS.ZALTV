@@ -1309,9 +1309,6 @@ http://190.211.140.89:8081/SVTranscoder/TELEMUNDOINTabr.stream/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO HD 
 http://190.211.140.89:8081/SVTranscoder/TELEMUNDOabr.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO HD BANTEL
-http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://caribtv.com/wp-content/uploads/2021/07/CANAL-INFANTIL.png" group-title="INFANTILES",CANAL INFANTIL HD 
 http://190.211.140.89:8081/SVTranscoder/CANALINFANTILabr.stream/playlist.m3u8
 
@@ -1589,83 +1586,6 @@ https://dsr.ride.com.ar/tvmia/bn17/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://seeklogo.com/images/L/la-tele-telemundo-canal-12-uruguay-logo-CFCB6A5FEB-seeklogo.com.png",CANAL 12 UY op2
 https://otrs.ride.com.ar/tvmia/bn17/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2
-https://vavoo.to/play/4022001704/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette3.wikia.nocookie.net/logosfake/images/c/ce/Fox_Sports_3_HD_logo.png",FOX SPORTS 3 MX
-https://vavoo.to/play/3537553816/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN
-https://vavoo.to/play/2939432470/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/622.png",ESPN 2
-https://vavoo.to/play/349823389/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/movistar-logo.png",MOVISTAR F1
-https://vavoo.to/play/1826839470/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ALTERNATIVOS",MOVISTAR DEPORTES
-http://45.189.108.146:1935/Bantel/liga/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="ALTERNATIVOS",MOVISTAR DEPORTES op2
-http://bantel-cdn1.iptvperu.tv:1935/Bantel/liga/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png" group-title="ALTERNATIVOS",AMC SD
-http://190.83.2.172:6001/stream/channelid/986135630?profile=pass
-
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-UxpaUbd7fCg/WlGTFlQDqMI/AAAAAAAAAno/aW7SxH0bHlo47_C-D6y3VHQ-O-2UMkqZQCLcBGAs/s1600/beatbox-logo.png" group-title="ALTERNATIVOS",BEATBOX SD
-http://190.83.2.172:6001/stream/channelid/494850322?profile=pass
-
-#EXTINF:-1  tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/02/CineMexicano_Logo.png" group-title="ALTERNATIVOS",CINE MEXICANO
-http://190.83.2.172:6001/stream/channelid/1058919765?profile=pass
-
-#EXTINF:-1  tvg-logo="http://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" group-title="ALTERNATIVOS",FILM&ARTS
-http://190.83.2.172:6001/stream/channelid/1657224666?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1232.png" group-title="ALTERNATIVOS",GOURMET
-http://190.83.2.172:6001/stream/channelid/1228670798?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/221.png" group-title="ALTERNATIVOS",HOLA TV SD
-http://190.83.2.172:6001/stream/channelid/781218981?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/230.png" group-title="ALTERNATIVOS",MASCHIC
-http://190.83.2.172:6001/stream/channelid/2086966756?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/644.png" group-title="ALTERNATIVOS",NBA SD
-http://190.83.2.172:6001/stream/channelid/1411984359?profile=pass
-
-#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png" group-title="ALTERNATIVOS",PANICO HD 
-http://190.83.2.172:6001/stream/channelid/963593432?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/225.png" group-title="ALTERNATIVOS",PASIONES SD
-http://190.83.2.172:6001/stream/channelid/599290385?profile=pass
-
-#EXTINF:-1  tvg-logo="https://ugi.mx/web/image/1968-87c32e84/300-33%2C%2033%20(CINEMA%20PLATINO%202).svg" group-title="ALTERNATIVOS",PLATINO 2
-http://190.83.2.172:6001/stream/channelid/1357950876?profile=pass
-
-#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png" group-title="ALTERNATIVOS",PLATINO HD
-http://190.83.2.172:6001/stream/channelid/1245555696?profile=pass
-
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/TVC_Deportes.png/revision/latest?cb=20151111050623" group-title="ALTERNATIVOS",TVC DE LAY
-http://190.83.2.172:6001/stream/channelid/1759861672?profile=pass
-
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/TVC_Deportes.png/revision/latest?cb=20151111050623" group-title="ALTERNATIVOS",TVC DEPORTES HD
-http://190.83.2.172:6001/stream/channelid/1109170389?profile=pass
-
-#EXTINF:-1  tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/TVC_Deportes.png/revision/latest?cb=20151111050623" group-title="ALTERNATIVOS",TVC MNMX
-http://190.83.2.172:6001/stream/channelid/1831353230?profile=pass
-
-#EXTINF:-1  tvg-logo="https://www.megacable.com.mx/images/canales/thumbs/1142_tvc-deportes-2.png" group-title="ALTERNATIVOS",TVC DEP 2 HD
-http://190.83.2.172:6001/stream/channelid/940957566?profile=pass
-
-#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/video_rola-mediano.png" group-title="ALTERNATIVOS",VIDEOROLA SD
-http://190.83.2.172:6001/stream/channelid/1489816823?profile=pass
-
-
 
 #EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV 
 https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
@@ -1689,10 +1609,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV 
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s
