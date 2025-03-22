@@ -1,12 +1,7 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://i.ibb.co/vqh35pC/SIN-LOGO.gif",INFO-SERVICIO ZALTV de 10 hs a 00 hs arg
 https://fl1002.bozztv.com/ssh101/btvdigital/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.ibb.co/pr2jFt2H/el-nuevo-logo-de-gran-hermano-jpg-215279816.png",GH 2025
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/granhermano/chunks.m3u8
-
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV 
 http://190.11.130.46/mnp/america/output.mpd
@@ -443,6 +438,9 @@ http://45.235.37.254/discoverytheaterhd/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",DISCOVERY ID cl
 http://45.235.37.254/idhd/index.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.pinimg.com/originals/a5/6d/35/a56d355f1889e3559604227a6ca5124b.png",E! Entertainment
+http://190.11.130.46/mnp/eent/output.mpd
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/232.png", GOURMET
 http://190.11.130.46/mnp/gourmet/output.mpd
 
@@ -744,8 +742,11 @@ https://director.taihotel.asia/v3/director/VE1MWM2MThkNjM2Njk0LTllMGEtZjMxNC0wYz
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU 
 https://director.taihotel.asia/v3/director/VE1ZWE4M2VlNjcxMzk3LTZiM2ItODExNC04ZWRjLTg3Y2MwMzFl/master.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://clipground.com/images/bein-sports-logo-png-12.png",BEIN SPORTS Ñ
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://clipground.com/images/bein-sports-logo-png-12.png",BEIN SPORTS Ñ
 https://director.taihotel.asia/v3/director/VE1YTQ0YjY2YTVkMTY5LTJmNzktZDNmNC02MjE5LTM4OWZmOGIw/master.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT INTER HD
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NTNkNjYzYWExYmU1LWVjMDgtMDQ2NC1kMDA1LTQ1MTE5YjBl/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
 http://45.172.16.186:9981/stream/channelid/676727849?profile=pass
@@ -2079,10 +2080,10 @@ http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV
-https://g4.mc-slo.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
+https://g4.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV op2
-http://g5.vxral-hor.transport.edge-access.net/a06/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
+https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all//Playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV
 http://45.172.16.186:9981/stream/channelid/1374059852?profile=pass
