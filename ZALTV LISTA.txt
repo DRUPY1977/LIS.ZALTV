@@ -1335,6 +1335,11 @@ http://190.211.140.89:8081/SVTranscoder/CITYTVabr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ALTERNATIVOS",TNT NOVELAS
 http://190.211.140.89:8081/SVTranscoder/TNTNOVELASabr.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ALTERNATIVOS",TNT NOVELAS cl
+http://45.235.37.254/tntnovelas/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png" group-title="ALTERNATIVOS",TLNOVELAS cl
+http://45.235.37.254/tlnovelashd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/215.png" group-title="ALTERNATIVOS",COMEDY CENTRAL
 http://190.211.140.89:8081/SVTranscoder/COMEDYCENTRALabr.stream/playlist.m3u8
@@ -1376,6 +1381,9 @@ https://5eaccbab48461.streamlock.net:1936/8078/8078/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵 MÚSICA",HTV
 http://190.211.140.89:8081/SVTranscoder/HTVabr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵 MÚSICA",HTV cl
+http://45.235.37.254/htv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/264.png" group-title="🎵 MÚSICA",MTV
 http://190.211.140.89:8081/SVTranscoder/MTVabr.stream/playlist.m3u8
@@ -1660,6 +1668,9 @@ http://185.236.229.62:9981/play/a01y
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telecanal_(2011).png" group-title="CHILE",TELECANAL 
 http://45.235.37.254/telecanalhd/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tumundo.cl/wp-content/uploads/2023/09/rec-tv-logo.png" group-title="CHILE",REC TV
+http://45.235.37.254/rectv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tv-plus.png" group-title="CHILE",TV+
 http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -1686,8 +1697,6 @@ http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_p
 
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",Canal 13 op2
 http://45.235.37.254/canal13hd/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",Chilevision HD
@@ -2080,7 +2089,7 @@ http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV
-https://g4.mc-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p/index.m3u8
+https://g3.proy-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_480p.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV op2
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all//Playlist.m3u8?sense=true
