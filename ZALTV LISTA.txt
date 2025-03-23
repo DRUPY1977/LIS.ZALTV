@@ -3998,6 +3998,9 @@ https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.ibb.co/Fx9JJy9/PITUFO-TVPNG.png",PITUFO TV op3
 https://jmp2.uk/sam-ESBD130000205.m3u8
 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.ibb.co/Fx9JJy9/PITUFO-TVPNG.png",PITUFO TV op4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1
+
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/09/Angry-Birds-Logo.png" group-title="24/7", Angry Birds 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
@@ -4244,21 +4247,6 @@ https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png",CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-planeta_de_aventuras.estreno.nav_.jpg" group-title="24/7", Planeta de Aventuras
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear_kids_navidad.jpg" group-title="24/7", Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-haz_clic_estreno.navidad.jpg" group-title="24/7", Haz Clic!
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-kids-16x9_navidad.jpg" group-title="24/7", Cine Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-mundo_pequeno-16x9_nav.jpg" group-title="24/7", Mundo Pequeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckcRsS4/BTV-RADIO.png" group-title="RADIOS",BARADERO RADIO DIGITAL
@@ -5407,18 +5395,6 @@ https://d10po0m73eydog.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="CINE", Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="CINE", Canela Clasico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="CINE", Canela Accion Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-
-
-
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://serenotv.com/cargas/2024/08/famypanc-tv.png",FAMYPANCTV
 https://panel.host-live.com:19360/8042/8042.m3u8
 
@@ -6103,10 +6079,6 @@ https://ott2.hdlatam.tv/live_abr/Stream68/playlist.m3u8
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:0 group-title="24/7" tvg-logo="https://logodix.com/logo/1920223.png" ,LOS SIMPSONS 6-10
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
-
-#EXTINF:0 group-title="24/7" tvg-logo="https://pngimg.com/uploads/smurf/smurf_PNG5.png" ,LOS PITUFOS 24/7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1
-
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f6/Nuevo_Tiempo.png" group-title="RELIGIOSOS",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist.m3u8
