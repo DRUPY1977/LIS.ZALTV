@@ -1680,11 +1680,14 @@ https://marine2.miplay.cl/rec/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://estaticos.tvn.cl/skins/web-assets/images/ntv/DESKTOP-LOGO-NTV.png" group-title="CHILE",NTV 
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QMbjjwk/canal-dos-chile.png" group-title="CHILE",CANAL DOS
-https://marine2.miplay.cl/dos/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/78?cb=20211128231238&path-prefix=es" group-title="CHILE",TV MAS 2
+https://marine2.miplay.cl/tateti/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tv-plus.png" group-title="CHILE",TV+
 http://live1.cl.cdn.lla.vtrplay.com/tvplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.entel.cl/public/logos/canales/tv-plus.png" group-title="CHILE",TV+ op2
+https://marine2.miplay.cl/tvmas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/11/TVN-Chile-Logo.png" group-title="CHILE",TVN HD 
 http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
@@ -1719,6 +1722,13 @@ http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profi
 
 #EXTINF:-1 tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE",Chilevision HD op2
 http://45.235.37.254/chvhd/index.m3u8
+
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png",CNN Chile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png",CNN Chile op2
+https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
@@ -5126,13 +5136,6 @@ https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.diosteve.org/wp-content/uploads/2022/04/235403078_2666022853698120_5407670730821234601_n-PhotoRoom-150x150.png" group-title="INFANTILES",DIOS TV KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/TV-mas-Chile-en-vivo-Online.png" group-title="CHILE",TV MAS
-https://marine2.miplay.cl/tvmas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/TV_M%C3%A1s_2_2021.png/revision/latest/scale-to-width-down/78?cb=20211128231238&path-prefix=es" group-title="CHILE",TV MAS 2
-https://marine2.miplay.cl/tateti/playlist.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/3a8fiYY.png" group-title="CHILE",CANAL LATINO SD 
 https://videostream.chileservidores.com:8081/latina/tracks-v1a1/mono.m3u8
 
@@ -5156,13 +5159,6 @@ https://live.obslivestream.com/tvoriente/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h0DHCX4/RTV-CHILE.png" group-title="CHILE",RTV HD Chimbarongo
 https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png",CNN Chile
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-1-1.png",CNN Chile op2
-https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",C 13
