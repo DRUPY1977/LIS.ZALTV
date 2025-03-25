@@ -1,10 +1,16 @@
 #EXTM3U
 
+
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",1
 https://cdn-cirion01.sensa.com.ar/bpk-tv/SensaEventos1/default/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
 https://tvup01.edge.milloh-cs.com/dkissh/dkissh.mpd
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",3
+http://live1.cl.cdn.lla.vtrplay.com/ntvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
