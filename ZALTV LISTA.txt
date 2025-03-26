@@ -1372,13 +1372,6 @@ http://190.211.140.89:8081/SVTranscoder/HISTORYabr.stream/playlist.m3u8
 http://190.211.140.89:8081/SVTranscoder/HISTORY2abr.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-mix-mix-hd-wallpapers-1-1725.png" group-title="🎵 MÚSICA",VIDEOS MIX
-https://5eaccbab48461.streamlock.net:1936/8240/8240/chunklist.m3u8 
-
-#EXTINF:-1 tvg-logo="https://pluspng.com/img-png/png-mix-mix-hd-wallpapers-1-1725.png" group-title="🎵 MÚSICA",VIDEOS MIX 2
-https://5eaccbab48461.streamlock.net:1936/8078/8078/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png" group-title="🎵 MÚSICA",HTV
 http://190.211.140.89:8081/SVTranscoder/HTVabr.stream/playlist.m3u8
 
@@ -1907,48 +1900,7 @@ http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/223.png",ID op2
 http://170.254.18.106/DISCOVERY_ID/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2
-http://170.254.18.106/HBO2/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 op2
-https://streamer1.nexgen.bz/HBO2/tracks-v1a2/mono.m3u8
-
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1534.png",HBO FAMILY
-http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1534.png",HBO FAMILY op2
-http://170.254.18.106/HBO_FAMILY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/526.png",HBO PLUS
-http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/526.png",HBO PLUS op2
-http://170.254.18.106/HBO_PLUS/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/528.png",HBO SIGNATURE
-http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8 
- 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/528.png",HBO SIGNATURE op2
-http://170.254.18.106/HBO_SIG/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/542.png",HBO XTREME
-http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8 
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/542.png",HBO XTREME op2
-http://170.254.18.106/HBO_XTREME/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png",HBO POP
-https://streamer1.nexgen.bz/HBO_POP/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png",HBO POP op2
-http://170.254.18.106/HBO_POP/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png",HBO MUNDI
-https://streamer1.nexgen.bz/HBO_MUNDI/mono.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png",HBO MUNDI op2
-http://170.254.18.106/HBO_MUNDI/mono.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV 
 https://pubads.g.doubleclick.net/ssai/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -2986,7 +2938,8 @@ https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS op2
-https://fl1002.bozztv.com/ssh101/retroplustv/index.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/chunks.m3u8
+
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS op3
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
@@ -2995,7 +2948,7 @@ https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op2
-https://fl1002.bozztv.com/ssh101/retroplustv2/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op3
 https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist.m3u8
@@ -4421,30 +4374,6 @@ https://musicsrc.cvattv.com.ar/RM38
 
 #EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Electrónica
 https://musicsrc.cvattv.com.ar/RM41
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio 80'S
-http://sc-80s.1.fm:7032
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio 50-60
-http://sc-60s.1.fm:7028
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio 80'S (USA)
-http://sc-b280s.1.fm:6950
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Rock Clasico
-http://sc-classrock.1.fm:8206
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Dance
-http://sc-dance.1.fm:3895
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Disco 70-80
-http://sc-disco.1.fm:7020
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Rock
-http://relay.181.fm:8028/
-
-#EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Salsa
-http://relay.181.fm:8098/
 
 #EXTINF:-1 tvg-logo="https://mydataknox.com/repozitorij/2017/06/radio_ikona.png" group-title="RADIOS",Radio Discoteca
 http://listen1.myradio24.com:9000/5967
