@@ -2107,10 +2107,6 @@ https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="RETRO",Kanade HD (Op2)
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsB3DYg/logo-Con-ctate-TV.png" group-title="RETRO",CONECTATE TV
-https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q0bJp30/th.png" group-title="RETRO",TV TICA 
 https://video.misistemareseller.com:1936/tvtica/tvtica/playlist.m3u8
 
@@ -2130,7 +2126,6 @@ https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8106/8106/playlist.m3u8 
 
 
-
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/kBdmmmH/canal-lms-png.png",CANAL LMS
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 
@@ -2138,16 +2133,16 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO MAGICO
-https://ssh101-fl.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/sH74Jn7/TOP-TV-PERU-PNG.png",TOP TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/tZfm76V/RETROPALMARES-PNG.png",RETRO PALMARES
-https://ssh101-fl.bozztv.com/ssh101/tvretropalmares/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/mzGNRS9/TELECLASICA-PNG.png",TELECLASICA
-https://ssh101-fl.bozztv.com/ssh101/teleclasik/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
@@ -2158,14 +2153,11 @@ https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD op3
 https://video06.logicahost.com.br/retropluslive03/retropluslive03/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/LGCh1qB/mega-tv.png",Mega tv Amazonia
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1-1536x597.png",Mega tv Amazonia
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/N3v9x7Z/1607-Santa-Cruz-HD.png",SANTA CRUZ TV
 https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/chunklist.m3u8
-
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/chrtQcXt/1074-Eva-Retro.png",Evavision retro
-https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png",DODO TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
@@ -2326,10 +2318,7 @@ https://jmp2.uk/sam-ESBC4100003WE.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL
-https://fl1002.bozztv.com/ssh101/bigchannel/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL op2
-https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="INFANTILES",Magic Kids TV HD
 https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
@@ -2653,9 +2642,6 @@ https://loadbalancer20.cdn.rcs.net.ar/mnp/filmsarts/output.mpd
 https://router.cdn.rcs.net.ar/mnp/filmsarts_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/st39YDs/logo-Wow-Movies.png" group-title="CINE",WOW Movies SD
-https://ssh101-fl.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/st39YDs/logo-Wow-Movies.png" group-title="CINE",WOW Movies SD (Op2)
 https://giatv.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/BzKsrjT/cinema.png" group-title="CINE",CINEMA +
@@ -2692,7 +2678,7 @@ https://tv.streaming-chile.com:19360/8142/8142.m3u8
 https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MCPjVvX/MAS-CINE-PNG.png" group-title="CINE",+ CINE CLASSIC
-https://glb.bozztv.com/glb/ssh101/mascineclasico/playlist.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="CINE",SONY ONE CINEMA
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
