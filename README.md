@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",1
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(CONCERT_CHANNEL_HD)/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
-https://mcbold.mcgolive.com.uy/SAETA_HD/SAETA_HD_MC.isml/SAETA_HD.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",3
-https://cdn.trimi.com.ar/live/sm-live/FOX__SPORTS__BKP/sa_live_dash/FOX__SPORTS__BKP.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
