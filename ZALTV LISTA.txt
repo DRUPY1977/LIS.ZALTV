@@ -795,6 +795,8 @@ http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 Arg
 http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 op2
+https://director.taihotel.asia/v3/director/VE1NGNiYWIwM2E1ZDRlLTcxYTgtODE2NC03YmVhLTAxMTZiZjFi/master.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 1 CL
 http://45.235.37.254/espnhd/index.m3u8
@@ -811,7 +813,7 @@ http://45.235.37.254/espn3hd/index.m3u8
 https://dsr.ride.com.ar/tvmia/an32/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 1 🇦🇷
-https://ub009.ride.com.ar/tvmia/an32/playlist.m3u8
+https://director.taihotel.asia/v3/director/VE1NzM5OTE0ODEyYTc5LThjMDgtODJmNC1mODRkLTNiZTE1NjM3/master.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 2 🇦🇷
 https://ub008.ride.com.ar/tvmia/an32/playlist.m3u8
