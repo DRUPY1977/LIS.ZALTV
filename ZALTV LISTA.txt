@@ -23,7 +23,7 @@ https://g2.proy-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-2000
 http://190.11.130.46/mnp/elnueve/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", EL NUEVE op2
-https://cetl.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png", EL NUEVE op3
 https://uranotv.cdn.rcs.net.ar/mnp/elnueve/output.mpd
@@ -50,7 +50,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/el13/output.mpd
 http://190.11.130.46/mnp/canal26/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", CANAL 26 op2 
-https://cetl.cdn.rcs.net.ar/mnp/canal26/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", CANAL 26 op3
 https://uranotv.cdn.rcs.net.ar/mnp/canal26/output.mpd
@@ -59,7 +59,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/canal26/output.mpd
 http://190.11.130.46/mnp/a24/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png", A24 ext2
-https://cetl.cdn.rcs.net.ar/mnp/a24/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/A24-logo.svg/1200px-A24-logo.svg.png", A24 ext3
 https://uranotv.cdn.rcs.net.ar/mnp/a24/output.mpd
@@ -68,7 +68,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/a24/output.mpd
 http://190.11.130.46/mnp/cronica/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png", CRONICA TV ext2
-https://cetl.cdn.rcs.net.ar/mnp/cronica/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png", CRONICA TV ext3
 https://uranotv.cdn.rcs.net.ar/mnp/cronica/output.mpd
@@ -78,7 +78,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/cronica/output.mpd
 http://190.11.130.46/mnp/c5n/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/s1600/c5n-2017.png", C5N ext2
-https://cetl.cdn.rcs.net.ar/mnp/c5n/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://3.bp.blogspot.com/-0-kpXE5cdAo/Wc_piezukdI/AAAAAAAABpU/_sry2Rq2mqUApWhEqZ1bkHSfYsrj3dGkgCLcBGAs/s1600/c5n-2017.png", C5N ext3
 https://uranotv.cdn.rcs.net.ar/mnp/c5n/output.mpd
@@ -99,7 +99,7 @@ http://190.11.130.46/mnp/tn/output.mpd
 https://uranotv.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",TN ext3
-https://cetl.cdn.rcs.net.ar/mnp/tn/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://img.ip.digital/sites/default/files/styles/1_1_max_364px/theme/ip_theme/media/ip_logo.png",IP NOTICIAS
 http://190.11.130.46/mnp/ip/output.mpd
@@ -118,7 +118,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://190.11.130.46/mnp/cnne_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vectorseek.com/wp-content/uploads/2023/11/cnn-en-espanol-new-Logo-Vector.svg-.png",CNN ESPAÑOL op2
-https://cetl.cdn.rcs.net.ar/mnp/cnne/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cnne/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER
 https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
@@ -142,7 +142,7 @@ https://ub008.ride.com.ar/tvmia/an42/playlist.m3u8
 http://190.11.130.46/mnp/cm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE op2
-https://cetl.cdn.rcs.net.ar/mnp/cm/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE op3
 https://cetl.cdn.rcs.net.ar/mnp/cm/output.mpd
@@ -187,7 +187,7 @@ http://190.11.130.46/mnp/construiriptv/output.mpd
 https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.ipuntotv.com/IMAGES/Construir-tv-logo.png",CONSTRUIR TV ext3
-https://cetl.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png", ENCUENTRO 
 http://190.11.130.46/mnp/encuentro/output.mpd
@@ -200,7 +200,7 @@ https://broker.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 http://190.11.130.46/mnp/rural/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV op2
-https://cetl.cdn.rcs.net.ar/mnp/rural/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/rural/output.mpd
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://srv00.epimg.net/programacion-tv/iconos/canales/garage.png", GARAGE TV
@@ -220,7 +220,7 @@ http://190.11.130.46/mnp/zoomoo/output.mpd
 https://uranotv.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/321.png",ZOOMOO HD op3
-https://cetl.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/zoomoo/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK 
 http://190.11.130.46/mnp/cartoon/output.mpd
@@ -267,7 +267,7 @@ http://45.235.37.254/discoverykidshd/index.m3u8
 http://190.11.130.46/mnp/nickelodeon/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK op2
-https://cetl.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/308.png", NICK cl
 http://45.235.37.254/nickhd/index.m3u8
@@ -277,7 +277,7 @@ http://45.235.37.254/nickhd/index.m3u8
 http://190.11.130.46/mnp/nickjr/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.ibb.co/ccjVpXP/nick-jr-logo-2023-by-carlosoof10-dg23uz3-fullview.png", NICK JR ext2
-https://cetl.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.ibb.co/ccjVpXP/nick-jr-logo-2023-by-carlosoof10-dg23uz3-fullview.png", NICK JR
 https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
@@ -286,7 +286,7 @@ https://broker.cdn.rcs.net.ar/mnp/nickjr/output.mpd
 http://190.11.130.46/mnp/disney/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/312.png", DISNEY CHANNEL op2
-https://cetl.cdn.rcs.net.ar/mnp/disney/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/disney/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/312.png", DISNEY CHANNEL cl
 http://45.235.37.254/disneyhd/index.m3u8
@@ -295,14 +295,14 @@ http://45.235.37.254/disneyhd/index.m3u8
 http://190.11.130.46/mnp/disneyjr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/315.png" group-title="ALTERNATIVOS",DISNEY JR op2
-https://cetl.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
 http://190.11.130.46/mnp/tooncast/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST MX
-https://cetl.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST cl
 http://45.235.37.254/tooncast/index.m3u8
@@ -359,7 +359,7 @@ http://45.235.37.254/discoveryhd/index.m3u8
 http://190.11.130.46/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC op2
-https://cetl.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC op3
 https://uranotv.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
@@ -368,7 +368,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 http://190.11.130.46/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H op2
-https://cetl.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H op3op3
 https://uranotv.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
@@ -378,7 +378,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 http://190.11.130.46/mnp/dsc_sci/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.pinimg.com/originals/e5/25/ea/e525ea16257d5531bc8f44f4dc25e937.png", DISCOVERY SCIENCE ext2
-https://cetl.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.pinimg.com/originals/e5/25/ea/e525ea16257d5531bc8f44f4dc25e937.png", DISCOVERY SCIENCE ext3
 https://broker.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
@@ -394,7 +394,7 @@ https://broker.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 http://190.11.130.46/mnp/disc_world/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1738.png", DISCOVERY WORLD op2
-https://cetl.cdn.rcs.net.ar/mnp/disc_world/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/disc_world/output.mpd
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1234.png", HGTV
@@ -409,7 +409,7 @@ http://190.11.130.46/mnp/natgeohd/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ALTERNATIVOS",NATGEO HD op2
-https://cetl.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="ALTERNATIVOS",NATGEO HD cl
 http://45.235.37.254/natgeohd/index.m3u8
@@ -418,7 +418,7 @@ http://45.235.37.254/natgeohd/index.m3u8
 http://190.11.130.46/mnp/history/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY ext2
-https://cetl.cdn.rcs.net.ar/mnp/history/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/history/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY ext3
 https://uranotv.cdn.rcs.net.ar/mnp/history/output.mpd
@@ -490,7 +490,7 @@ http://45.235.37.254/dhehd/index.m3u8
 http://190.11.130.46/mnp/foxhd/output.mpd 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png", STAR CHANNEL op2
-https://cetl.cdn.rcs.net.ar/mnp/foxhd/output.mpd 
+https://airsat.cdn.rcs.net.ar/mnp/foxhd/output.mpd 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png", STAR CHANNEL cl
 http://45.235.37.254/starhd/index.m3u8
@@ -499,7 +499,7 @@ http://45.235.37.254/starhd/index.m3u8
 http://190.11.130.46/mnp/warner/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png", WARNER op2
-https://cetl.cdn.rcs.net.ar/mnp/warner/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png", WARNER cl
 http://45.235.37.254/warnerhd/index.m3u8
@@ -508,13 +508,13 @@ http://45.235.37.254/warnerhd/index.m3u8
 http://190.11.130.46/mnp/maschic/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/230.png",MAS CHIC op2
-https://cetl.cdn.rcs.net.ar/mnp/maschic/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/maschic/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/207.png", A&E
 http://190.11.130.46/mnp/ae/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/207.png", A&E op2
-https://cetl.cdn.rcs.net.ar/mnp/ae/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/207.png", A&E cl
 http://45.235.37.254/aehd/index.m3u8
@@ -550,7 +550,7 @@ http://45.235.37.254/sonyhd/index.m3u8
 http://190.11.130.46/mnp/universal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png", UNIVERSAL op2
-https://cetl.cdn.rcs.net.ar/mnp/universal/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png", UNIVERSAL cl
 http://45.235.37.254/universalhd/index.m3u8
@@ -559,7 +559,7 @@ http://45.235.37.254/universalhd/index.m3u8
 http://190.11.130.46/mnp/st_universal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL op2
-https://cetl.cdn.rcs.net.ar/mnp/st_universal/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/st_universal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL cl
 http://45.235.37.254/studiouniversalhd/index.m3u8
@@ -568,13 +568,13 @@ http://45.235.37.254/studiouniversalhd/index.m3u8
 http://190.11.130.46/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png", CINECANAL op2
-https://cetl.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/504.png", TCM
 http://190.11.130.46/mnp/tcm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/504.png", TCM op2
-https://cetl.cdn.rcs.net.ar/mnp/tcm/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/215.png", COMEDY CENTRAL
 http://190.11.130.46/mnp/comedy/output.mpd
@@ -630,7 +630,7 @@ http://45.235.37.254/tnthd/index.m3u8
 http://190.11.130.46/mnp/cinemax/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX op2
-https://cetl.cdn.rcs.net.ar.ar/mnp/cinemax/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX cl
 http://45.235.37.254/cinemaxhd/index.m3u8
@@ -670,7 +670,7 @@ http://190.11.130.46/mnp/tntseries/output.mpd
 http://45.235.37.254/tntserieshd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES op2
-https://cetl.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1572.png",UNIVERSAL CINEMA ESTE HD
 http://177.53.155.236:8000/play/a09f/index.m3u8
@@ -839,12 +839,6 @@ https://zammad.ride.com.ar/tvmia/an32/playlist.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 9 🇦🇷
 https://otrs.ride.com.ar/tvmia/an32/playlist.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 10 🇦🇷
-https://ub002.ride.com.ar/tvmia/an32/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 11 🇦🇷
-https://ub001.ride.com.ar/tvmia/an32/playlist.m3u8
-
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports op1 🇦🇷
 http://201.217.246.177:8000/play/a02u/index.m3u8
@@ -873,7 +867,7 @@ http://138.121.114.34:8000/play/a14i/index.m3u8
 https://dsr.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 1 🇦🇷
-https://ub009.ride.com.ar/tvmia/c07/playlist.m3u8
+https://otrs.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 2 🇦🇷
 https://ub008.ride.com.ar/tvmia/c07/playlist.m3u8
@@ -896,14 +890,6 @@ https://ub003.ride.com.ar/tvmia/c07/playlist.m3u8
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 8 🇦🇷
 https://zammad.ride.com.ar/tvmia/c07/playlist.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 9 🇦🇷
-https://otrs.ride.com.ar/tvmia/c07/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 10 🇦🇷
-https://ub002.ride.com.ar/tvmia/c07/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium HD 12 🇦🇷
-https://ub001.ride.com.ar/tvmia/c07/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷
 http://201.217.246.177:8000/play/a078/index.m3u8
@@ -2912,6 +2898,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",TELE Z TROPICAL
 https://stream.telezeta.cl/live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",TELE Z EVENTOS
+https://content-fls.uplink.lat/TeleZeta/index.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/BKsLrnj2/Whats-App-Image-2025-02-26-at-09-08-47.png",CONEXION TROPICAL TV
 https://ssh101-fl.bozztv.com/ssh101/variado/index.m3u8
