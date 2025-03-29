@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
 
@@ -8,6 +9,7 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_premium.smil/ma
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY op3
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.mpd
@@ -23,6 +25,10 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_HD.smil/manifes
  
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/12/Hustler_HD.png",HUSTLER op2
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:155_premium.smil/manifest.mpd
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/12/Hustler_HD.png",HUSTLER op3
+http://193.111.244.35:7474/hustlerhd/manifest.m3u8
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://redlight.tv/wp-content/uploads/2021/08/bhustler-1920x1080-1.png",BLUE HUSTLER
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.mpd
@@ -81,8 +87,11 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png",PORNOBOX
-https://streamer1.nexgen.bz/HUSTLER_TV/index.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO
+https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV
+https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
