@@ -88,10 +88,16 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO
-https://5f22d76e220e1.streamlock.net/canale10/canale10/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/canale10/canale10/chunk.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO op2
+https://5f22d76e220e1.streamlock.net/canale10/canale10/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV
-https://5f22d76e220e1.streamlock.net/canale7/canale7/playlist.m3u8
+https://5f22d76e220e1.streamlock.net/canale7/canale7/chunk.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV op2
+https://5f22d76e220e1.streamlock.net/canale7/canale7/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
