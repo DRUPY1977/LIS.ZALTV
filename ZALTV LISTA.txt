@@ -981,6 +981,17 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="ACTIVA DEPORTES",ESPN 4 
 http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/espn5.png" group-title="ACTIVA DEPORTES",ESPN 5
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/espn6.png" group-title="ACTIVA DEPORTES",ESPN 6
+http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/espn7.png" group-title="ACTIVA DEPORTES",ESPN 7
+http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png" group-title="ACTIVA DEPORTES",Fox Sports Premium HD
 http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 
@@ -990,16 +1001,16 @@ http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Fox_Sports_2_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/250?cb=20230305144032&path-prefix=es" group-title="ACTIVA DEPORTES",FOX SPORTS 2 HD
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/175px-2015_Fox_sports_logo.svg.png" group-title="ACTIVA DEPORTES",Fox Sports 2 (MX)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxsports2mx.png" group-title="ACTIVA DEPORTES",Fox Sports 2 (MX)
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Fox_Sports_3_%28Argentina%29_2023.png/revision/latest/scale-to-width-down/300?cb=20230305144910&path-prefix=es" group-title="ACTIVA DEPORTES",FOX Sports 3 HD
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/100px-Fox_sports_3_logo.svg.png" group-title="ACTIVA DEPORTES",Fox Sports 3 (MX) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxsports3mx.png" group-title="ACTIVA DEPORTES",Fox Sports 3 (MX) 
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Logo_fox_sports_2012.png" group-title="ACTIVA DEPORTES",Fox Sports MX 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxsportsmx.png" group-title="ACTIVA DEPORTES",Fox Sports MX 
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png" group-title="ACTIVA DEPORTES",TNT Sport Premium HD
@@ -1011,11 +1022,14 @@ http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="ACTIVA DEPORTES",TYC SPORTS HD
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="ACTIVA DEPORTES",Canal Win Sports.#3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/WinSports2022.png/revision/latest/scale-to-width-down/250?cb=20221011165755" group-title="ACTIVA DEPORTES",Win Sports
 http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/wnpls.png" group-title="ACTIVA DEPORTES",Win Sports Plus
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/wnpls.png" group-title="ACTIVA DEPORTES",Win Sports Plus op2
+http://tv.teleclub.xyz/club/server_3/deportes/winsportsplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" group-title="PACK HBO",HBO 
 http://190.11.130.46/mnp/hbo/output.mpd
