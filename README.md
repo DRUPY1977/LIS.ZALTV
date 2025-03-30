@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",TNT Sports  🇦🇷
-https://director.taihotel.asia/v3/director/VE1NzM5OTE0ODEyYTc5LThjMDgtODJmNC1mODRkLTNiZTE1NjM3/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN 4 op2
-https://director.taihotel.asia/v3/director/VE1NGNiYWIwM2E1ZDRlLTcxYTgtODE2NC03YmVhLTAxMTZiZjFi/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",TIGO SPORTS PY
-https://director.taihotel.asia/v3/director/VE1YzNlODViYzc5NDExLTg4M2EtMzE3NC03MTA0LWJiYWMzMTU0/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN DEPORTES
-https://director.taihotel.asia/v3/director/VE1NDhlN2YzY2RmMjFkLTkyNTktNDNkNC02M2Q0LTk1YWVjODEy/master.m3u8
-
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
 
