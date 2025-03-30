@@ -3349,36 +3349,6 @@ https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PY
-https://director.taihotel.asia/v3/director/VE1YzNlODViYzc5NDExLTg4M2EtMzE3NC03MTA0LWJiYWMzMTU0/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS PE
-https://director.taihotel.asia/v3/director/VE1ZjFmZmFjY2FhN2ZjLTJlODgtNzliNC01MTQzLTVhYTk4MjVm/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS EC
-https://director.taihotel.asia/v3/director/VE1NDdkYTc0YTY4MjAyLWJjODgtYTgwNC04YWU4LWU3MDVmYzk3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS CR
-https://director.taihotel.asia/v3/director/VE1NjVkNWFkZDY3ZTk3LTc3OWEtZWQyNC03ZThlLWM2M2UzMWE0/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS LIGA TV
-https://director.taihotel.asia/v3/director/VE1OTA1NzNhMDJmOWIyLTRiYmEtMTdhNC0zMTc0LWNlYThiZGZh/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 3
-https://director.taihotel.asia/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SN4gjZ3QmMlFWOyIWL2E2M40yYxQDNtgzMihTL4YGN2EWNjR2L.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",EVENTOS 4
-https://director.taihotel.asia/v3/director/VE1OGQxZWU4YTdhYjMwLWFkNGItOGRiNC1mMGExLWYxOTBlNWQ3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",DISNEY+
-https://director.taihotel.asia/v3/director/VE1NTEyZGRlMzE1ZGU1LTZkZTgtNDMxNC1hZmZkLTFlZjdhMGE4/master.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",DISNEY+ 2
-https://director.taihotel.asia/v3/director/VE1MzYwOTNhNDY3NDQ5LWRlM2ItOTM4NC1hM2RhLTg1NzFmYjk5/master.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",DISNEY+ 3
-https://director.taihotel.asia/v3/director/VE1MmQ4MDZhN2ZhOWE4LWE1ODgtZDcxNC1jYTZkLWEyNDMyMWY1/master.m3u8
-#EXTINF:-1 tvg-logo="https://archive.org/download/zaltv_202012/zaltv.png" group-title="EVENTOS DEPORTIVOS",DISNEY+ 4
-https://director.taihotel.asia/v3/director/VE1OTRkMjdlNzZjNmU0LTliNWEtZmE0NC0yNTRjLWQzNjU3NDBj/master.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png" group-title="DEPORTES", EVENTOS TyC PLAY 1
 https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
