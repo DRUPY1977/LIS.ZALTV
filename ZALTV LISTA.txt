@@ -1195,8 +1195,11 @@ http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op2
 http://live-zlr1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op2
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op3
 http://live-evg1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op4
+http://38.44.237.132:2080/TeleLima/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO INT HD 
 http://190.211.140.89:8081/SVTranscoder/TELEMUNDOINTabr.stream/playlist.m3u8
