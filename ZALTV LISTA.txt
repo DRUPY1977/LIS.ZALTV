@@ -3643,11 +3643,17 @@ https://cdn-cirion01.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",TELEFE Rosario op2
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",TELEFE Rosario op3
+https://cdn.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png",TELEFE SANTA FE
 https://cdn-cirion01.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png",TELEFE SANTA FE op2
 https://smt-usr-edge02.sensa.com.ar/output/COR/TSFH/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/961/CH_LOGO/800/542/0/0/7886775407228.png",TELEFE SANTA FE op3
+https://cdn.sensa.com.ar/output/COR/TSFH/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/BzWdcSt/1650-Alfa-TV.png",ALFA TV
 https://v2.tustreaming.cl/alfatv/tracks-v1a1/mono.m3u8
@@ -3688,24 +3694,28 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR3/FRYD/output.mpd
 #EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="INTERIOR AR",CANAL COOP 
 https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coop5.com.ar/coop/img/coop/coopnavhead.png" group-title="INTERIOR AR",CANAL COOP op2
+https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="INTERIOR AR", CANAL COOP JUSTINIANO POSSE
 https://smt-usr-edge01.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="INTERIOR AR", CANAL COOP JUSTINIANO POSSE op2
+https://cdn.sensa.com.ar/output/NDS/tvcoopjpH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://coonet.com.ar/public/assets/images/coonet-logo-icono.png" group-title="INTERIOR AR",CANAL COONET TV
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/BRKD/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W5GckXK/TV-COOP-SURDI.png" group-title="INTERIOR AR",TV COOP
-https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://cooperativarioprimero.com.ar/wp-content/uploads/2023/08/Logo-70-Anos-COOP-Sin-Estrellas-750x817.png" group-title="INTERIOR AR",MULTIMEDIOS RIO PRIMERO
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.coelealcira.com.ar/NewSite/wp-content/uploads/2022/03/NMC-ALPHA-1024x467.png" group-title="INTERIOR AR",NEXO SMC MULTIMEDIOS
-https://smt-usr-edge01.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gNOctQDFUb0/WeIZgKZsj4I/AAAAAAAAAw8/8TDcwcveP_4wk2aSUo1DU_PxeLsVx5wWgCLcBGAs/s1600/CPE-TV.png" group-title="INTERIOR AR",CPE TV
@@ -3713,6 +3723,7 @@ https://smt-usr-edge01.sensa.com.ar/output/ARR/SRLPD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="INTERIOR AR",COOPLUS
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="INTERIOR AR",COOPLUS op2
 http://cdn.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
