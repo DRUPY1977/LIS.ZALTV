@@ -87,7 +87,7 @@ https://uranotv.cdn.rcs.net.ar/mnp/c5n/output.mpd
 https://dsr.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op2
-https://otrs.ride.com.ar/tvmia/an14/playlist.m3u8
+https://ub007.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op3
 https://ub008.ride.com.ar/tvmia/an14/playlist.m3u8
@@ -124,7 +124,7 @@ https://airsat.cdn.rcs.net.ar/mnp/cnne/output.mpd
 https://dsr.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op2
-https://otrs.ride.com.ar/tvmia/an18/playlist.m3u8
+https://ub007.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op3
 https://ub008.ride.com.ar/tvmia/an18/playlist.m3u8
@@ -133,7 +133,7 @@ https://ub008.ride.com.ar/tvmia/an18/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op2
-https://otrs.ride.com.ar/tvmia/an42/playlist.m3u8
+https://ub007.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op3
 https://ub008.ride.com.ar/tvmia/an42/playlist.m3u8
