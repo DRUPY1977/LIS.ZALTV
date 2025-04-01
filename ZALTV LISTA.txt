@@ -5222,10 +5222,7 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:256_premium.smil/man
 http://185.189.225.149/tcm/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://seeklogo.com/images/C/canal-tcm-logo-0D3FFB787B-seeklogo.com.png",TCM op2
-https://vavoo.to/play/1868847447/index.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://seeklogo.com/images/C/canal-tcm-logo-0D3FFB787B-seeklogo.com.png",TCM op3
-https://vavoo.to/play/3891466198/index.m3u8
+http://vegafibratv.com:8085/TCM/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/150px-AMC_logo_2016.svg.png",AMC
@@ -5236,6 +5233,9 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:87_HD.smil/manif
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/150px-AMC_logo_2016.svg.png",AMC op3
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil_vxcolon_87_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/150px-AMC_logo_2016.svg.png",AMC op4
+http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT 
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:22_HD.smil/manifest.mpd
@@ -5550,7 +5550,7 @@ https://dsr.ride.com.ar/tvmia/sn06/playlist.m3u8
 https://vavoo.to/play/2660027208/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://seeklogo.com/images/L/la-sexta-logo-1DF4016B31-seeklogo.com.png",LA SEXTA op5
-https://vavoo.to/play/238901671/index.m3u8
+http://185.189.225.150:85/LaSexta/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://vercanalestv.online/wp-content/uploads/2021/10/A3seriesicono-768x524.png",A3S
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:10_HD.smil/manifest.mpd
@@ -5665,7 +5665,7 @@ https://vavoo.to/play/1795451587/index.m3u8
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:83_HD.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",ODISEA op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/smil:83_HD.smil/manifest.mpd
+http://185.189.225.150:85/odisea/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png",NEOX
@@ -5704,7 +5704,7 @@ https://tvnoov.com/fadoo/dmax.m3u8
 https://dsr.ride.com.ar/tvmia/sn16/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",DMAX op3
-https://otrs.ride.com.ar/tvmia/sn16/playlist.m3u8
+https://ub004.ride.com.ar/tvmia/sn16/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/3pDfFjp.png",GOL PLAY
@@ -5714,7 +5714,7 @@ https://tvnoov.com/fadoo/golplayhd.m3u8
 https://dsr.ride.com.ar/tvmia/sn29/playlist.m3u8 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/3pDfFjp.png",GOL PLAY op3
-https://otrs.ride.com.ar/tvmia/sn29/playlist.m3u8
+https://ub004.ride.com.ar/tvmia/sn29/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD
@@ -5727,6 +5727,8 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:9_HD.smil/manifest
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD op3
 https://dsr.ride.com.ar/tvmia/sn04/playlist.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD op4
+http://185.189.225.150:85/CuatroHD/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2499px-Telecinco.svg.png",TELECINCO
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:8_HD.smil/manifest.mpd
@@ -5737,8 +5739,11 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:8_HD.smil/playli
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2499px-Telecinco.svg.png",TELECINCO op3
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX03/b565b804-1b83-46f9-a0e5-635d3f4269c7/manifest.mpd
 
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",ANTENA 3 ESPECIAL
-https://gtechtecnologia.com/telelatino/play/300.m3u8
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2499px-Telecinco.svg.png",TELECINCO op4
+http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",ANTENA 3 HD
+http://185.189.225.150:85/Antena3HD/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",ANTENA 3
 https://dsr.ride.com.ar/tvmia/sn33/playlist.m3u8
@@ -5768,6 +5773,8 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:16_HD.smil/manif
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",FACTORIA DE FICCION op3
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil_vxcolon_16_HD.smil/manifest.mpd
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",FACTORIA DE FICCION op4
+http://185.189.225.150:85/fdf/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.eu-west-1.prod.magine.com/i/salavirtualdecine/l/97612f74-3e7a-4df1-a6fc-3c617cb6d0aa.png" group-title="ESPAÑA",A CONTRA CINE +
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:149_HD.smil/manifest.m3u8
