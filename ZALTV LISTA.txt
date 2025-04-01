@@ -2247,12 +2247,11 @@ https://posadas.cdn.masmediatv.es/SVoriginPacket10/smil:60_HD.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phb1xJK/images-1-removebg-preview.png" group-title="INFANTILES",TALTAL TV
 https://giatv.bozztv.com:443/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="INFANTILES",MAX ANIME
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="INFANTILES",MAX ANIME/TALTAL TV
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JdVqhzc/Logo-Max-Anime.png" group-title="INFANTILES",MAX ANIME (ORIGINAL)
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-
+https://streamlov.alsolnet.com/maxanime/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="INFANTILES",Anime onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8
@@ -2260,12 +2259,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.animeonegai.com/assets/img/anime/general/nlogo.png" group-title="INFANTILES",Anime onegai op2
 https://live-evg1.tv360.bitel.com.pe/bitel/animeOnegai/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES",VariedTV
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="INFANTILES",VariedTV op2
-https://cloud5.streaminglivehd.com:3874/hybrid/play.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="INFANTILES",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -2276,18 +2271,6 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFnvv6K/1604-ZTV-Anime.png" group-title="INFANTILES",Z PLAY ANIME op2
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="INFANTILES",Toonizaki HD
-https://mitv.zplay.cl/ZRetro/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GWw3dbZ/Logo-Toonizaki-Chile.png" group-title="INFANTILES",Toonizaki HD op2
-https://mitv.zplay.cl/ZRetro/video.m3u8?token=D4lm1R0m-tFJES
-
-
-#EXTINF:-1 tvg-logo="https://www.neotv.cl/assets/img/channels/latinokidstv.png" group-title="INFANTILES",LATIDOS KIDS
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.neotv.cl/assets/img/channels/latinokidstv.png" group-title="INFANTILES",LATIDOS KIDS op2
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG.png",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
@@ -2559,8 +2542,14 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kg9GHS1/Gatc-C5b-Wk-AAof2u.png" group-title="CINE",MEGA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co/kg9GHS1/Gatc-C5b-Wk-AAof2u.png" group-title="CINE",MEGA TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",MEGACINE
 https://cnn.hostlagarto.com/megacinetv/mono.m3u8
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png",BOX CINEMA
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 tvg-logo="https://dominicanchannels.com/wp-content/uploads/LOGO-NUEVO-DE-ZONA-VISION-TV.png" group-title="CINE",ZONAVISION
 https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/chunklist.m3u8
