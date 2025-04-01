@@ -630,7 +630,7 @@ http://45.235.37.254/tnthd/index.m3u8
 http://190.11.130.46/mnp/cinemax/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX op2
-https://airsat.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+https://airsat.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX cl
 http://45.235.37.254/cinemaxhd/index.m3u8
@@ -714,52 +714,6 @@ http://45.235.37.254/espnpremiumhd/index.m3u8
 http://45.235.37.254/tntsportshd/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
-http://45.172.16.186:9981/stream/channelid/676727849?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD op2
-http://45.172.16.186:9981/stream/channelid/2114770387?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT 
-http://45.172.16.186:9981/stream/channelid/238286831?profile=pass
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT op2
-http://45.172.16.186:9981/stream/channelid/2027716405?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2
-http://45.172.16.186:9981/stream/channelid/831197609?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2 op2
-http://45.172.16.186:9981/stream/channelid/1320108397?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3
-http://45.172.16.186:9981/stream/channelid/1656558461?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 op2
-http://45.172.16.186:9981/stream/channelid/1932431470?profile=pass
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg
-http://45.172.16.186:9981/stream/channelid/1688445886?profile=pass   
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg op2
-http://45.172.16.186:9981/stream/channelid/1705792905?profile=pass  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg
-http://45.172.16.186:9981/stream/channelid/1235332383?profile=pass 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg op2
-http://45.172.16.186:9981/stream/channelid/1598023054?profile=pass
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg
-http://45.172.16.186:9981/stream/channelid/1991038309?profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg op2
-http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 Arg
-http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 1 CL
 http://45.235.37.254/espnhd/index.m3u8
@@ -1387,43 +1341,43 @@ https://dsr.ride.com.ar/tvmia/an03/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/an09/playlist.m3u8  
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Deportv.svg/512px-Deportv.svg.png",DEPORTV op2
-https://otrs.ride.com.ar/tvmia/an09/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an09/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN
 https://dsr.ride.com.ar/tvmia/an21/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN op2
-https://otrs.ride.com.ar/tvmia/an21/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an21/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2
 https://dsr.ride.com.ar/tvmia/bn06/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/621.png",ESPN 2 op2
-https://otrs.ride.com.ar/tvmia/bn06/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/bn06/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3
 https://dsr.ride.com.ar/tvmia/an26/playlist.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/623.png",ESPN 3 op2
-https://otrs.ride.com.ar/tvmia/an26/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an26/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS
 https://dsr.ride.com.ar/tvmia/an23/playlist.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/605.png",FOX SPORTS op2
-https://otrs.ride.com.ar/tvmia/an23/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an23/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2
 https://dsr.ride.com.ar/tvmia/an24/playlist.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",FOX SPORTS 2 op2
-https://otrs.ride.com.ar/tvmia/an24/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an24/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS
 https://dsr.ride.com.ar/tvmia/an60/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/629.png",TYC SPORTS op2
-https://otrs.ride.com.ar/tvmia/an60/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an60/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/628.png",GOLF
 https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8 
@@ -1432,38 +1386,96 @@ https://dsr.ride.com.ar/tvmia/an45/playlist.m3u8
 https://dsr.ride.com.ar/tvmia/bn16/playlist.m3u8
  
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS op2
-https://otrs.ride.com.ar/tvmia/bn16/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/bn16/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV
 https://dsr.ride.com.ar/tvmia/bn19/playlist.m3u8  
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Scml6pLNA5724RZflblixQAAAA&pid=Api&P=0&h=180",GOL TV op2
-https://otrs.ride.com.ar/tvmia/bn19/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/bn19/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU
 https://dsr.ride.com.ar/tvmia/bn35/playlist.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Gol_Per%C3%BA_2016.svg/revision/latest/scale-to-width-down/1200?cb=20240224034010&path-prefix=es",GOL PERU op2
-https://otrs.ride.com.ar/tvmia/an35/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/an35/playlist.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS
 https://dsr.ride.com.ar/tvmia/bn22/playlist.m3u8 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/2560px-Win_Sports%2B_logo.svg.png",WIN + SPORTS op2
-https://otrs.ride.com.ar/tvmia/bn22/playlist.m3u8
+https://ub005.ride.com.ar/tvmia/bn22/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="DEPORTES",ECDF
 https://dsr.ride.com.ar/tvmia/an53/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://static.elcanaldelfutbol.com/static/logo.png" group-title="DEPORTES",ECDF op2
+https://ub005.ride.com.ar/tvmia/an53/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-YLVe6I3igQ0/TqBIiqUj41I/AAAAAAAAQgc/_Mpia_yIIpI/s1600/elgaragetv.png" group-title="ALTERNATIVOS",GARAJE TV
 https://dsr.ride.com.ar/tvmia/c02/playlist.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
+http://45.172.16.186:9981/stream/channelid/676727849?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD op2
+http://45.172.16.186:9981/stream/channelid/2114770387?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT 
+http://45.172.16.186:9981/stream/channelid/238286831?profile=pass
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT op2
+http://45.172.16.186:9981/stream/channelid/2027716405?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2
+http://45.172.16.186:9981/stream/channelid/831197609?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2 op2
+http://45.172.16.186:9981/stream/channelid/1320108397?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3
+http://45.172.16.186:9981/stream/channelid/1656558461?profile=pass
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 op2
+http://45.172.16.186:9981/stream/channelid/1932431470?profile=pass
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg
+http://45.172.16.186:9981/stream/channelid/1688445886?profile=pass   
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg op2
+http://45.172.16.186:9981/stream/channelid/1705792905?profile=pass  
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg
+http://45.172.16.186:9981/stream/channelid/1235332383?profile=pass 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg op2
+http://45.172.16.186:9981/stream/channelid/1598023054?profile=pass
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg
+http://45.172.16.186:9981/stream/channelid/1991038309?profile=pass
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg op2
+http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 Arg
+http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="ALTERNATIVOS",A3CINE
 https://dsr.ride.com.ar/tvmia/c08/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png" group-title="ALTERNATIVOS",A3CINE op2
+https://ub005.ride.com.ar/tvmia/c08/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/540_UY.png" group-title="ALTERNATIVOS",PASIONES
 https://dsr.ride.com.ar/tvmia/c09/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/540_UY.png" group-title="ALTERNATIVOS",PASIONES op2
+https://ub005.ride.com.ar/tvmia/c09/playlist.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://www.directv.com.uy/content/dam/public-sites/channels/190_UY.png" group-title="ALTERNATIVOS",CANAL 4 MONTECARLO
