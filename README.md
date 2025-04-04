@@ -44,12 +44,6 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO
-http://78.47.224.234/puretaboo/index.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV
-http://93.155.227.38:80/m3u8/private.m3u8
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Pornstar
