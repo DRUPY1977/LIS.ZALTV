@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/789.png",VTV PLUS HD
-https://director.taihotel.asia/v3/director/VE1OWVhZDhiMDA4YmRkLTM0ODgtMWFhNC0zNzhiLWQ2NzI1ZDFi/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS COL
-https://director.taihotel.asia/v3/director/VE1ZjQ5NzlkM2JhZmI3LTlmMmItZDY0NC01YjY3LTI4MGU3OWU3/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png",DIRECTV SPORTS 2
-https://director.taihotel.asia/v3/director/VE1ZWUyYjMwNGJlMDc5LTU5NzktMjhhNC0wODA3LTEzMWMxOTI0/master.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png",DIRECTV SPORTS+
-https://director.taihotel.asia/v3/director/VE1OTY3OGNlNWM1ODEyLThmN2ItZDljNC0xOGZlLWI2ZTM4NDQ0/master.m3u8
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
@@ -57,16 +45,10 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO
-https://5f22d76e220e1.streamlock.net/canale10/canale10/chunk.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/b5yGV9S1/cento-x-cento-tv-logo.png",CENTO X CENTO op2
-https://5f22d76e220e1.streamlock.net/canale10/canale10/index.m3u8
+http://78.47.224.234/puretaboo/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV
-https://5f22d76e220e1.streamlock.net/canale7/canale7/chunk.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/4nXzBcVV/PINK-CLUB-TV.png",PINK CLUB TV op2
-https://5f22d76e220e1.streamlock.net/canale7/canale7/index.m3u8
+http://93.155.227.38:80/m3u8/private.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
