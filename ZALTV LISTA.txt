@@ -3652,6 +3652,15 @@ https://cdn-cirion01.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/BzWdcSt/1650-Alfa-TV.png",ALFA TV
 https://v2.tustreaming.cl/alfatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES
+https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op2
+https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
+
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op3
+https://smt-usr-edge01.sensa.com.ar/output/c12pos/playlist.m3u8
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png", CANAL 4 DE JUJUY
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist.m3u8
 
@@ -3857,7 +3866,8 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT3/CHTVD/output.mpd
 
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/T5-Satelital-en-vivo-Online.png", T5 SATELITAL
-http://181.209.117.35/hls/t5satelital.m3u8
+http://stream.t5satelital.blog/hls/t5satelital.m3u8
+
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i.ibb.co/0ZgNYv5/QUANTICA-TV-TDA.png",QUANTICA TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
@@ -3873,15 +3883,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png", MULTIVISION HD SALTA
 https://panel.host-live.com/825000/825000/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES
-https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op2
-https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
-
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op3
-https://smt-usr-edge01.sensa.com.ar/output/c12pos/playlist.m3u8
 
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-07.png",CANAL 7 DE SALTA
