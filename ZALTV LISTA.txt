@@ -2008,7 +2008,7 @@ https://origin.dpsgo.com/ssai/event/tc6u4cyBTbKKP4-GEqD6pw/master.m3u8
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/W0wtWCH/DREICOPNG.png", DREIKO TV
-https://cloudvideo.servers10.com:8081/8096/playlist.m3u8
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fs8DdY/Logo-Kanade.png" group-title="RETRO",Kanade HD
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
@@ -2054,12 +2054,6 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD
-https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD op2
-https://scl.edge.grupoz.cl/retroplustvtres/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD op3
 https://video06.logicahost.com.br/retropluslive03/retropluslive03/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1-1536x597.png",Mega tv Amazonia
@@ -2822,23 +2816,16 @@ https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist.m3u8
+https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS op2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/chunks.m3u8
-
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS op3
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op2
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op3
-https://scl.edge.grupoz.cl/retroplustvdos/live/chunklist.m3u8
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 
+https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR
 https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
@@ -2847,16 +2834,10 @@ https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_HD.smil/manifest.mpd
+https://dsr.ride.com.ar/tvmia/sn28/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op2
 http://185.189.225.150:85/HitTV/index.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op3
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:233_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op4
-https://dsr.ride.com.ar/tvmia/sn28/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VH1.png",MTV 00s
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:259_HD.smil/manifest.mpd
