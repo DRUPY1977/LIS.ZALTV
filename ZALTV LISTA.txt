@@ -1499,7 +1499,7 @@ https://otrs.ride.com.ar/tvmia/bn17/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 1 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 🇦🇷
 https://director.taihotel.asia/v3/director/VE1NzM5OTE0ODEyYTc5LThjMDgtODJmNC1mODRkLTNiZTE1NjM3/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 op2
