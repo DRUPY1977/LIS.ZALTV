@@ -2,50 +2,14 @@
 
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_HD.smil/manifest.mpd
-
- #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:221_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY op3
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS 
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_HD.smil/manifest.mpd
-
- #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS  op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:222_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png",VENUS  op3
 http://190.11.225.124:5000/live/venus_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/12/Hustler_HD.png",HUSTLER
 http://193.111.244.35:7474/hustlerhd/manifest.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://redlight.tv/wp-content/uploads/2021/08/bhustler-1920x1080-1.png",BLUE HUSTLER op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://redlight.tv/wp-content/uploads/2021/08/bhustler-1920x1080-1.png",BLUE HUSTLER op3
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge5/smil:181_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/private-tv-logo.png",PRIVATE HD
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil_vxcolon_156_HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/private-tv-logo.png",PRIVATE HD op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil:156_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/private-tv-logo.png",PRIVATE HD op3
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil:156_HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-A_xa5pd09ak/W8tGyT3WKDI/AAAAAAAAE4w/BpdJLvW0o88oxF-FSQcWtNbKQU9ecgywwCLcBGAs/s640/redlight.png",RED LIGHT HD
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil_vxcolon_157_HD.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-A_xa5pd09ak/W8tGyT3WKDI/AAAAAAAAE4w/BpdJLvW0o88oxF-FSQcWtNbKQU9ecgywwCLcBGAs/s640/redlight.png",RED LIGHT HD op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil:157_premium.smil/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://1.bp.blogspot.com/-A_xa5pd09ak/W8tGyT3WKDI/AAAAAAAAE4w/BpdJLvW0o88oxF-FSQcWtNbKQU9ecgywwCLcBGAs/s640/redlight.png",RED LIGHT HD op3
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX04/smil:157_HD.smil/manifest.mpd
 
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://pnghq.com/wp-content/uploads/pnghq.com-brazzers-new-logo-png-wit-6.png",BRAZZERS EUROPE
