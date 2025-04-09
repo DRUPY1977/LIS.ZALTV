@@ -1996,9 +1996,6 @@ https://srv2.zcast.com.br/chamame/chamame/chunklist.m3u8
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://1.bp.blogspot.com/-Dtzw9n3DOtA/YC__fv9SzaI/AAAAAAAA8Lk/9_2dKEO7SckqsiokeJsAaEvQvO_WfXa8wCLcBGAsYHQ/s719/Arg-Sat.png", ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://1.bp.blogspot.com/-Dtzw9n3DOtA/YC__fv9SzaI/AAAAAAAA8Lk/9_2dKEO7SckqsiokeJsAaEvQvO_WfXa8wCLcBGAsYHQ/s719/Arg-Sat.png", ARGENTINISIMA SATELITAL
-https://streamstat.net/play.cgi?sid=726016704&ext=embed.m3u8
-
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://vignette3.wikia.nocookie.net/dreamlogos/images/2/29/Canal%2B_Latino_1990.png",LATINO CLASSIC TV
 https://origin.dpsgo.com/ssai/event/tc6u4cyBTbKKP4-GEqD6pw/master.m3u8
 
@@ -2062,9 +2059,6 @@ https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/chunklist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://cdn.m3u.cl/logo/1622_Dodo_TV.png",DODO TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://archive.org/download/tv-y-tv-png/TV-Y-TV-PNG.png" group-title="RETRO", TV y TV
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.imgur.com/bUNLWDP.png",TELESISTEMA 
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
@@ -2316,6 +2310,16 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmh.la/images/team/logo_movies.png" group-title="CINE",FMH Movies op3
 https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE",CINE BLUB
+https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE",CINE BLUB op2
+https://live-zlr1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzF5nkv2/CINECLUB-TV.png" group-title="CINE",CINE BLUB op3
+https://live-evg1.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8
+
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png",DHE HD
 https://loadbalancer16.cdn.rcs.net.ar/mnp/dhe/output.mpd
@@ -2762,8 +2766,11 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573080179238563840/xsxKaNdz.png" group-title="RETRO",RTV ON LINE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RHX1dyh/GZXu-Xc-QXEAAvn-NL.png" group-title="RETRO",RTV ON LINE
 https://ssh101.bozztv.com/ssh101/retrotvcr/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RHX1dyh/GZXu-Xc-QXEAAvn-NL.png" group-title="RETRO",RTV ON LINE op2
+https://retromusictv.streamtech.com.co:5443/retromusic/streams/zNDymkVySau6UBcU381637625188.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/d2rYsxC/TVSRETRO-TV.png",TVS 
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
@@ -3303,6 +3310,12 @@ https://amg01412-xiaomiasia-frecuencianovelas-xiaomi-hnlgr.amagi.tv/playlist/amg
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/11/NOVELAS_TV_LOGO_ROUGE.png",TODO NOVELAS op2
 https://jmp2.uk/sam-ESBC43000013T.m3u8
 
+#EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://i.ibb.co/8LRkn9s0/NOVELAS-INOLVIDABLES.png",NOVELAS INOLVIDABLES
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://i.ibb.co/drkZ3Rc/todo-novelas-mas-pasiones.png",TODO NOVELAS, MÁS PASIONES
+https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
+
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/azcorazon.png", AZ CORAZON 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
@@ -3423,12 +3436,6 @@ https://posadas.cdn.masmediatv.es/SVoriginPacket15/smil:161_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="DEPORTES",ITV Deportes op2
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-
-#EXTINF:-1 tvg-logo="https://villarrealcf.es/wp-content/uploads/2023/07/Logo-HYPERMOTION.png" group-title="DEPORTES",LA LIGA HYPERMOTION
-https://director.taihotel.asia/v3/director/VE1Yjk3NGExZTE2YjY3LTEyMWEtN2Y3NC00NTFhLTkxYjY3MGQx/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://villarrealcf.es/wp-content/uploads/2023/07/Logo-HYPERMOTION.png" group-title="DEPORTES",LA LIGA HYPERMOTION 2
-https://director.taihotel.asia/v3/director/VE1MGIzNDJkZjk5Mjg1LTU2NGEtOTUxNC00OWJiLTQ3MTczMGE4/master.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ESP.png",EUROSPORT 1 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
@@ -4126,6 +4133,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunk
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/ATV_Logo_2018.png" group-title="PERU",ATV + op3
 https://d1svme839xkbsn.cloudfront.net/original.m3u8
+
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="PERU",UNITEL
+https://live-evg25.tv360.bitel.com.pe/bitel/uniteltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://integraciones.unitel.bo/unitel/v2-resources/vu/img/logo-unitel.png" group-title="PERU",UNITEL op2
+https://live-evg1.tv360.bitel.com.pe/bitel/uniteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cecotvapia.com/wp-content/uploads/2020/08/ATV_Sur_-_2018_logo_final-2048x638.png" group-title="PERU",ATV SUR
 https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
