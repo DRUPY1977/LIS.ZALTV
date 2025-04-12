@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PAMC
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",Sudance TV
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",AMC Break
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8
+
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
