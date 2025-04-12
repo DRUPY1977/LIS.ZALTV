@@ -19,6 +19,14 @@ http://170.254.18.108/ESPN_DEPORTES/mono.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX Deportes
 http://170.254.18.108/FOX_DEPORTES/mono.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F1
+http://185.189.225.151:85/natgeowild/index.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F2
+http://185.189.225.151/comedycentral/index.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F3
+http://185.189.225.151:85/comedycentral/index.m3u8
+
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
