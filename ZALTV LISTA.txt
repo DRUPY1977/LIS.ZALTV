@@ -3218,6 +3218,9 @@ https://d5ts03kapml2e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",CURIOSITY STREAM ANIMALES
 https://d2j2obpavpuw3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2lm9m9ato2sbu/CuriosityAnimales.m3u8
 
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",Fibwi (variedad)
+https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
+
 
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png", KANAL D
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -4996,7 +4999,7 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="INFANTILES",Gogoplay SD
-https://fl1003.bozztv.com/ssh101/gogoplay/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="INFANTILES",Gogoplay Max
 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
