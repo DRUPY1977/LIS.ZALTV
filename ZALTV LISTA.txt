@@ -5302,7 +5302,7 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil_vxcolon_87_HD.sm
 http://vegafibratv.com:8085/AMC/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT 
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:22_HD.smil/manifest.mpd
+http://vegafibratv.com:8085/Paramount/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT op2
 https://ub004.ride.com.ar/tvmia/sn20/playlist.m3u8
@@ -5435,7 +5435,7 @@ http://185.189.225.150:85/syfy/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.freeshot.live/upload/source/Canal-Hollywood-logo.png",HOLLYWOOD
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:82_HD.smil/manifest.mpd
+http://185.189.225.150:85/Hollywood/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.freeshot.live/upload/source/Canal-Hollywood-logo.png",HOLLYWOOD op2
@@ -5560,11 +5560,11 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:264_HD.smil/manifest
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",BABY TV
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:262_premium.smil/manifest.mpd
+http://vegafibratv.com:8085/BabyTV/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",BABY TV op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:262_HD.smil/manifest.mpd
+http://185.189.225.150:85/BabyTV/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NICKJR.png",NICK JR
@@ -5688,10 +5688,10 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:258_HD.smil/manifest.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",NAT GEO 
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/index.m3u8
+http://185.189.225.150:85/NationalGeographic/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/NATGEO.png",NAT GEO op2
-https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge/smil:257_HD.smil/manifest.mpd
+http://vegafibratv.com:8085/NationalGeographic/index.m3u8
 
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://2.bp.blogspot.com/-_IQkt879ckY/UOCpwOb3-JI/AAAAAAAABwk/gZ5ia1AhMQ4/s1600/canal%2Bde%2Bhistoria.png",HISTORIA
