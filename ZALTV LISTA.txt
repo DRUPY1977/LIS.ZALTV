@@ -1519,13 +1519,19 @@ http://185.236.229.62:9981/play/a066
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s op2
 http://185.189.225.157/MTV00s/index.m3u8
-
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s op3
+http://185.189.225.149:85/MTV00s/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png",MTV 90s
+http://185.189.225.150:85/MTV90s/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png",MTV 90s op2
 http://185.236.229.62:9981/play/a07f
 
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.connecttv.se/app/uploads/2020/10/channel_logo_mtv_80s-1600x1920.png",MTV 80s
+http://185.189.225.150:85/MTV80s/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.connecttv.se/app/uploads/2020/10/channel_logo_mtv_80s-1600x1920.png",MTV 80s op2
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.connecttv.se/app/uploads/2020/10/channel_logo_mtv_80s-1600x1920.png",MTV 80s op2
@@ -1547,6 +1553,8 @@ http://109.233.89.166/MTV_Hits/mono.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NICK MUSIC
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Club_MTV.png" group-title="ALTERNATIVOS", MTV Club
+http://185.189.225.150:85/MTVClub/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/4fun-dance-logo.png",4Fun Dance    
 http://185.236.229.62:9981/play/a020
