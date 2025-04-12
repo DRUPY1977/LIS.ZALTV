@@ -1,33 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PAMC
-https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",Sudance TV
-https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:88_HD.smil/manifest.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",AMC Break
-https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN
-http://170.254.18.109/ESPN/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN2
-http://170.254.18.109/ESPN2/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN U
-http://170.254.18.108/ESPNU/mono.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN Deportes
-http://170.254.18.108/ESPN_DEPORTES/mono.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX Deportes
-http://170.254.18.108/FOX_DEPORTES/mono.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F1
-http://185.189.225.151:85/natgeowild/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F2
-http://185.189.225.151/comedycentral/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",F3
-http://185.189.225.151:85/comedycentral/index.m3u8
-
-
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
