@@ -1509,10 +1509,18 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/ATV%20Plus.png" group-title="PERU",ATV PLUS op2
 https://live-evg1.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png" group-title="PERU",ANTENA UNO
+https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV 
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV Peru
+https://live-evg25.tv360.bitel.com.pe/bitel/agro/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV Peru
+https://live-evg1.tv360.bitel.com.pe/bitel/agro/chunks.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s
 http://185.236.229.62:9981/play/a066
