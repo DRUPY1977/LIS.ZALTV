@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT2
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT3
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
+https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FOX_Sports_HD/SA_HLS/FOX_Sports_HD.m3u8
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
