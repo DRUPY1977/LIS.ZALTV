@@ -1101,14 +1101,23 @@ http://45.172.16.186:9981/stream/channelid/749664233?profile=pass
 http://45.172.16.186:9981/stream/channelid/1123434139?profile=pass
 
 
-#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="PERU",TELELIMA
 http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op2
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="PERU",TELELIMA op2
 http://live-zlr1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="ALTERNATIVOS",TELELIMA op3
+#EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="PERU",TELELIMA op3
 http://live-evg1.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wkvGQYs/473110599-1175587244576261-3955779030935830624-n.png" group-title="PERU",TV+ CHINCHA
+https://live-evg25.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wkvGQYs/473110599-1175587244576261-3955779030935830624-n.png" group-title="PERU",TV+ CHINCHA op2
+http://live-zlr1.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4wkvGQYs/473110599-1175587244576261-3955779030935830624-n.png" group-title="PERU",TV+ CHINCHA op3
+http://live-evg1.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO INT HD 
