@@ -12,7 +12,11 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
 https://delivery.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
+https://delivery.cdn.rcs.net.ar/mnp/volver_hls/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",Espn 
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FOX_Sports_HD/SA_HLS/FOX_Sports_HD.m3u8
 
