@@ -1429,24 +1429,25 @@ https://ub004.ride.com.ar/tvmia/bn17/playlist.m3u8
 https://ub005.ride.com.ar/tvmia/bn17/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
-http://45.172.16.186:9981/stream/channelid/676727849?profile=pass
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/1378
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD op2
 http://45.172.16.186:9981/stream/channelid/2114770387?profile=pass
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT 
-http://45.172.16.186:9981/stream/channelid/238286831?profile=pass
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6845
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT op2
 http://45.172.16.186:9981/stream/channelid/2027716405?profile=pass
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2
-http://45.172.16.186:9981/stream/channelid/831197609?profile=pass
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6846
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2 op2
 http://45.172.16.186:9981/stream/channelid/1320108397?profile=pass
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3
-http://45.172.16.186:9981/stream/channelid/1656558461?profile=pass
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6847
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3 op2
 http://45.172.16.186:9981/stream/channelid/1932431470?profile=pass
@@ -1466,7 +1467,7 @@ http://45.172.16.186:9981/stream/channelid/1598023054?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg
-http://45.172.16.186:9981/stream/channelid/1991038309?profile=pass
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6848
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg op2
 http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
