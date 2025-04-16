@@ -6,6 +6,8 @@ http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
 http://186.237.99.202:8000/play/AMC/index.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",3
+http://189.85.164.198:2086/live/DISCTUR/720p.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
