@@ -2731,9 +2731,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op3
 https://live-zlr1.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://tvprime.cl/wp-content/uploads/2024/12/TV-PRIME-CELESTE-GIF.gif",TV PRIME CONCERT
-https://vdo.paneldalestream.com:3524/stream/play.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://vectorified.com/image/popcorn-logo-vector-17.png" group-title="EXTRAS",POPCORN CENTRAL
 https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
@@ -2800,9 +2797,6 @@ https://stream.telezeta.cl/live/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",TELE Z EVENTOS
 https://content-fls.uplink.lat/TeleZeta/index.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/BKsLrnj2/Whats-App-Image-2025-02-26-at-09-08-47.png",CONEXION TROPICAL TV
-https://ssh101-fl.bozztv.com/ssh101/variado/index.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TV-png-1024x576.png",MEMORIAS TV
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
@@ -3461,10 +3455,6 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:49_premium.smil/ind
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://www.telecaravaca.com/wp-content/uploads/logos/torole.png",TOROLE TV op2 🇪🇸
 https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:49_premium.smil/manifest.mpd
-
-
-#EXTINF:-1 tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" group-title="DEPORTES",TAURUS TV
-https://ott1.hdlatam.tv/live/taurus_tv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png",REAL MADRID TV 🇪🇸
@@ -5384,6 +5374,7 @@ https://posadas.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:243_HD.smil/manifes
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://decoradosmoya.es/wp-content/uploads/android-icon-192x192-1.png",BOM CINE op2
 http://185.189.225.150:85/BOM/index.m3u8
+
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://decoradosmoya.es/wp-content/uploads/android-icon-192x192-1.png",BOM CINE op3
 https://ub004.ride.com.ar/tvmia/sn25/playlist.m3u8
