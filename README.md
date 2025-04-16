@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",1
+http://186.237.99.202:8000/play/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
+http://186.237.99.202:8000/play/AMC/index.m3u8
+
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
