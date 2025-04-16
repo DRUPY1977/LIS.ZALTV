@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",1
-http://54.39.17.6/eurosport/mono.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:238_HD.smil/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",3
-https://nodep002.service.openstream.es/SVoriginOperatorEdge3/smil:43_HD.smil/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",4
-https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:259_HD.smil/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",5
-http://45.11.56.147:8808/stream?id=1105
-
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
