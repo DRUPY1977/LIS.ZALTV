@@ -1,20 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",Cinemax
-http://170.254.18.106/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",STAR
-http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",HBO POP
-http://170.254.18.109/HBO_POP/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
-
-
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
