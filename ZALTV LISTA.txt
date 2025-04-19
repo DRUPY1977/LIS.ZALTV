@@ -663,20 +663,6 @@ http://45.235.37.254/tntserieshd/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png", TNT SERIES op2
 https://airsat.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1572.png",UNIVERSAL CINEMA ESTE HD
-http://177.53.155.236:8000/play/a09f/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/573.png",UNIVERSAL COMEDY HD
-http://177.53.155.236:8000/play/a094/index.m3u8
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1577.png",UNIVERSAL CRIME HD
-http://177.53.155.236:8000/play/a093/index.m3u8
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE HD
-http://177.53.155.236:8000/play/a090/index.m3u8
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png",UNIVERSAL PREMIERE O HD
-http://177.53.155.236:8000/play/a091/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/575.png",UNIVERSAL REALITY HD
-http://177.53.155.236:8000/play/a092/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png", GOLF CHANNEL 
 http://190.11.130.46/mnp/golf/output.mpd
@@ -1095,6 +1081,8 @@ http://45.172.16.186:9981/stream/channelid/297943583?profile=pass
 http://45.172.16.186:9981/stream/channelid/1454702375?profile=pass
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP SD
 http://45.172.16.186:9981/stream/channelid/1716172358?profile=pass
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP SD op2
+http://45.172.16.186:9981/stream/channel/27ffb4d67891ecd9d716a9a5aa50ef67?profile=pass
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/528.png" group-title="PACK HBO",HBO Signature SD
 http://45.172.16.186:9981/stream/channelid/749664233?profile=pass
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO Xtreme SD
