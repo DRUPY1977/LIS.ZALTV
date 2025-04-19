@@ -14,26 +14,49 @@ http://193.111.244.35:7474/hustlerhd/manifest.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://pnghq.com/wp-content/uploads/pnghq.com-brazzers-new-logo-png-wit-6.png",BRAZZERS EUROPE
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://pnghq.com/wp-content/uploads/pnghq.com-brazzers-new-logo-png-wit-6.png",BRAZZERS EUROPE op2
+http://88.212.7.12/live/test_brazzers_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://logodix.com/logo/1866316.png",DESIRE
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://logodix.com/logo/1866316.png",DESIRE op2
+http://88.212.7.12/live/test_desire_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png",DORCEL TV
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/DORCEL_TV_2012.png",DORCEL TV op2
+http://88.212.7.12/live/test_dorcel_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru",EROX HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru",EROX HD+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru",EROX HD op2
+http://88.212.7.12/live/test_erox_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru",EROXX HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/5/5d/Erox_HD_2.png/revision/latest?cb=20150605110106&path-prefix=ru",EROXX HD op2
+http://88.212.7.12/live/test_eroxxx_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/extasy.png",EXTASY HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://telly.cz/wp-content/themes/telly/dist/images/channel/extasy.png",EXTASY HD op2
+http://88.212.7.12/live/test_extasy_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/babestv-logo.png",BABES TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/babestv-logo.png",BABES TV op2
+http://88.212.7.12/live/test_basbes_hd_hevc/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/zGypGq6/506b681f37e2e1aceff066286c82ee1cde498735.png", LEO HD
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://i.ibb.co/zGypGq6/506b681f37e2e1aceff066286c82ee1cde498735.png", LEO HD op2
+http://88.212.7.12/live/test_leo_hd_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/passion_xxx_logo.png", PassionXXX
 https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
@@ -43,6 +66,10 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD op2
+http://88.212.7.12/live/test_realitykings_sd_hevc/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
