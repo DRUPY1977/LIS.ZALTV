@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png",1
+mms://streamqm.uigc.net/qmusica
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
@@ -44,9 +45,6 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png",HUSTLER SD
-http://190.11.225.124:5000/live/hustler_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
