@@ -70,6 +70,8 @@ http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.freeshot.live/upload/source/Reality-Kings-TV-logo.png", Reality Kings HD op2
 http://88.212.7.12/live/test_realitykings_sd_hevc/playlist.m3u8
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png",ADULTOS +18
+https://autopilot.catcast.tv/content/40381/index.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://lizporno.com/wp-content/themes/ltv2/library/images/logotype.png", Russian
 https://live.adultiptv.net/russian.m3u8
