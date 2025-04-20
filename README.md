@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzQGcNtXXPlROpTGjSZfIeoQgeWAdQgf2jPQKUdaAFg&s" group-title="ADULTOS",ESPN Brasil
-https://tvsmarters.org/espn/video.m3u8
-
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzQGcNtXXPlROpTGjSZfIeoQgeWAdQgf2jPQKUdaAFg&s" group-title="ADULTOS",ESPN 2
-https://tvsmarters.org/espn2/video.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzQGcNtXXPlROpTGjSZfIeoQgeWAdQgf2jPQKUdaAFg&s" group-title="ADULTOS",ESPN 3
-https://tvsmarters.org/espn3/video.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzQGcNtXXPlROpTGjSZfIeoQgeWAdQgf2jPQKUdaAFg&s" group-title="ADULTOS",ESPN 4
-https://tvsmarters.org/espn4/video.m3u8
-
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIzQGcNtXXPlROpTGjSZfIeoQgeWAdQgf2jPQKUdaAFg&s" group-title="ADULTOS",ESPN 5
-https://tvsmarters.org/espn5/video.m3u8
-
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
