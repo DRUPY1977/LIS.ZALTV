@@ -3210,16 +3210,19 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV PELICULAS
-https://seo.tv.bo/tv/IpSEO-TV-4.m3u8
+https://seo.tv.bo/tv/FIpSEO-TV-4.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV
-https://seo.tv.bo/tv/IpSEO-TV-1.m3u8
+https://seo.tv.bo/tv/FIpSEO-TV-1.m3u8
 
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV NOVELAS
-https://seo.tv.bo/tv/IpSEO-TV-3.m3u8
+https://seo.tv.bo/tv/FIpSEO-TV-3.m3u8
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/KzZX3Mn/LOGO-SEO-NOVELAS-PNG.png",SEO TV DEPORTES
+https://seo.tv.bo/tv/FIpSEO-TV-5.1.m3u8
 
 #EXTINF:-1 tvg-logo="https://abyayala.tv.bo/wp-content/uploads/2024/04/MOSCA-BLANCA-OK-308x189.png" group-title="BOLIVIA",ABYA YALA TV HD
-https://seo.tv.bo/tv/IpSEO-TV-8.m3u8
+https://seo.tv.bo/tv/FIpSEO-TV-8.m3u8
 
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",TNT NOVELAS
 https://broker.cdn.rcs.net.ar/mnp/tntnovelas_hls/playlist.m3u8
@@ -4206,8 +4209,6 @@ https://musicsrc.cvattv.com.ar/RDIS
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgYWPF5/FM-VIDA-97-9.png" group-title="RADIOS",FM VIDA 97.9 ROSARIO
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FJIaHQ0kTuE/WGqJPtmGFvI/AAAAAAAAJXs/qGkZfxNfm48RwwLnrCksH159gz6JwKEjQCLcB/s1600/MEGA_Logo_curvas_con_bajada.png" group-title="RADIOS",MEGA 98.3 VIDEO
-https://tvradiozap.eu/tools/yt.m3u8.php/@Mega983FM.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FJIaHQ0kTuE/WGqJPtmGFvI/AAAAAAAAJXs/qGkZfxNfm48RwwLnrCksH159gz6JwKEjQCLcB/s1600/MEGA_Logo_curvas_con_bajada.png" group-title="RADIOS",MEGA 98.3
 https://mega.stweb.tv/mega983/live/chunks.m3u8
@@ -4624,13 +4625,10 @@ https://canal.mediaserver.com.co/live/cinedios.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV 
-https://live.obslivestream.com/xtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV op2
-https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
+https://play.agenciastreaming.com:8081/xtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV PLUS
-https://live.obslivestream.com/xtvplus/tracks-v1a1/mono.m3u8
+https://play.agenciastreaming.com:8081/xtvplus/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="PERU",MEGA TV 
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
