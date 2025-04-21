@@ -1081,8 +1081,7 @@ http://45.172.16.186:9981/stream/channelid/297943583?profile=pass
 http://45.172.16.186:9981/stream/channelid/1454702375?profile=pass
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP SD
 http://45.172.16.186:9981/stream/channelid/1716172358?profile=pass
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP SD op2
-http://45.172.16.186:9981/stream/channel/27ffb4d67891ecd9d716a9a5aa50ef67?profile=pass
+
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/528.png" group-title="PACK HBO",HBO Signature SD
 http://45.172.16.186:9981/stream/channelid/749664233?profile=pass
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO Xtreme SD
@@ -1950,9 +1949,10 @@ http://45.172.16.186:9981/stream/channelid/420180720?profile=pass
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png",ESPN Premium HD
 http://45.172.16.186:9981/stream/channelid/635786642?profile=pass
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD 
+https://g1.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD op2
 http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="INTERIOR AR", CANAL E
@@ -2026,7 +2026,7 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO MAGICO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retromagicochnl/chunks.m3u8
+https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/sH74Jn7/TOP-TV-PERU-PNG.png",TOP TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -2084,7 +2084,16 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11060
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",Canal Anime Onegai 5 HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11061
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",ANIME ONEGAI TV PLUS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",ANIME ONEGAI TV PLUS 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",ANIME ONEGAI TV PLUS 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",ANIME ONEGAI TV PLUS 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME",ANIME ONEGAI TV PLUS 5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Pakapaka-en-vivo-Online-1.png",PAKA PAKA 
@@ -2183,6 +2192,9 @@ https://router.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 #EXTINF:-1 tvg-logo="https://mplay.es/images/2021/kidstv.png" group-title="INFANTILES",DM Kids TV
 https://ott1.hdlatam.tv/live/k1ds_TVNXDRMBXMLSK/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mplay.es/images/2021/kidstv.png" group-title="INFANTILES",DM Kids TV op2
+https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="INFANTILES",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
