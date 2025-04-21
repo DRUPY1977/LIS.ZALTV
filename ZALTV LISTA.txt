@@ -1982,6 +1982,9 @@ https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDY7LY0/CHAMAME-TV-PNG.png" group-title="INTERIOR AR",CHAMAME TV
 https://srv2.zcast.com.br/chamame/chamame/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cVBV6cs/Whats-App-Image-2024-11-25-at-11-42-16.png" group-title="INTERIOR AR",EL FLOLKLORE TV
+https://tvstream.t5satelital.blog/hls/elfolklorico.m3u8
+
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://1.bp.blogspot.com/-Dtzw9n3DOtA/YC__fv9SzaI/AAAAAAAA8Lk/9_2dKEO7SckqsiokeJsAaEvQvO_WfXa8wCLcBGAsYHQ/s719/Arg-Sat.png", ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
