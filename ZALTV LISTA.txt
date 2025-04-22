@@ -2547,6 +2547,12 @@ https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png",BOX CINEMA
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="CINE",CINE DE HORROR
+https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BVk47mx3/horrorvision-logo.png" group-title="CINE",HORROR VISION
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?&ads.xumo_channelId=88883019
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="CINE",MONI TV HD
 https://tv.streaming-chile.com:19360/8134/8134.m3u8
 
@@ -2559,14 +2565,6 @@ https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GvQ2p3t/2q-Jl-Tsa3-KTA70-Th-K4-UAz-H66-J0-MF-2q-Jl-Tp-WH0-K294c6-VTx-Tftt1-GXDk-2q-Jl-URfo-XMh-Jz-NZy799-Hr.png"group-title="CINE",RESTELLI TV CANAL 5 MG
 https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MCPjVvX/MAS-CINE-PNG.png" group-title="CINE",+ CINE CLASSIC
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Zt0PxX/MAS-CINE-PNG.png" group-title="CINE",+ CINE
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-logo="https://terrortv.com/wp-content/uploads/2020/03/terror-tv-logo-v6b.png" group-title="CINE",TERROR TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="CINE",SONY ONE CINEMA
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
@@ -4586,6 +4584,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4VJjCq/flolklore-tv-peru.png" group-title="RETRO",Folklore TV op2
 https://live-zlr1.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4VJjCq/flolklore-tv-peru.png" group-title="RETRO",Folklore TV ON LINE
+https://tv.folkloretv.pe/folkloretv/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="PERU",TV COSMOS
 https://ott1.hdlatam.tv/live/tvcosmos/playlist.m3u8
