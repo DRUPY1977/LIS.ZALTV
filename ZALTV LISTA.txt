@@ -35,7 +35,7 @@ https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild1.
 https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_(nuevo_logo).png", TELEFE alt2
-https://ub008.ride.com.ar/tvmia/an11/playlist.m3u8
+https://ub007.ride.com.ar/tvmia/an11/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Canal13_logo.png/800px-Canal13_logo.png", EL TRECE
 http://190.11.130.46/mnp/el13/output.mpd
@@ -84,13 +84,10 @@ https://airsat.cdn.rcs.net.ar/mnp/c5n/output.mpd
 https://uranotv.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION +
-https://ub005.ride.com.ar/tvmia/an14/playlist.m3u8
+https://ub008.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op2
 https://ub007.ride.com.ar/tvmia/an14/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/715.png",LA NACION + op3
-https://ub008.ride.com.ar/tvmia/an14/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",TN 
 http://190.11.130.46/mnp/tn/output.mpd
@@ -121,22 +118,16 @@ http://190.11.130.46/mnp/cnne_hls/playlist.m3u8
 https://airsat.cdn.rcs.net.ar/mnp/cnne/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER
-https://ub005.ride.com.ar/tvmia/an18/playlist.m3u8
+https://ub008.ride.com.ar/tvmia/an18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op2
 https://ub007.ride.com.ar/tvmia/an18/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ALTERNATIVOS", VOLVER op3
-https://ub008.ride.com.ar/tvmia/an18/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV
-https://ub005.ride.com.ar/tvmia/an42/playlist.m3u8
+https://ub008.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op2
 https://ub007.ride.com.ar/tvmia/an42/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/126_AR.png" group-title="ALTERNATIVOS",BRAVO TV op3
-https://ub008.ride.com.ar/tvmia/an42/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png",CIUDAD MAGAZINE
 http://190.11.130.46/mnp/cm/output.mpd
@@ -3843,8 +3834,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist.m3u8
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/06/Canal-9-Multivision-en-vivo-Online.png", MULTIVISION HD SALTA
-https://panel.host-live.com/825000/825000/playlist.m3u8
-
+https://panel.host-live.com:19360/8250/8250.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://canal7salta.com/wp-content/uploads/2017/08/cropped-cropped-LOGO-07.png",CANAL 7 DE SALTA
 https://fl1001.bozztv.com/ssh101/canal7salta/tracks-v1a1/mono.m3u8
