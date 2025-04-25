@@ -309,7 +309,7 @@ http://45.235.37.254/tooncast/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA ext
-http://45.172.16.186:9981/stream/channelid/1250571035?profile=pass
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@quieromusicatv/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD
 http://181.13.173.86:8000/play/a02n/index.m3u8
@@ -638,8 +638,14 @@ http://45.235.37.254/cinemaxhd/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png", GOLDEN HD cl
 http://45.235.37.254/goldenhd/index.m3u8
 
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png",GOLDEN
+http://190.11.225.124:5000/live/golden_sd/playlist.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/517_AR.png",GOLDEN EDGE cl
 http://45.235.37.254/goldenedge/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/517_AR.png",GOLDEN EDGE HD
+http://190.11.225.124:5000/live/golden_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png",GOLDEN PLUS cl
 http://45.235.37.254/goldenplus/index.m3u8
@@ -1613,12 +1619,7 @@ http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png",FX HD op2
 http://170.254.18.106/FX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png",GOLDEN
-http://190.11.225.124:5000/live/golden_sd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/Golden-edge-980x473.png",GOLDEN EDGE
-http://190.11.225.124:5000/live/golden_hd/playlist.m3u8 
-
+ 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png",AXN
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
