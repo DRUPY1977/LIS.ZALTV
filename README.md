@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",1
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",2
+https://spa-ha-p006.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:96_HD.smil/manifest.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
