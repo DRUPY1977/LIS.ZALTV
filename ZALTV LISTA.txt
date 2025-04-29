@@ -2616,12 +2616,9 @@ https://streams.hostuis.com:19360/vcfarbxjam/vcfarbxjam.m3u8
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO
-https://live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op2
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op3
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png",TOP LATINO op2
 https://live-zlr1.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8
 
 
@@ -2716,7 +2713,7 @@ https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1679_VHS.png",VHF MUSIC
-https://tv.streaming-chile.com:19360/8138/8138.m3u8
+https://tv.arkeo.cl:19360/8138/8138.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://ritoquefm.cl/wp-content/uploads/2022/12/rfm-t2022.png",RITOQUE FM TV
 https://v2.tustreaming.cl/unetev/tracks-v1a1/mono.m3u8
@@ -2725,12 +2722,9 @@ https://v2.tustreaming.cl/unetev/tracks-v1a1/mono.m3u8
 https://v2.tustreaming.cl/broadcastingtx/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV
-https://ub006.ride.com.ar/tvmia/sn28/playlist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op2
 http://185.189.225.150:85/HitTV/index.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op3
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.hitstv.com/assets/hits.png",HIT TV op2
 http://185.189.225.149/HitTV/index.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.imgur.com/hNdHExj.png",TECHNO DANCE MUSIC
@@ -2959,7 +2953,7 @@ https://router.cdn.rcs.net.ar/mnp/discovery/output.mpd
 https://loadbalancer20.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY op4
-https://uranotv.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://loadbalancer16.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", DISCOVERY  TLC
 https://loadbalancer16.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
@@ -2983,7 +2977,7 @@ https://loadbalancer16.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 https://router.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H op4
-https://uranotv.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://loadbalancer20.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.pinimg.com/originals/e5/25/ea/e525ea16257d5531bc8f44f4dc25e937.png", DISCOVERY SCIENCE
