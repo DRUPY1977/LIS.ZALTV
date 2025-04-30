@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ADULTOS",1
-http://live1.cl.cdn.lla.vtrplay.com/telefesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png" group-title="ADULTOS",PLAYBOY HD
 http://live1.cl.cdn.lla.vtrplay.com/playboyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
