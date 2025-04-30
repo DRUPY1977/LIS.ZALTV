@@ -998,6 +998,183 @@ http://181.209.114.13:8000/play/a02b/index.m3u8
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT op4
 http://201.217.246.177:8000/play/a02b/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telecanal_(2011).png" group-title="CHILE",TELECANAL SD
+http://live1.cl.cdn.lla.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1734.png" group-title="ALTERNATIVOS",ANIMAL PLANET ext2
+http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1740.png" group-title="ALTERNATIVOS",TLC ext2
+http://live1.cl.cdn.lla.vtrplay.com/disctlchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent.png" group-title="ALTERNATIVOS",LOVE NATURE ext2
+http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1731_AR.png" group-title="ALTERNATIVOS",DISCOVERY THEATER ext2
+http://live1.cl.cdn.lla.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1732.png" group-title="ALTERNATIVOS",DISCOVERY ext2
+http://live1.cl.cdn.lla.vtrplay.com/dischdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png", DISCOVERY H&H ext2
+http://live1.cl.cdn.lla.vtrplay.com/dischhhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO ext2
+http://live1.cl.cdn.lla.vtrplay.com/discoveryturbosdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://i.pinimg.com/originals/e5/25/ea/e525ea16257d5531bc8f44f4dc25e937.png", DISCOVERY SCIENCE ext2
+http://live1.cl.cdn.lla.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1738.png", DISCOVERY WORLD ext2
+http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="ALTERNATIVOS",FOOD NETWORK
+http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV ext2
+http://live1.cl.cdn.lla.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""https://www.directv.com.ar/content/dam/public-sites/channels/312.png group-title="ALTERNATIVOS",DISNEY CHANNEL
+http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/315.png" group-title="ALTERNATIVOS",DISNEY JR ext2
+http://live1.cl.cdn.lla.vtrplay.com/disneyjrsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/330.png" group-title="ALTERNATIVOS",DISCOVERY KIDS ext2
+http://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png" group-title="ALTERNATIVOS",DREAMWORKS
+http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/304.png" group-title="ALTERNATIVOS",CARTOON ext2
+http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/334.png", CARTOONITO ext2
+http://live1.cl.cdn.lla.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD 
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png" group-title="ALTERNATIVOS",AMC ext2
+http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png" group-title="ALTERNATIVOS",WARNER ext2
+http://live1.cl.cdn.lla.vtrplay.com/warnerhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.ipuntotv.com/IMAGES/Az-Cinema-logo.png" group-title="ALTERNATIVOS",AZCINEMA
+http://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.telcocom.com.ar/img/canales/tcm.png" group-title="ALTERNATIVOS",TCM ext2
+http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/A3Cine_chaine.png" group-title="ALTERNATIVOS",A3CINE
+http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/214.png" group-title="ALTERNATIVOS",A3 SERIES
+http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/214.png" group-title="ALTERNATIVOS",A3SERIES
+http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1762.png" group-title="ALTERNATIVOS",ANTENA 3
+http://live1.cl.cdn.lla.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1518.png" group-title="ALTERNATIVOS",SPACE ext2
+http://live1.cl.cdn.lla.vtrplay.com/spacehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1507.png" group-title="ALTERNATIVOS",CINECANAL ext2
+http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png" group-title="ALTERNATIVOS", STAR CHANNEL ext2
+http://live1.cl.cdn.lla.vtrplay.com/starchannelhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png" group-title="ALTERNATIVOS",FX ext2
+http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/502.png" group-title="ALTERNATIVOS",TNT HD ext2
+http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="ALTERNATIVOS",TNT SERIES ext2
+http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="ALTERNATIVOS",TNT NOVELAS ext2
+http://live1.cl.cdn.lla.vtrplay.com/tbshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/219.png" group-title="ALTERNATIVOS",USA ext2
+http://live1.cl.cdn.lla.vtrplay.com/syfyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png" group-title="ALTERNATIVOS",STUDIO UNIVERSAL ext2
+http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo=""https://www.directv.com.ar/content/dam/public-sites/channels/509.png group-title="ALTERNATIVOS",CINEMAX ext2
+http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png" group-title="ALTERNATIVOS",ESPN
+http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png" group-title="ALTERNATIVOS", ESPN 
+http://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png" group-title="ALTERNATIVOS", ESPN 2
+http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png" group-title="ALTERNATIVOS", ESPN 3
+http://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-4-International.png" group-title="ALTERNATIVOS", ESPN 4
+http://live1.cl.cdn.lla.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="ALTERNATIVOS",ESPN 6
+http://live1.cl.cdn.lla.vtrplay.com/foxsports3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/logos-download.com/wp-content/uploads/2016/05/ESPN_logo_wordmark.png" group-title="ALTERNATIVOS",ESPN 7
+http://live1.cl.cdn.lla.vtrplay.com/foxsports2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png" group-title="ALTERNATIVOS",TNT SPORTS
+http://live1.cl.cdn.lla.vtrplay.com/cdfhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" group-title="ALTERNATIVOS",HBO
+http://live1.cl.cdn.lla.vtrplay.com/hbohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png" group-title="ALTERNATIVOS",HBO 2
+http://live1.cl.cdn.lla.vtrplay.com/hbo2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/526.png" group-title="ALTERNATIVOS",HBO PLUS
+http://live1.cl.cdn.lla.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1534.png" group-title="ALTERNATIVOS",HBO FAMILY
+http://live1.cl.cdn.lla.vtrplay.com/hbofamilyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1528.png" group-title="ALTERNATIVOS",HBO SIGNATURE
+http://live1.cl.cdn.lla.vtrplay.com/hbosignaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/542.png" group-title="ALTERNATIVOS",HBO XTREME
+http://live1.cl.cdn.lla.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="ALTERNATIVOS",HBO POP
+http://live1.cl.cdn.lla.vtrplay.com/hbopophdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png" group-title="ALTERNATIVOS",HBO MUNDI
+http://live1.cl.cdn.lla.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/577.png" group-title="ALTERNATIVOS",UNIVERSAL CRIME
+http://live1.cl.cdn.lla.vtrplay.com/universalcrimehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1571.png" group-title="ALTERNATIVOS",UNIVERSAL PREMIERE
+http://live1.cl.cdn.lla.vtrplay.com/universalpremierehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1573.png" group-title="ALTERNATIVOS",UNIVERSAL COMEDY
+http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/572.png" group-title="ALTERNATIVOS",UNIVERSAL CINEMA
+http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/575.png" group-title="ALTERNATIVOS",UNIVERSAL REALITY
+http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="PERU",TELELIMA
 http://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8
@@ -5361,3 +5538,4 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/f/f6/Nuevo_Tiempo.png" group-title="RELIGIOSOS",Nuevo Tiempo
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist.m3u8
+
