@@ -1020,6 +1020,13 @@ http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-5f4dqZkDdX0/WRz0kNAU0FI/AAAAAAAA5k4/b3j1YokZs-g3y-4AhyttQSgTfzWIqnOeACLcB/s1600/logo_foodnetwork.png" group-title="ALTERNATIVOS",FOOD NETWORK
 http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
+
+#EXTINF:-1 tvg-logo="https://vtr.com/cambiodegrilla/img/edye.png" group-title="ALTERNATIVOS",EDYE
+http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://vtr.com/cambiodegrilla/img/PPTV.png" group-title="ALTERNATIVOS",PLIM PLIM
+http://live1.cl.cdn.lla.vtrplay.com/plimplimhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://img3.wikia.nocookie.net/__cb20111201223043/logopedia/images/c/ca/Baby_TV.png", BABY TV ext2
 http://live1.cl.cdn.lla.vtrplay.com/babytvsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -1095,6 +1102,15 @@ http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo=""https://www.directv.com.ar/content/dam/public-sites/channels/509.png group-title="ALTERNATIVOS",CINEMAX ext2
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://vtr.com/cambiodegrilla/img/cine-premium.png" group-title="ALTERNATIVOS",CINE PREMIUM
+http://live1.cl.cdn.lla.vtrplay.com/cinepremiumhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://vtr.com/cambiodegrilla/img/cdo.png" group-title="ALTERNATIVOS",CDO
+http://live1.cl.cdn.lla.vtrplay.com/cdohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-logo="https://vtr.com/cambiodegrilla/img/l1max.png" group-title="ALTERNATIVOS",L1 MAX
+http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png" group-title="ALTERNATIVOS",ESPN
 http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
