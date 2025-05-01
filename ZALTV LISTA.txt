@@ -2229,9 +2229,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9ws93wN/logo-Magic-Kids-TV.png" group-title="INFANTILES",Magic Kids TV HD
-https://giatv.bozztv.com/giatv/giatv-magicplus/magicplus/playlist.m3u8
-
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png",MAGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
@@ -2240,9 +2237,6 @@ https://jmp2.uk/sam-ES5000001CS.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png",PEQUE TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png",PEQUE TV op2
-https://posadas.cdn.masmediatv.es/SVoriginPacket10/smil:60_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/phb1xJK/images-1-removebg-preview.png" group-title="INFANTILES",TALTAL TV
 https://giatv.bozztv.com:443/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
@@ -2279,6 +2273,11 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://tvendirecto.es/wp-content/uploads/tvg-xabarin-en-directo.png" group-title="INFANTILES",TVG Xabarín
 https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvu4AX_QjA98CZ3fgr7RLiBHA7MmGxqFDtXxLwtkcwp9bgCgjIb8SLTh_PBJaagn3IY5PvgzSAXAfMgxLUUBH-aGV4DB-ZxZKZIDgxHsMmBJMA6dEkfTHEXrnobhZ9HZpiEdzd0l_DobcbMLZxVdpvZvsZFcmeewFhCLAEXn5SERCUXuoT8Y1P3P0/s200/watermark.png",BOX KIDS
+https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
+
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.ibb.co/yFtbxGgH/ESBD5100001-G0-20241106-T142201-SQUARE.png",SUPER TOONS
+https://jmp2.uk/sam-ESBD5100001G0.m3u8
 
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.ibb.co/kKfZXH4/SOCCER-3.png",SOCCER 3
 https://cloud2.streaminglivehd.com:1936/8054/8054/playlist.m3u8  
@@ -3227,6 +3226,8 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png",NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8
 
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://guiashistoriadorex.com/wp-content/uploads/2018/10/logo_viajar.png",VIAJAR
+https://dr2t9f8nivbc6.cloudfront.net/hls/HL3SLDA/8AEDE38B77B3/m.m3u8
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://oxigeno.com/OxigenoAppResources/img/vivir/logo.png",OXIGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist.m3u8
@@ -3240,9 +3241,6 @@ https://d5ts03kapml2e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",CURIOSITY STREAM ANIMALES
 https://d2j2obpavpuw3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2lm9m9ato2sbu/CuriosityAnimales.m3u8
-
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",Fibwi (variedad)
-https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8
 
 
 #EXTINF:-1 group-title="TELENOVELAS" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png", KANAL D
@@ -3662,11 +3660,6 @@ https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://linktvcanal.com/wp-content/uploads/2017/07/logo.png",LINK TV 
 https://panel.host-live.com:19360/linktv/linktv.m3u8
 
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyvu4AX_QjA98CZ3fgr7RLiBHA7MmGxqFDtXxLwtkcwp9bgCgjIb8SLTh_PBJaagn3IY5PvgzSAXAfMgxLUUBH-aGV4DB-ZxZKZIDgxHsMmBJMA6dEkfTHEXrnobhZ9HZpiEdzd0l_DobcbMLZxVdpvZvsZFcmeewFhCLAEXn5SERCUXuoT8Y1P3P0/s200/watermark.png",BOX KIDS
-https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.ibb.co/yFtbxGgH/ESBD5100001-G0-20241106-T142201-SQUARE.png",SUPER TOONS
-https://jmp2.uk/sam-ESBD5100001G0.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://www.c5sf.com/wp-content/uploads/2018/07/c5x1.png",C5SF
 https://stream.arcast.com.ar/c5sf/c5sf/chunklist.m3u8
@@ -3861,6 +3854,14 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://i2.paste.pics/613aa0e2776271e48e2cda2aa50daac3.png", BOLIVAR TV 
 https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6CLBvaqAVv4MWR39LniXjCfj4Vi25AL7XNJl7oSVuSloPnCtC9Nf8doLQTjlKL1O1E-SRBXSQ-a2s4R8tB53FOK1cicggEEApgoHVbRTqk-ICLY5I1LVkf4p_nCOeb04raFGwMCQDyxdQWgXIWRwat3hubXmAoOD8qvr4nA0NG-KjrIJoKfwwZonnDD4/w1200-h630-p-k-no-nu/Screenshot_2024-02-10_at_13-14-52_321614056_5933522626734477_3247543616438777848_n.jpg__Imagen_JPEG_200___200_pixels_-removebg-preview.png" group-title="INTERIOR AR", CANAL 4 NOGOYA
+https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="INTERIOR AR" ,TELEDIARIO TV
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/Telediario_Television_Argentina.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="INTERIOR AR",EL 9 LINK
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist.m3u8
@@ -4258,6 +4259,21 @@ https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png",CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2gTYpns/CANAL15-DE-CAMPANA.png" group-title="INTERIOR AR", CANAL 15 DE CAMPANA
+https://play.nexolife.com/canal15/d00176a72283b80d5c8fd05a62c3cbf1.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://4dproducciones.com.ar/wp-content/uploads/2020/10/Mitre.png" group-title="RADIOS",MITRE AM 790
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://radio-argentina.net/uploads/img/radio-del-plata-rosario.jpg" group-title="RADIOS",DEL PLATA 93.5
+https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://elobservador1079.com.ar/wp-content/uploads/2023/04/LOGO-HORIZONTAL-EL-OBSERVADOR.png" group-title="RADIOS", EL OBSERVADOR
+https://cs1.xcast.com.br/7868/7868/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.classfm.com.ar/images/cabecera.png" group-title="RADIOS",CLASS 91.9 FM
+https://tv.streamcasthd.com:3752/live/classfmtvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckcRsS4/BTV-RADIO.png" group-title="RADIOS",BARADERO RADIO DIGITAL
 https://stream-47.zeno.fm/oebvkanziu7vv?zs=pdfy1XJ2ST6Ht-0aCTQpwQ
