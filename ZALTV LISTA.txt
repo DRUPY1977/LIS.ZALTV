@@ -3650,6 +3650,17 @@ https://smt-usr-edge01.sensa.com.ar/output/c12pos/playlist.m3u8
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png", CANAL 4 DE JUJUY
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/El-10-TV-Salta-en-vivo-Online.png" group-title="INTERIOR AR",EL 10 TV
+https://stream1.el10tv.com/memfs/accd8bcb-61b0-416b-bf02-0245cb8267f6_output_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://mosconitv.com.ar/upload/img/canal/signal_7.png" group-title="INTERIOR AR", MOSCONI TV
+https://panel.host-live.com:19360/8126/8126.m3u8
+
+#EXTINF:-1 tvg-logo="https://turoubeenkidswe.weebly.com/uploads/1/2/3/7/123794590/logocanal8rosario2006-2016_orig.png" group-title="INTERIOR AR", CANAL 8 ROSARIO
+https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.tvOuz093oCINknj-HI5duwHaGq&pid=Api&P=0&h=180" group-title="INTERIOR AR",CANAL 14 ELORTONDO
+https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ivisiontv.ar/images/sitio/logo.png" group-title="INTERIOR AR",IVISION TV
 https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8 
