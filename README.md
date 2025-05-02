@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png" group-title="ADULTOS",PLAYBOY HD
-http://live1.cl.cdn.lla.vtrplay.com/playboyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/468.png" group-title="ADULTOS",VENUS SD
-http://live1.cl.cdn.lla.vtrplay.com/venussdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="ADULTOS",SEXTREME SD
-http://live1.cl.cdn.lla.vtrplay.com/sextremesdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
