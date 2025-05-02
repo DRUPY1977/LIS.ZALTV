@@ -1468,9 +1468,6 @@ http://45.172.16.186:9981/stream/channelid/1598023054?profile=pass
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg
-http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6848
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg op2
 http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
 
 
@@ -1478,31 +1475,11 @@ http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
 http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
 
 
-
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV 
-https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV op2
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV op2
-https://live-evg1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/ATV%20Plus.png" group-title="PERU",ATV PLUS
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/ATV%20Plus.png" group-title="PERU",ATV PLUS op2
-https://live-evg1.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png" group-title="PERU",ANTENA UNO
 https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png" group-title="PERU",ANTENA UNO op2
+https://live-evg1.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV 
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
@@ -3873,6 +3850,7 @@ https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="INTERIOR AR" ,TELEDIARIO TV
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/Telediario_Television_Argentina.m3u8
 
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/La_Tele_Tuya.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="INTERIOR AR",EL 9 LINK
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist.m3u8
@@ -4100,25 +4078,22 @@ http://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV HD
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV 
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV op1
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV op2
 http://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV HD op2
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-NhcxmaZtrXM/TYFrmu3o2bI/AAAAAAAAAPc/ORaYDjWtcbY/s1600/america_tv-logo.png" group-title="PERU",AMERICA TV HD op3
+https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV 
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qj/281358/png/panamericana-logo.png" group-title="PERU",PANAMERICANA TV 
 http://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV op2
-http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/panamericana.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV op3
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qj/281358/png/panamericana-logo.png" group-title="PERU",PANAMERICANA TV op2
 https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="http://www.television-peruana.org/wp-content/uploads/2018/10/512px-Panamericana-tv.svg_-273x300.png" group-title="PERU",PANAMERICANA TV op4
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/qj/281358/png/panamericana-logo.png" group-title="PERU",PANAMERICANA TV op3
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/ATV_Logo_2018.png" group-title="PERU",ATV +
@@ -4141,6 +4116,9 @@ https://live-zlr1.tv360.bitel.com.pe/bitel/uniteltv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cecotvapia.com/wp-content/uploads/2020/08/ATV_Sur_-_2018_logo_final-2048x638.png" group-title="PERU",ATV SUR
 https://d3r5ioyjqcy69v.cloudfront.net/original.m3u8
+
+#EXTINF:-1 tvg-logo="https://cecotvapia.com/wp-content/uploads/2020/08/ATV_Sur_-_2018_logo_final-2048x638.png" group-title="PERU",ATV SUR op2
+http://live-zlr1.tv360.bitel.com.pe/bitel/atvsur/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV
 http://live-zlr1.tv360.bitel.com.pe/bitel/atv/playlist.m3u8
@@ -4195,8 +4173,14 @@ https://live-evg1.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VZygvJ-1V1I/VHaA0TDC3AI/AAAAAAAAAYU/jTSQ6WnaitY/s1600/LOGO_TV_PERU_2012.png" group-title="PERU",TV PERU
 https://ott1.hdlatam.tv/live/TVPERU_SD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cvmc2hW/CANAL49-PERU.png" group-title="PERU",CANAL 49 TV  Chiclayo
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VZygvJ-1V1I/VHaA0TDC3AI/AAAAAAAAAYU/jTSQ6WnaitY/s1600/LOGO_TV_PERU_2012.png" group-title="PERU",TV PERU op2
+https://live-evg1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvmc2hW/CANAL49-PERU.png" group-title="PERU",CANAL 49 TV  
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cvmc2hW/CANAL49-PERU.png" group-title="PERU",CANAL 49 TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL
@@ -4208,12 +4192,11 @@ http://live-zlr1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL op3
 https://live-evg25.tv360.bitel.com.pe/bitel/global/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",GLOBAL Bantel
-http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0hQGffF/unnamed.png" group-title="PERU",UCAYALI TV
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0hQGffF/unnamed.png" group-title="PERU",UCAYALI TV op2
+http://live-zlr1.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJjz9c2/canal-tvnorte.png" group-title="PERU",TV NORTE
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
@@ -4222,34 +4205,41 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rtv-logo-7DE2B6599D-seeklogo.com.png" group-title="PERU",RTV REGION NORTE TV
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/rtv-logo.png" group-title="PERU",RTV REGION NORTE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/rtv-logo.png" group-title="PERU",RTV REGION NORTE TV op2
+http://live-zlr1.tv360.bitel.com.pe/bitel/regiontv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Via_Televisi%C3%B3n_logo_Via_TV.png" group-title="PERU",VIA TELEVISION
 https://live-evg2.tv360.bitel.com.pe/cablerasvia/cablerasvia.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png",Vía Alto Mayo Televisión
+#EXTINF:-1 group-title="PERU" tvg-logo="https://www.viaaltomayotv.com/imagenes/logodefault.png",Vía Alto Mayo Televisión
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yn9PQHp/LIKE-TV-PERU.png" group-title="PERU",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn9PQHp/LIKE-TV-PERU.png" group-title="PERU",LIKE TV op3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn9PQHp/LIKE-TV-PERU.png" group-title="PERU",LIKE TV op2
 https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yn9PQHp/LIKE-TV-PERU.png" group-title="PERU",LIKE TV op4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn9PQHp/LIKE-TV-PERU.png" group-title="PERU",LIKE TV op3
 https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",BH TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/BHTV-en-vivo-Online.png" group-title="PERU",BH TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdY2Yj3/TEVESUR.png" group-title="PERU",TEVESUR
 https://live-evg9.tv360.bitel.com.pe/tevesurlive/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu9ePIA3M_tUohDkzOAAHx2EAPItprymLEZPsucg6w=s900-c-k-c0x00ffffff-no-rj" group-title="PERU",AYACUCHO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xSNF0pt7/canal-25-peru.png" group-title="PERU",CANAL 25 AYACUCHO TV
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://radioselvatv.pe/wp-content/uploads/2023/08/LOGO-web.png" group-title="PERU", Radio Selva Televisión
+#EXTINF:-1 tvg-logo="https://radioselvatv.pe/players/nexoplayer/assets/logo.png" group-title="PERU",RADIO SELVA TV
 https://live.obslivestream.com/selvatv/index.m3u8
 
 
@@ -4466,9 +4456,6 @@ https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://www.viaaltomayotv.com/img/select_tv.png" group-title="PERU",VIA ALTOMAYO PE
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://digitalcontent.prensariozone.com/wp-content/uploads/2021/10/Azteca_logo_trans_516x287.png"group-title="EXTRAS",AZTECA INT
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
@@ -4553,10 +4540,6 @@ https://tv.mediacp.eu:8081/coraltv/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://gigavision.tv/wp-content/uploads/2023/04/LOGO-GIGA-CENTRO-2.png" group-title="BOLIVIA",GIGAVISION
 https://tv2.bitstreaming.net:3896/multi_web/play_720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1dkYnGk/RTV-TOTAL-PNG.png" group-title="PERU",RTV TOTAL
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVVNIjogqsVR5jfpJtvTDMCfqBn9Gury_iAQL01d8Cxly1gjHasp_DK1y9fn2gpZ4s_p4u4U07QEHy6bjWQ6IO4J7a7-d3I0dVjtELSurjA3E3bYJa0hDk89rxjvNdQxOERVmPUJ_pkMWgtOpmlvRWvdYS4SGR-0nSKFhBPjcmWQyIYGvqaY4IAErrBMU/s200/cropped-logo-panc-tv.png" group-title="INTERIOR AR",PANC TV
@@ -4665,10 +4648,11 @@ https://stream.meteorito.cloud:1947/canal6/smil:canal6.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4RfpHHM/109807-Mega-TV.png" group-title="PERU",MEGA TV
 https://mc.servidor.stream:19360/megatv/megatv.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVWdhF1/Whats-App-Image-2024-01-08-at-3-43-18-PM-1.png" group-title="PERU",Peru Entertaiment Play
 https://ott1.hdlatam.tv/live/WmkP3rU_Ch4nn3LnakaP/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://bicentenario.gob.pe/portal/2022/05/logo_7_viatv.png" group-title="PERU",VIA TELEVISION
+https://live-evg2.tv360.bitel.com.pe/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4VJjCq/flolklore-tv-peru.png" group-title="RETRO",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
@@ -4682,12 +4666,17 @@ https://tv.folkloretv.pe/folkloretv/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="PERU",TV COSMOS
 https://ott1.hdlatam.tv/live/tvcosmos/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvcosmos.pe/wp-content/uploads/2017/01/logo-tv-cosmos-vive-contigo-final.png" group-title="PERU",TV COSMOS op2
+https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="PERU",SOL TV
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8 
 
+#EXTINF:-1 tvg-logo="https://soltvperu.com/web/wp-content/uploads/2019/05/soltv-logonew.png" group-title="PERU",SOL TV op2
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s86045g.png" group-title="PERU",TURBOMIX
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nf6jpS7/VIVA-TV-PERU-PNG.png" group-title="PERU",VIVA TV
 https://live.obslivestream.com/vivatv/index.m3u8 
@@ -4718,17 +4707,34 @@ https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/onda_tv_it.png" group-title="PERU",ONDA TV 
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/onda_tv_it.png" group-title="PERU",ONDA TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W5xcLjD/GTV-PISCO-PERU.png" group-title="PERU",GTV 
 https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W5xcLjD/GTV-PISCO-PERU.png" group-title="PERU",GTV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/gtvpisco/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4V7psdX/SFRur-Est-400x400.png" group-title="PERU",NZK Television 
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4V7psdX/SFRur-Est-400x400.png" group-title="PERU",NZK Television op2
+https://live-evg1.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x7d9FT0/images-removebg-preview.png"group-title="RELIGIOSOS",CINE DIOS
 https://canal.mediaserver.com.co/live/cinedios.m3u8
 
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2021/colombia/canales-Rumbatv.png" group-title="PERU",RUMBA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/rumbatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://masmediatv.es/images/2021/colombia/canales-Rumbatv.png" group-title="PERU",RUMBA TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/rumbatv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C9vLHFf/Ga-QDl2-EXMAARsr-V.png" group-title="PERU",SOLAR Television 
+https://live-evg1.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C9vLHFf/Ga-QDl2-EXMAARsr-V.png" group-title="PERU",SOLAR Television op2
 https://live-evg25.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV 
@@ -4749,6 +4755,8 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png" group-title="PERU",TV PERU NOTICIAS
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png" group-title="PERU",TV PERU INTERNACIONAL
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Canal3GT2022.png/800px-Canal3GT2022.png" group-title="EXTRAS",Canal 3 el super canal
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
@@ -4760,9 +4768,6 @@ https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.chapintv.com/wp-content/uploads/2022/12/tn23-loguito.png" group-title="EXTRAS",TN 23 GUATEMALA
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
   
-
-#EXTINF:-1 tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_INTERNACIONAL_PLAY.png" group-title="PERU",TV PERU INTERNACIONAL
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7GVb3gc/TELE8-MERCEDES.png" group-title="EXTRAS",TELE 8 MERCEDES
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
@@ -4814,9 +4819,6 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://transmedia.unam.edu.ar/templates/yootheme/cache/28/logo-transmedia-horiz-07a679f9-282775e3.png" group-title="INTERIOR AR",UNaM TRANSMEDIA MISIONES
 http://192.100.186.53:8090/hls/live.stream.m3u8
 
-#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://storage.googleapis.com/diariodemocracia/static/images/logo/teleJunin.4197f944713a.png",TELEJUNIN
-https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://redcctvbolivia.com/images/RED%20CCTV.png",RED CCTV
 https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 
@@ -4841,8 +4843,15 @@ https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-#EXTINF:-1 group-title="PERU" tvg-logo="http://visionsurtv.pe/wp-content/uploads/2022/06/gkjnhgvjkhnkjnh.png",VISION SUR
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/gork4XV.png",CADENA TV
+https://live-evg1.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/gork4XV.png",CADENA TV op2
+https://live-evg25.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
+
+#EXTINF:-1 group-title="PERU" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/vision-3-logo-png-transparent.png",VISION SUR
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
 
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.ibb.co/9yYpZPM/VISION-SUR-NOTICIAS.png",VISION NOTICIAS
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
