@@ -4176,6 +4176,16 @@ https://ott1.hdlatam.tv/live/TVPERU_SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VZygvJ-1V1I/VHaA0TDC3AI/AAAAAAAAAYU/jTSQ6WnaitY/s1600/LOGO_TV_PERU_2012.png" group-title="PERU",TV PERU op2
 https://live-evg1.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CN2j8S3.png" group-title="PERU",RADIO NOVA STAR TV
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="PERU",NOVA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/NovaTV_logo_2019.png" group-title="PERU",NOVA TV op2
+https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cvmc2hW/CANAL49-PERU.png" group-title="PERU",CANAL 49 TV  
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
 
@@ -4211,6 +4221,42 @@ https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/c
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/rtv-logo.png" group-title="PERU",RTV REGION NORTE TV op2
 http://live-zlr1.tv360.bitel.com.pe/bitel/regiontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTW42wsR/canal-cnc-peru.png" group-title="PERU",CNC CAJAMARCA
+https://live-evg1.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTW42wsR/canal-cnc-peru.png" group-title="PERU",CNC CAJAMARCA op2
+https://live-evg25.tv360.bitel.com.pe/bitel/cnccajamarca/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFrfSs5z/hoy-peru-tv.png" group-title="PERU",HOY PERU TV
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFrfSs5z/hoy-peru-tv.png" group-title="PERU",HOY PERU TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZyJvSv/yurivision-tv-peru.png" group-title="PERU",YURIVISIÓN TV
+https://live-evg25.tv360.bitel.com.pe/bitel/yuritv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGZyJvSv/yurivision-tv-peru.png" group-title="PERU",YURIVISIÓN TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/yuritv/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.plantandofuturo.pe/static/media/cajamarca-tv.289337fd090e2507264c.png" group-title="PERU",CAJAMARCA TV
+https://live-evg1.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.plantandofuturo.pe/static/media/cajamarca-tv.289337fd090e2507264c.png" group-title="PERU",CAJAMARCA TV op2
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fc9elIrLedVEWx-YUtIJTeHxOBjYXsAeMATz00RoyP6UDr3n6J0qLJxNg3fW0vlvZA" group-title="PERU",AURA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/auratv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Fc9elIrLedVEWx-YUtIJTeHxOBjYXsAeMATz00RoyP6UDr3n6J0qLJxNg3fW0vlvZA" group-title="PERU",AURA TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/auratv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon.png" group-title="PERU",QOSQO TIMES
+https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://qosqotimes.pe/wp-content/uploads/2020/07/gRecurso-1qosqotimesfavicon.png" group-title="PERU",QOSQO TIMES op2
+https://live-evg1.tv360.bitel.com.pe/bitel/qosqo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Via_Televisi%C3%B3n_logo_Via_TV.png" group-title="PERU",VIA TELEVISION
 https://live-evg2.tv360.bitel.com.pe/cablerasvia/cablerasvia.m3u8
@@ -4963,6 +5009,8 @@ https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/BethelTV.png",BETHEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 
+#EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/BethelTV.png",BETHEL op2
+https://live-evg1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8
 
 #EXTINF:-1 group-title="PERU" tvg-logo="https://www.dmjsur.com/radio/img/dmj.png",DMJ TV PERU
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist.m3u8
@@ -4970,6 +5018,8 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PERU",SUPER CANAL HD
 https://live.obslivestream.com/supercanal/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://supercanal.com.pe/wp-content/uploads/2023/03/logoheader.png" group-title="PERU",SUPER CANAL HD op2
+https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://1.bp.blogspot.com/-0KjZJizREpU/YBBje6dbkUI/AAAAAAAADn8/P-1y_MHgyg83iA7WyaSLRZq5p_Gc9lnXACLcBGAsYHQ/s0/Televisora-del-Oriente-TVO-en-vivo-Online.png",TVO VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
@@ -5105,6 +5155,8 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 #EXTINF:-1 group-title="PERU" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png",URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
+#EXTINF:-1 group-title="PERU" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo.png",URANIO TV op2
+https://live-evg25.tv360.bitel.com.pe/bitel/uraniotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televisiontarapoto.pe/wp-content/uploads/2019/05/logo_tv_tarapoto.png" group-title="PERU",Televisión Tarapoto
 https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
