@@ -2005,7 +2005,10 @@ https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TOONS-png-.png",MEMORIAS TOONS
 https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
 
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TROPICAL-png-.png",MEMORIAS TROPICAL
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-NOVELAS-png--300x169.png",MEMORIAS NOVELAS
+https://cloud2.streaminglivehd.com:1936/8108/8108/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/Firma-Contacto-OK-Photoroom-300x169.png",MEMORIAS CONTACTO LATINO
 https://cloud2.streaminglivehd.com:1936/8106/8106/playlist.m3u8 
 
 
@@ -2809,10 +2812,10 @@ https://5eaccbab48461.streamlock.net:1936/8076/8076/chunklist.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",TELE Z TROPICAL
 https://stream.telezeta.cl/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-TV-png-1024x576.png",MEMORIAS TV
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2025/04/logo-memorias-corazon-1.png",MEMORIAS DEL CORAZON
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-CLASSIC-OK-png-540x304-1.png",MEMORIAS TV CLASSIC
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-CLASSIC-OK-png-540x304-1.png",MEMORIAS CLASSIC
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
