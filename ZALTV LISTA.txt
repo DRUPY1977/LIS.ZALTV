@@ -4575,11 +4575,6 @@ https://envivo.bolivia-link.com:3645/live/sigloxxilive.m3u8
 #EXTINF:-1 tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2024/07/logo-web-300x205-1.png" group-title="BOLIVIA",TDT Multimedia 
 https://video01.kshost.com.br/juan6318/juan6318/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFycUP7.png" group-title="BOLIVIA",TUTV
-https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JqqZcCx/CEACOM-TV-PNG.png" group-title="BOLIVIA",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
@@ -4699,9 +4694,6 @@ https://mc.servidor.stream:19360/megatv/megatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BVWdhF1/Whats-App-Image-2024-01-08-at-3-43-18-PM-1.png" group-title="PERU",Peru Entertaiment Play
 https://ott1.hdlatam.tv/live/WmkP3rU_Ch4nn3LnakaP/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bicentenario.gob.pe/portal/2022/05/logo_7_viatv.png" group-title="PERU",VIA TELEVISION
-https://live-evg2.tv360.bitel.com.pe/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P4VJjCq/flolklore-tv-peru.png" group-title="RETRO",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/playlist.m3u8
@@ -4973,6 +4965,8 @@ https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="RELIGIOSOS",LA VOZ DE MARIA 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="RELIGIOSOS",LA VOZ DE MARIA op2
+https://627bb251f23c7.streamlock.net:444/LaVozdeMaria/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/bein-sports-logo-freelogovectors.net_.png" group-title="DEPORTES",Bein Sports Xtra N HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -4991,9 +4985,6 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://4.bp.blogspot.com/-8nqZTyhicQg/UOZavSI7u1I/AAAAAAAAAaQ/UvIqVckVfXk/s1600/Logoc3deportes.png",CANAL 3
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist.m3u8
 
-
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://i.ibb.co/whqm2h6/FTV-BOLIVIA-PNG.png",FTV Facetas 
-https://master.tucableip.com/ftv/index.m3u8
 
 #EXTINF:-1 group-title="EXTRAS" tvg-logo="https://www.santel.info/wp-content/uploads/2023/05/cropped-santel-logo-radio-y-tv-2019-100x58.png",SANTEL RADIO TV
 https://tvlatina.live:1936/8004/8004/playlist.m3u8 
@@ -5187,10 +5178,6 @@ https://marine2.miplay.cl/t13/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",T 13 op2
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0BC27Bc/TV-SALUD-CHILE-PNG.png" group-title="CHILE",TV SALUD
-https://marine2.miplay.cl/tvsalud/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vdCX6tv/MOLINA-TELEVISION-PNG.png" group-title="CHILE",MOLINA TELEVISION
 https://marine2.miplay.cl/molinatv/playlist.m3u8
 
@@ -5202,23 +5189,17 @@ https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 https://unlimited1-us.dps.live/tvr/tvr.smil/tvr/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR op3
-https://panel.miplay.cl:8081/tvrsantiago/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C6kAEvl.png" group-title="CHILE",TVR op4
 http://pantera1-100gb-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.pngmart.com/files/17/Tour-PNG-Free-Download.png",TOUR CHANNEL
-https://marine2.miplay.cl/ontour/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png", LA RED
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png", LA RED op2
-https://marine2.miplay.cl/lared/playlist.m3u8
-
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png", LA RED op3
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://www.lared.cl/wp-content/themes/lared2021/img/logo-bajada-verde.png", LA RED op3
+http://pantera1-100gb-cl-movistar.dps.live/lared/lared.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/UCV_HD_2014.png",UCV
 https://marine2.miplay.cl/ucv3/playlist.m3u8
@@ -5232,9 +5213,6 @@ http://pantera1-100gb-cl-movistar.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dts8BWT.png" group-title="CHILE",Canal 8
 http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r73GmKq/RED-DE-FE-TV.png" group-title="RELIGIOSOS",RED DE FE TV
-https://marine2.miplay.cl/reddefe/index.m3u8
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://media.metrolatam.com/2018/09/21/1200pxucvtvlogo2014mejorado-df2feb10c612bfb7c257fa93b9683e3c-1200x800.jpg",UCV 2
 https://unlimited6-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
@@ -5265,16 +5243,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist.m3u8
 http://pantera1-100gb-cl-movistar.dps.live/vtv/vtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CHILE",VTV Los Andes
-https://marine2.miplay.cl/vtv2losandes/mono.m3u8
+https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CHILE",VTV Los Andes
-https://panel.miplay.cl:8081/vtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CHILE",VTV Quillota
-https://panel.miplay.cl:8081/vtvquillota/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="CHILE",VTV Quillota
-https://marine2.miplay.cl/vtv2quillota/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="CHILE",Canal 21 Chillan
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
@@ -5284,32 +5254,11 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
 
 
-#EXTINF:-1 group-title="EXTRAS" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/jbn.png",JBN Canal 39 
-https://hdbox.chunklistv.com/live?stream=jbn39
-
-#EXTINF:-1 group-title="EXTRAS" tvg-logo="https://i.imgur.com/JqaW7Ei.png",MEGABOX 
-https://hdbox.chunklistv.com/live?stream=megabox
-
-#EXTINF:-1 group-title="EXTRAS" tvg-logo="http://vignette4.wikia.nocookie.net/globaltvindonesia/images/5/5b/TvOne_logo_(2010).png",TVONE 
-https://hdbox.chunklistv.com/live?stream=tvone
-
-
 #EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1273.png"  group-title="🎵 MÚSICA",ROCK TV
 https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/v2/1273.png"  group-title="🎵 MÚSICA",ROCK TV op2
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="EXTRAS",DW
-https://marine2.miplay.cl/dwespanol/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://lencatelevision.com/logo/external" group-title="EXTRAS",LENCA TV 
-https://www.lencatelevision.com/hls/0/stream.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPaYM2p.png" group-title="CHILE",NUEVA REGION TV 
-http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canal6lq.com/wp-content/uploads/2022/08/logo-letra-blanca.png" group-title="INTERIOR AR", CANAL 6 DE LA QUIACA
@@ -5378,11 +5327,11 @@ https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TLg8Dw/Logo-La-1-HD.png" group-title="ESPAÑA",LA 1 HD op3
-https://ub007.ride.com.ar/tvmia/sn01/playlist.m3u8 
+https://val02.ride.com.ar/tvmia/sn01/playlist.m3u8 
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="ESPAÑA",LA 2 HD 
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+https://val02.ride.com.ar/tvmia/sn02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bvCN5w2k/Logo-La-2-HD.png" group-title="ESPAÑA",LA 2 HD op2
 http://185.189.225.150:85/TV2/index.m3u8
@@ -5420,13 +5369,19 @@ http://vegafibratv.com:8085/AMC/index.m3u8
 http://vegafibratv.com:8085/Paramount/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT op2
-http://185.189.225.150:85/Paramount/index.m3u8
+https://val01.ride.com.ar/tvmia/sn20/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT op3
 http://185.189.225.149/paramount/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/paramount-logo-1.png",PARAMOUNT op4
 http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/13TV.png",TRECE
+https://val02.ride.com.ar/tvmia/sn24/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://appnew.megainfoapp.com/files/1/energy-tv.png",ENERGY
+https://val01.ride.com.ar/tvmia/sn15/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png",CALLE 13
 http://vegafibratv.com:8085/calle13/index.m3u8
@@ -5440,6 +5395,9 @@ http://vegafibratv.com:8085/BOM/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://decoradosmoya.es/wp-content/uploads/android-icon-192x192-1.png",BOM CINE op2
 http://185.189.225.150:85/BOM/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://decoradosmoya.es/wp-content/uploads/android-icon-192x192-1.png",BOM CINE op3
+https://val02.ride.com.ar/tvmia/sn25/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://seeklogo.com/images/S/somos-logo-7724F01FE9-seeklogo.com.png",SOMOS 
 http://vegafibratv.com:8085/somos/index.m3u8
@@ -5457,6 +5415,8 @@ http://vegafibratv.com:8085/syfy/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Syfy-Logo-768x480.png",SYFY op3
 http://185.189.225.150:85/syfy/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/10/ten-tv-en-directo-online.png",TEN 
+https://val02.ride.com.ar/tvmia/sn18/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.freeshot.live/upload/source/Canal-Hollywood-logo.png",HOLLYWOOD
 http://185.189.225.150:85/Hollywood/index.m3u8
@@ -5473,12 +5433,17 @@ http://185.189.225.150:85/panda/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://www.formulatv.com/fotos/a/76000/76431/lt2j61f5k0957tic6s4cb74ab6190ea_logo-clan.png",CLAN 
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://www.formulatv.com/fotos/a/76000/76431/lt2j61f5k0957tic6s4cb74ab6190ea_logo-clan.png",CLAN op2
+https://val02.ride.com.ar/tvmia/sn11/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.pinimg.com/originals/d6/41/5f/d6415f54a5eb5e73b64bfa4a5ba375e0.png",BOING 
 http://185.189.225.150:85/boing/index.m3u8	
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.pinimg.com/originals/d6/41/5f/d6415f54a5eb5e73b64bfa4a5ba375e0.png",BOING op2
 http://vegafibratv.com:8085/boing/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.pinimg.com/originals/d6/41/5f/d6415f54a5eb5e73b64bfa4a5ba375e0.png",BOING op3
+https://val02.ride.com.ar/tvmia/sn26/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.pngmart.com/files/22/Nickelodeon-Logo-PNG-HD.png",NICKELODEON
 http://185.189.225.150:85/nickelodeon/index.m3u8
@@ -5489,12 +5454,23 @@ http://185.189.225.157/Nick/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.pngmart.com/files/22/Nickelodeon-Logo-PNG-HD.png",NICKELODEON op3
 http://vegafibratv.com:8085/nickelodeon/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_(2014).svg/1200px-Disney_Channel_logo_(2014).svg.png",DISNEY CHANNEL 
+https://val04.ride.com.ar/tvmia/sn27/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",BABY TV
 http://vegafibratv.com:8085/BabyTV/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/BABY.png",BABY TV op2
 http://185.189.225.150:85/BabyTV/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://vercanalestv.online/wp-content/uploads/2021/10/A3seriesicono-768x524.png",A3S
+https://val01.ride.com.ar/tvmia/sn13/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/Dkiss.png",DKISS
+https://val02.ride.com.ar/tvmia/sn21/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png",BEMAD
+https://val02.ride.com.ar/tvmia/sn14/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://seeklogo.com/images/L/la-sexta-logo-1DF4016B31-seeklogo.com.png",LA SEXTA
 http://185.189.225.150:85/LaSexta/index.m3u8
@@ -5531,6 +5507,8 @@ http://185.189.225.150:85/mega/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-korAITBVJzk/VomTHPiD35I/AAAAAAAAAZE/_Eg9G0DLqFc/s1600/logo_mega_rst.png",MEGA op2
 http://vegafibratv.com:8085/mega/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-korAITBVJzk/VomTHPiD35I/AAAAAAAAAZE/_Eg9G0DLqFc/s1600/logo_mega_rst.png",MEGA op4
+https://val01.ride.com.ar/tvmia/sn17/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ODISEA.png",ODISEA 
 http://vegafibratv.com:8085/odisea/index.m3u8
@@ -5548,6 +5526,9 @@ http://185.189.225.150:85/neox/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png",NEOX op3
 http://185.189.225.157/neox/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1200px-Neox.svg.png",NEOX op4
+https://val01.ride.com.ar/tvmia/sn15/playlist.m3u8
+
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://img3.wikia.nocookie.net/__cb20121106123931/logopedia/images/c/c6/Nova_logo_2012.png",NOVA HD
 http://vegafibratv.com:8085/nova/index.m3u8
 
@@ -5557,19 +5538,30 @@ http://185.189.225.150:85/nova/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://img3.wikia.nocookie.net/__cb20121106123931/logopedia/images/c/c6/Nova_logo_2012.png",NOVA op2
 http://185.189.225.157/nova/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://img3.wikia.nocookie.net/__cb20121106123931/logopedia/images/c/c6/Nova_logo_2012.png",NOVA op3
+https://val01.ride.com.ar/tvmia/sn23/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",DMAX 
 https://tvnoov.com/fadoo/dmax.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/DCRMAX.png",DMAX op2
+https://val01.ride.com.ar/tvmia/sn16/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/3pDfFjp.png",GOL PLAY
 https://tvnoov.com/fadoo/golplayhd.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://i.imgur.com/3pDfFjp.png",GOL PLAY op2
+https://val01.ride.com.ar/tvmia/sn29/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD
 http://vegafibratv.com:8085/CuatroHD/index.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD op2
 http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/C4.png",CUATRO HD op3
+https://val01.ride.com.ar/tvmia/sn04/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/2499px-Telecinco.svg.png",TELECINCO
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
@@ -5583,6 +5575,8 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",ANTENA 3
 http://vegafibratv.com:8085/Antena3HD/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png",ANTENA 3 op3
+https://val01.ride.com.ar/tvmia/sn33/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",FACTORIA DE FICCION
 http://vegafibratv.com:8085/fdf/index.m3u8 
@@ -5590,6 +5584,11 @@ http://vegafibratv.com:8085/fdf/index.m3u8
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",FACTORIA DE FICCION op2
 http://185.189.225.150:85/fdf/index.m3u8
 
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png",FACTORIA DE FICCION op3
+https://val01.ride.com.ar/tvmia/sn10/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png",DIVINITY
+https://val01.ride.com.ar/tvmia/sn22/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2023/06/Canal-Luz-TV-en-DIRECTO-Online.png",CANAL LUZ
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
