@@ -875,55 +875,29 @@ https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 https://faster-viale.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png",HBO ALT
-http://181.209.114.13:8000/play/a06o/index.m3u8
+http://190.102.139.244:7878/play/a04g/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png",HBO ALT op2
-http://181.209.95.29:8000/play/a06o/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png",HBO HD op3
 http://190.123.90.146:8000/play/a022/index.m3u8
 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png",HBO HD op4
-http://201.217.246.177:8000/play/a06o/index.m3u8
-
-
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 ALT
-http://181.209.114.13:8000/play/a06q/index.m3u8
-
+http://190.102.139.244:7878/play/a06h/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 ALT op2
-http://181.209.95.29:8000/play/a06q/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 HD op3
 http://190.123.90.146:8000/play/a01k/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 HD op4
-http://201.217.246.177:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/534.png",HBO Family HD
 http://190.11.225.124:5000/live/hbo_family_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/534.png",HBO Family ALT
-http://181.209.114.13:8000/play/a06r/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/534.png",HBO Family ALT op2
-http://201.217.246.177:8000/play/a06r/index.m3u8
+http://190.102.139.244:7878/play/a030/index.m3u8
 
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png",HBO Mundi
-http://181.209.114.13:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png",HBO Mundi op2
-http://181.209.95.29:8000/play/a02a/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png",HBO Mundi op3
-http://201.217.246.177:8000/play/a02a/index.m3u8
+http://190.102.139.244:7878/play/a07u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP HD
-http://190.123.90.146:8000/play/a01j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP HD op2
-http://201.217.246.177:8000/play/a09m/index.m3u8
+http://190.102.139.244:7878/play/a07u/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme HD
 http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
@@ -932,22 +906,13 @@ http://190.11.225.124:5000/live/hbo_xtreme_hd/playlist.m3u8
 http://190.11.130.46/mnp/hboxtr_hls/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme op2
-http://181.209.95.29:8000/play/a02b/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme op3
-http://190.123.90.146:8000/play/a01i/index.m3u8
+http://190.102.139.244:7878/play/a06g/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png",HBO Plus HD
 http://190.11.225.124:5000/live/hbo_plus_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png",HBO Plus ALT
-http://181.209.114.13:8000/play/a06p/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png",HBO Plus ALT op2
-http://181.209.95.29:8000/play/a06p/index.m3u8
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png",HBO Plus ALT op3
-http://201.217.246.177:8000/play/a06p/index.m3u8
+http://190.102.139.244:7878/play/a06g/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO Signature HD
 http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
@@ -956,16 +921,19 @@ http://190.11.225.124:5000/live/hbo_signature_hd/playlist.m3u8
 http://181.209.114.13:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO Signature ALT op2
-http://181.209.95.29:8000/play/a02c/index.m3u8
+http://190.102.139.244:7878/play/a06z/index.m3u8
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO Signature ALT op3
 http://201.217.246.177:8000/play/a02c/index.m3u8
 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT op3
+#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT 
 http://181.209.114.13:8000/play/a02b/index.m3u8
 
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT op4
+#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT op2
 http://201.217.246.177:8000/play/a02b/index.m3u8
+
+#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png",HBO Xtreme ALT op3
+http://190.102.139.244:7878/play/a031/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telecanal_(2011).png" group-title="CHILE",TELECANAL SD
 http://live1.cl.cdn.lla.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
