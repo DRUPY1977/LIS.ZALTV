@@ -1401,39 +1401,6 @@ https://val03.ride.com.ar/tvmia/bn15/playlist.m3u8
 https://val03.ride.com.ar/tvmia/bn17/playlist.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png", TYC SPORT HD
-http://45.172.16.186:9981/stream/channelid/2114770387?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/b60QqVf/FOXSPORT-PNG.png", FOX SPORT 
-http://45.172.16.186:9981/stream/channelid/2027716405?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/2560px-Fox_Sports_2_Argentina_2023.svg.png", FOX SPORT 2
-http://45.172.16.186:9981/stream/channelid/1320108397?profile=pass
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/1200px-Fox_Sports_3_Argentina_2023.svg.png", FOX SPORT 3
-http://45.172.16.186:9981/stream/channelid/1932431470?profile=pass
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg
-http://45.172.16.186:9981/stream/channelid/1688445886?profile=pass   
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES",ESPN Arg op2
-http://45.172.16.186:9981/stream/channelid/1705792905?profile=pass  
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg
-http://45.172.16.186:9981/stream/channelid/1235332383?profile=pass 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2 Arg op2
-http://45.172.16.186:9981/stream/channelid/1598023054?profile=pass
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES",ESPN 3 Arg
-http://45.172.16.186:9981/stream/channelid/2049117368?profile=pass
-
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 Arg
-http://45.172.16.186:9981/stream/channelid/2106208640?profile=pass
-
 
 #EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png" group-title="PERU",ANTENA UNO
 https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
@@ -1887,13 +1854,6 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsTC8p/CIUDAD-MAGICA-TV.png" group-title="INTERIOR AR",CIUDAD MAGICA op2
 https://fl1002.bozztv.com/ssh101/verycoolfgr/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports HD
-http://45.172.16.186:9981/stream/channelid/420180720?profile=pass
-
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/604_AR.png",ESPN Premium HD
-http://45.172.16.186:9981/stream/channelid/635786642?profile=pass
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD 
 https://g1.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
