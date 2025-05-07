@@ -4719,10 +4719,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/La-8-Castilla-y-Le%C3%B3n-en-directo-Online.png" group-title="INTERIOR AR",TEVE OCHO CHEPES LA RIOJA
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 
-
-#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TELESUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
 #EXTINF:-1 group-title="PERU" tvg-logo="https://i.imgur.com/gork4XV.png",CADENA TV
 https://live-evg1.tv360.bitel.com.pe/bitel/cadenatv/chunks.m3u8
 
@@ -4796,11 +4792,6 @@ https://asomatv.duckdns.org/livestream/stream.m3u8
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://www.diosytu.org/wp-content/uploads/2019/04/Logo-Dios-y-t%C3%BA-logo-banner.png",Dios Te Ve
 https://s.emisoras.tv:8081/diostevetv/index.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://www.telesur.com.do/images/telesur_canal_10_logo2.png" group-title="EXTRAS",TELESUR CANAL 10
-https://ss3.domint.net:3124/tls_str/telesur/playlist.m3u8
-
-
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/814AENk%2BEaL.png" group-title="RELIGIOSOS",LA VOZ DE MARIA 
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 
@@ -4835,10 +4826,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkzXcTb/MASTER-VIDEO-TV.png" group-title="EXTRAS",MASTER VIDEO TV
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logosvector.net/wp-content/uploads/2013/04/metal-vector-logo.png" group-title="🎵 MÚSICA",ETERNAL METAL TV
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
-
-
 #EXTINF:-1 group-title="RELIGIOSOS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/BethelTV.png",BETHEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 
@@ -4856,6 +4843,30 @@ https://live-evg25.tv360.bitel.com.pe/bitel/supercanal/chunks.m3u8
 
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://1.bp.blogspot.com/-0KjZJizREpU/YBBje6dbkUI/AAAAAAAADn8/P-1y_MHgyg83iA7WyaSLRZq5p_Gc9lnXACLcBGAsYHQ/s0/Televisora-del-Oriente-TVO-en-vivo-Online.png",TVO VE
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://i.imgur.com/QtRNfaj.png",TELECENTRO
+https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iZMDddR.png" group-title="VENEZUELA",REFORMA TV 
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://i.imgur.com/usrP6T2.png" group-title="VENEZUELA",ONZA TV 
+https://stmv1.srvstm.com/gproducciones/gproducciones/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCFxyIp.jpg" group-title="VENEZUELA",KANDELA V 
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" group-title="VENEZUELA",CANAL 21 Táchira 
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" group-title="VENEZUELA",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yaEyv29.png" group-title="VENEZUELA",TV FANB 
+https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="VENEZUELA",UniTV 
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/4NSqkYv/1542-Televideo.png",TELEVIDEO
