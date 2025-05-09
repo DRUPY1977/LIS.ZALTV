@@ -2778,6 +2778,9 @@ https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memoriasfm.com/wp-content/uploads/2022/08/cropped-LOGO-MEMORIAS-standard-1-1-259x168.png",MEMORIAS LA MUSICA DE TU VIDA
+https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memoriasfm.com/wp-content/uploads/2022/08/cropped-LOGO-MEMORIAS-standard-1-1-259x168.png",MEMORIAS LA MUSICA DE TU VIDA op2
 https://stmv4.voxtvhd.com.br/contactooriente/contactooriente/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
