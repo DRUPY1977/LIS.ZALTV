@@ -1380,6 +1380,9 @@ http://45.235.37.254/espn2hd/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 CL
 http://45.235.37.254/espn3hd/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
+http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-YLVe6I3igQ0/TqBIiqUj41I/AAAAAAAAQgc/_Mpia_yIIpI/s1600/elgaragetv.png" group-title="ALTERNATIVOS",GARAJE TV
 https://val03.ride.com.ar/tvmia/c02/playlist.m3u8
 
@@ -1422,8 +1425,9 @@ http://185.236.229.62:9981/play/a066
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s op2
 http://185.189.225.157/MTV00s/index.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5e/MTV_00s_logo.png",MTV 00s op3
-http://185.189.225.149:85/MTV00s/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/MTV_90s_logo.png",MTV 90s
 http://185.189.225.150:85/MTV90s/index.m3u8
@@ -1437,36 +1441,15 @@ http://185.189.225.150:85/MTV80s/index.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.connecttv.se/app/uploads/2020/10/channel_logo_mtv_80s-1600x1920.png",MTV 80s op2
 http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.connecttv.se/app/uploads/2020/10/channel_logo_mtv_80s-1600x1920.png",MTV 80s op2
-http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-live.png",MTV Live HD
 http://185.236.229.62:9981/play/a063
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-live.png",MTV Live HD op2
-https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="ALTERNATIVOS", MTV Hits
 http://185.189.225.157/MTVHits/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="ALTERNATIVOS", MTV Hits op2
-http://109.233.89.166/MTV_Hits/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png",NICK MUSIC
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/db/Club_MTV.png" group-title="ALTERNATIVOS", MTV Club
 http://185.189.225.150:85/MTVClub/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://iconape.com/wp-content/png_logo_vector/4fun-dance-logo.png",4Fun Dance    
-http://185.236.229.62:9981/play/a020
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://epg.ovh/logo/4FUN+KIDS.png",4Fun Kids
-http://185.236.229.62:9981/play/a01z
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://lolokoko.tv/pma564!fghu1/img/small/4funhits.png",4Fun.TV
-http://185.236.229.62:9981/play/a01y
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Telecanal_(2011).png" group-title="CHILE",TELECANAL 
 http://45.235.37.254/telecanalhd/index.m3u8
@@ -1534,33 +1517,12 @@ https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
-http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png",TELEHIT
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8
   
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Telehit_logo_2020.png",TELEHIT op2
-http://170.254.18.106/TELEHIT/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HTV_%282009_alt%2C_2016%29.svg/revision/latest/scale-to-width-down/40?cb=20241111023729&path-prefix=es",HTV
-http://190.11.225.124:5000/live/htv_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HTV_%282009_alt%2C_2016%29.svg/revision/latest/scale-to-width-down/40?cb=20241111023729&path-prefix=es",HTV op2
-http://170.254.18.106/HTV/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO
-http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/231.png",TELEMUNDO HD
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/226.png",LAS ESTRELLAS
 http://190.11.225.124:5000/live/estrellas_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png",UNIVERSO HD
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 		
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/510.png",PARAMOUNT
 http://190.11.225.124:5000/live/paramount_hd/playlist.m3u8
@@ -1570,43 +1532,12 @@ http://190.11.225.124:5000/live/fx_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png",FX HD
 http://190.11.225.124:5000/live/fx_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/217.png",FX HD op2
-http://170.254.18.106/FX/tracks-v1a1/mono.m3u8
-
  
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png",AXN
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png",AXN op2
-http://170.254.18.106/AXN/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/218.png",UNIVERSAL
-http://190.11.225.124:5000/live/universal_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png",CINECANAL
-https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png",CINECANAL op2
-http://170.254.18.106/CINECANAL/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX
-https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
-
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/502.png",TNT
-http://190.11.225.124:5000/live/tnt_hd/playlist.m3u8 
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png",STAR CHANNEL
 http://190.11.225.124:5000/live/star_sd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/204.png",STAR CHANNEL op2
-http://170.254.18.106/STAR/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/210.png",AMC
-http://190.11.225.124:5000/live/amc_hd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1208.png",SONY
-http://190.11.225.124:5000/live/sony_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/513.png",DHE
 http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8  
@@ -1614,20 +1545,9 @@ http://190.11.225.124:5000/live/dhe_hd/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/518.png",SPACE
 http://190.11.225.124:5000/live/space_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL
-http://190.11.225.124:5000/live/studio_universal_hd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png",STUDIO UNIVERSAL op2
-http://170.254.18.106/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png",WARNER
-http://190.11.225.124:5000/live/warner_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/206.png",WARNER HD
 http://190.11.225.124:5000/live/warner_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/330.png",DISCOVERY KIDS
-http://190.11.225.124:5000/live/discovery_kids_sd/playlist.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/312.png",DISNEY CHANNEL
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
@@ -1641,70 +1561,11 @@ http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/334.png",CARTOONITO
 http://190.11.225.124:5000/live/cartoonito_hd/playlist.m3u8 
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="",LIFE TIME
-http://170.254.18.106/LIFETIME/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png",HISTORY
-http://190.11.225.124:5000/live/history_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png",HISTORY op2
-http://170.254.18.106/HISTORY/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1744.png",H2
-http://170.254.18.106/HISTORY2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1744.png",H2 op2
-http://170.254.18.106/HISTORY2/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1730_AR.png",NAT GEO
-http://170.254.18.106/NAT_GEO/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO
-http://170.254.18.106/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO op2
-http://170.254.18.106/DISCOVERY_TURBO/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1734.png",ANIMAL PLANET
-http://190.11.225.124:5000/live/animal_planet_sd/playlist.m3u8
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1734.png",ANIMAL PLANET HD
 http://190.11.225.124:5000/live/animal_planet_hd/playlist.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1732.png",DISCOVERY
-http://190.11.225.124:5000/live/discovery_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1732.png",DISCOVERY op2
-http://170.254.18.106/DISCOVERY/tracks-v1a2/mono.m3u8
-
-
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1738.png",DISCOVERY WORLD
 http://190.11.225.124:5000/live/discovery_world_hd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1738.png",DISCOVERY WORLD op2
-http://170.254.18.106/DISCOVERY_WORLD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1740.png",TLC
-http://190.11.225.124:5000/live/tlc_sd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1740.png",TLC op2
-http://170.254.18.106/TLC/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/229.png",H&H
-http://190.11.225.124:5000/live/home_and_health_sd/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1731_AR.png",DISCOVERY THEATER
-http://190.11.225.124:5000/live/discovery_theater_hd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1731_AR.png",DISCOVERY THEATER op2
-http://170.254.18.106/DISCOVERY_THEATER/tracks-v1a2/mono.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/223.png",ID
-http://190.11.225.124:5000/live/discovery_id_hd/playlist.m3u8 
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/223.png",ID op2
-http://170.254.18.106/DISCOVERY_ID/tracks-v1a2/mono.m3u8
-
 
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV 
