@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",EVENTOS 
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/kc5tdE-8k-JLOe8zVaD5lwV-iAEHqu3pscRbonattPui_QGhDUjFSVM4yQ15dWRTpWuypzvGLUSd2kX7JVmUGg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",EVENTOS 2
-http://185.192.124.243:80/play/rEQGAq19EVfdXKM-18pIF2VsBO8wcjO9CpqC8d5jt3A/ts
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",EVENTOS 3
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/z8Bs4BfLQN93qsutEbTCfXzz4e6IaSx2p0vbFfTdbmpgq45FGAUqHWcMjox5rIZUlo94ooMOSAc0HYPSuXLP_A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",EVENTOS 4
-http://185.192.124.243:80/play/rEQGAq19EVfdXKM-18pIFzlm2Eg5thOPAm0bGbv_20c/ts
-
-
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
