@@ -636,7 +636,7 @@ https://val02.ride.com.ar/tvmia/an32/playlist.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt2 🇦🇷
-http://181.13.173.86:8000/play/a02u/index.m3u8
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/z8Bs4BfLQN93qsutEbTCfXzz4e6IaSx2p0vbFfTdbmpgq45FGAUqHWcMjox5rIZUlo94ooMOSAc0HYPSuXLP_A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt3 🇦🇷
 http://190.123.90.146:8000/play/a00j/index.m3u8
@@ -654,7 +654,7 @@ http://138.121.114.34:8000/play/a14i/index.m3u8
 https://val03.ride.com.ar/tvmia/c07/playlist.m3u8
 
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt1 🇦🇷
 http://201.217.246.177:8000/play/a078/index.m3u8
 
 
@@ -670,7 +670,7 @@ http://181.13.173.86:8000/play/a078/index.m3u8
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt5 🇦🇷
-http://181.209.95.29:8000/play/a078/index.m3u8
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/kc5tdE-8k-JLOe8zVaD5lwV-iAEHqu3pscRbonattPui_QGhDUjFSVM4yQ15dWRTpWuypzvGLUSd2kX7JVmUGg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt6 🇦🇷
 http://181.10.181.101:15001/play/a086/index.m3u8
@@ -2319,6 +2319,10 @@ https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png",BOX CINEMA
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png",ROMANCE CHANNEL
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="CINE",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 
@@ -2356,6 +2360,9 @@ https://stream.gia.tv:443/giatvplayout7/giatv-208770/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBWvMkj6/sony-one-logo.png" group-title="CINE",SONY ONE CINEMA
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HFY5H7T/electric-now.png" group-title="CINE",ELECTRIC NOW EN ESPAÑOL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6598
 
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/tele.png" group-title="PARAGUAY",LA TELE
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
@@ -2640,9 +2647,6 @@ https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memoriasfm.com/wp-content/uploads/2022/08/cropped-LOGO-MEMORIAS-standard-1-1-259x168.png",MEMORIAS LA MUSICA DE TU VIDA
 https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memoriasfm.com/wp-content/uploads/2022/08/cropped-LOGO-MEMORIAS-standard-1-1-259x168.png",MEMORIAS LA MUSICA DE TU VIDA op2
-https://stmv4.voxtvhd.com.br/contactooriente/contactooriente/chunklist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
 https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
@@ -3024,6 +3028,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://guiashistoriadorex.com/wp-content/uploads/2018/10/logo_viajar.png",VIAJAR
 https://dr2t9f8nivbc6.cloudfront.net/hls/HL3SLDA/8AEDE38B77B3/m.m3u8
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://guiashistoriadorex.com/wp-content/uploads/2018/10/logo_viajar.png",VIAJAR op2
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://oxigeno.com/OxigenoAppResources/img/vivir/logo.png",OXIGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist.m3u8
@@ -4401,7 +4408,6 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://www.aster.do/wp-content/uploads/2019/04/LOGO-TELEMICRO.png" group-title="EXTRAS",CANAL 5 TELEMICRO
 https://ott2.hdlatam.tv/live_abr/Stream75/playlist.m3u8
 
@@ -4412,6 +4418,8 @@ https://ott2.hdlatam.tv/live_abr/Stream79/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/coral-logo-3.png" group-title="EXTRAS",CORAL TV
 https://ott2.hdlatam.tv/live_abr/Stream80/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/51RdkY3/Deutsche-Welle-symbol-2012-svg.png" group-title="EXTRAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2020/10/San-Luis-CTV-en-vivo-Online.png" group-title="EXTRAS",CABLE TV SAN LUIS
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist.m3u8
