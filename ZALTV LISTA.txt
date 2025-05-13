@@ -107,31 +107,24 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://190.11.130.46/mnp/cm/output.mpd
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER
-http://181.13.173.86:8000/play/a021/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op2
 http://181.209.114.13:8000/play/a021/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op3
-http://181.209.95.29:8000/play/a021/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op4
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op2
 http://190.123.90.146:8000/play/a035/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op5
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/238.png",VOLVER SD op3
 http://201.217.246.166:8000/play/a066/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://www.pool-economico.com.ar/sitio/images/logo_metroG.png",METRO
-http://181.13.173.86:8000/play/a02g/index.m3u8
+http://190.123.90.146:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="http://www.pool-economico.com.ar/sitio/images/logo_metroG.png",METRO ext2
 http://181.209.114.13:8000/play/a02g/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1748.png",CANAL A
-http://181.13.173.86:8000/play/a06w/index.m3u8
-
+http://190.123.90.146:8000/play/a06w/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1748.png",CANAL A ext2
 http://181.209.114.13:8000/play/a09j/index.m3u8
@@ -274,18 +267,12 @@ http://45.235.37.254/tooncast/index.m3u8
 https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@quieromusicatv/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD
-http://181.13.173.86:8000/play/a02n/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op2
 http://181.209.114.13:8000/play/a02n/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op3
-http://181.209.95.29:8000/play/a02n/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op4
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op2
 http://190.123.90.146:8000/play/a02s/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op5
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1269.png",QMUSICA SD op3
 http://201.217.246.177:8000/play/a02n/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://appnew.megainfoapp.com/files/1/Canal%20CM.png",CM 
@@ -621,15 +608,6 @@ http://190.11.130.46/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/1200px-DeporTV_%282020_Logo_oficial%29.png", DEPORTV op2
 https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/610.png",DTV SPORTS
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/612.png",DIRECTV SPORTS 2 
-http://190.216.162.153:8001/play/a05g/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/613.png",DIRECTV SPORTS+ 
-http://190.216.162.153:8001/play/a05h/index.m3u8
-
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 🇦🇷
 https://val02.ride.com.ar/tvmia/an32/playlist.m3u8
@@ -669,14 +647,11 @@ http://190.123.90.146:8000/play/a00f/index.m3u8
 http://181.209.114.13:8000/play/a078/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt4 🇦🇷
-http://181.13.173.86:8000/play/a078/index.m3u8
+http://181.10.181.101:15001/play/a086/index.m3u8
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt5 🇦🇷
 https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/kc5tdE-8k-JLOe8zVaD5lwV-iAEHqu3pscRbonattPui_QGhDUjFSVM4yQ15dWRTpWuypzvGLUSd2kX7JVmUGg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt6 🇦🇷
-http://181.10.181.101:15001/play/a086/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 
@@ -689,9 +664,6 @@ http://201.217.246.177:8000/play/a05a/index.m3u8
 http://45.228.233.93:8000/play/ca032/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN op4
-http://181.13.173.86:8000/play/a0af/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN op5
 http://181.209.114.13:8000/play/a05a/index.m3u8
 
 
@@ -700,15 +672,6 @@ http://181.78.106.127:9000/play/ca034/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 op2
 http://201.217.246.177:8000/play/a059/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 op3
-http://181.13.173.86:8000/play/a0ag/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 op4
-http://181.209.114.13:8000/play/a059/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1622.png",ESPN 2 op5
-http://181.78.27.128:8000/play/a02d/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3
@@ -721,26 +684,20 @@ http://45.228.233.93:8000/play/ca033/index.m3u8
 http://201.217.246.177:8000/play/a05b/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 AR op4
-http://181.13.173.86:8000/play/a0ah/index.m3u8
-
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 AR op5
 http://181.209.114.13:8000/play/a05b/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.koF2VyQE0r9agYXT5J9GrQHaBZ&pid=Api&P=0&h=180",ESPN 4
-http://181.209.114.13:8000/play/a076/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.koF2VyQE0r9agYXT5J9GrQHaBZ&pid=Api&P=0&h=180g",ESPN 4 op2
-http://181.78.106.127:9000/play/ca036/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.koF2VyQE0r9agYXT5J9GrQHaBZ&pid=Api&P=0&h=180",ESPN 4 op4
-http://201.217.246.177:8000/play/a076/index.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1625_AR.png",ESPN 5
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 AR op5
 http://45.228.233.93:8000/play/ca034/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/TyC_Sports.png/revision/latest/scale-to-width-down/320?cb=20190620182054&path-prefix=es" group-title="ALTERNATIVOS",TYC SPORTS
-http://181.209.95.29:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4
+http://181.209.114.13:8000/play/a076/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png",ESPN 4 op2
+http://201.217.246.177:8000/play/a076/index.m3u8
+
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN
+http://181.78.106.127:9000/play/ca036/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/220?cb=20210414152347&path-prefix=es" group-title="ACTIVA DEPORTES",Canal Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
@@ -1688,13 +1645,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v4a1/mono.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1236_AR.png",MAGAZINE HD op1
-http://190.94.186.158:8000/play/a0bb/index.m3u8
+https://loadbalancer16.cdn.rcs.net.ar/mnp/cm/output.mpd
 
-#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1236_AR.png",MAGAZINE SD op1
-http://181.13.173.86:8000/play/a02h/index.m3u8
-
-#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1236_AR.png",MAGAZINE SD op2
-http://45.5.151.151:8000/play/a0pz/index.m3u8
 
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png", NET TV (VARIEDAD)
@@ -1735,7 +1687,7 @@ https://g3.proy-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gc
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all//Playlist.m3u8?sense=true
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV
-http://45.172.16.186:9981/stream/channelid/1374059852?profile=pass
+http://45.172.16.186:9981/stream/channel/4c7de651865e14cc92488f494a6e05a4?profile=pass
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png", RURAL TV op2
 https://router.cdn.rcs.net.ar/mnp/rural/output.mpd
@@ -1977,9 +1929,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?cb=%5BCACHEBUSTER%5D&network_id=12967
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="INFANTILES",Planeta Junior TV HD
 https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
-
-#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON CLASICO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cartoonclasico/chunks.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN HD 
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
