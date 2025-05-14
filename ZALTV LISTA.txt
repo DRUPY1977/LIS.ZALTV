@@ -564,13 +564,10 @@ http://190.11.130.46/mnp/tnt/output.mpd
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1502_AR.png", TNT cl
 http://45.235.37.254/tnthd/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX
-http://190.11.130.46/mnp/cinemax/output.mpd
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX op2
-https://cotel02.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
-
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/509.png",CINEMAX cl
 http://45.235.37.254/cinemaxhd/index.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/503.png", GOLDEN HD cl
@@ -985,10 +982,6 @@ http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_pr
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/214.png" group-title="ALTERNATIVOS",A3 SERIES
 http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
-
-#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/214.png" group-title="ALTERNATIVOS",A3SERIES
-http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1762.png" group-title="ALTERNATIVOS",ANTENA 3
 http://live1.cl.cdn.lla.vtrplay.com/antena3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 
@@ -1234,6 +1227,25 @@ http://190.211.140.89:8081/SVTranscoder/PANICOabr.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="ALTERNATIVOS",UNIMAS
 http://190.211.140.89:8081/SVTranscoder/UNIMASabr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/228.png" group-title="ALTERNATIVOS",LIFE TIME ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1742.png", HISTORY ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://beta.directv.com.ar/content/dam/public-sites/channels/1744.png",H2 HD ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/732.png", DISCOVERY ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/740.png", TLC ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/209.png", AXN ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/507.png", CINECANAL ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO XTREME ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_XTREME/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/508.png" group-title="ALTERNATIVOS",STUDIO UNIVERSAL ES/ING
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",AMERICA TV
 https://val03.ride.com.ar/tvmia/an25/playlist.m3u8
