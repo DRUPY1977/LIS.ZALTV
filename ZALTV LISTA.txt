@@ -2534,13 +2534,17 @@ https://daiconnect.com/live/hls/tvup/tvfy-mundoseries/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zr565ht/Logo-Telecosta.png" group-title="EXTRAS",TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.neotv.cl/assets/img/channels/fanpop-tv.png" group-title="EXTRAS",FAN POP TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4KFm0wW/energeek-fan.png" group-title="EXTRAS",FAN POP TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4KFm0wW/energeek-fan.png" group-title="EXTRAS",FAN POP TV op2
+https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8?WORLDTV2
 
-#EXTINF:-1 tvg-logo="https://www.energeek.cl/custom/templates/Lithium/uploads/energeeklogo-1.png" group-title="EXTRAS",EnerGeek Retro
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YD8qjN/energeek.png" group-title="EXTRAS",EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0YD8qjN/energeek.png" group-title="EXTRAS",EnerGeek Retro op2
+https://cl-live.elekta.lat/live/c7eds/EnerGeek_Retro/SA_LIVE_hls_enc/e8a8e789-170b-4de4-a33b-90a9a475ce65_output_0.m3u8?WORLDTV2
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/SyKsm8q/PLANETA-TV-PNG.png",PLANETA TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
@@ -3999,14 +4003,13 @@ https://1667517699.rsc.cdn77.org/hls/camana.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Ilo) 
 https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Mollendo) 
-https://1667517699.rsc.cdn77.org/hls/mollendo.m3u8
+http://191.97.48.180:8000/hls/mollendo.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Moquegua) 
 https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Tacna) 
 https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
 #EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur Arequipa
-https://1667517699.rsc.cdn77.org/hls/arequipa.m3u8
-
+https://telesur-stream.b-cdn.net/hls/arequipa.m3u8
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png",CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
@@ -4676,8 +4679,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist.m3u8
 https://tvlatina.live:1936/8004/8004/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yYkQVt9/TINGUERITOS-TV-PNG.png" group-title="RETRO",Tigueritos TV
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-
+https://cdn.mycloudstream.io/hls/live/broadcast/mzhbcpi0/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nkzXcTb/MASTER-VIDEO-TV.png" group-title="EXTRAS",MASTER VIDEO TV
 https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
