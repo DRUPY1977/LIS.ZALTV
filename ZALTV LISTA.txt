@@ -607,7 +607,7 @@ https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 🇦🇷
-https://val02.ride.com.ar/tvmia/an32/playlist.m3u8
+https://val01.ride.com.ar/tvmia/bn45/playlist.m3u8
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt1 🇦🇷
@@ -1678,10 +1678,6 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsTC8p/CIUDAD-MAGICA-TV.png" group-title="INTERIOR AR",CIUDAD MAGICA
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1ZsTC8p/CIUDAD-MAGICA-TV.png" group-title="INTERIOR AR",CIUDAD MAGICA op2
-https://fl1002.bozztv.com/ssh101/verycoolfgr/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png"group-title="NACIONALES AR",CANAL DE LA CIUDAD 
 https://g1.proy-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
@@ -3003,14 +2999,16 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://oxigeno.com/OxigenoAppResources/img/vivir/logo.png",OXIGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist.m3u8
 
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",HISTORIA
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://1.bp.blogspot.com/-uLn2OtnWQOg/VjkahS77ljI/AAAAAAAAAEk/wrm8bKzkiGw/s1600/elPrecioDeLaHistoria.png",EL PRECIO DE LA HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qcrc8tbcr8e9/Historia.m3u8
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",CURIOSITY STREAM EN ESPAÑOL
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://curiosity-stream.ru/assets/images/logo.png",CURIOSITY STREAM EN ESPAÑOL
 https://d2bvy2sb4c0dbv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r1e7n0qtgom9g/CuriosityEspanol.m3u8
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",CURIOSITY STREAM MOTORES
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://curiosity-stream.ru/assets/images/logo.png",CURIOSITY STREAM MOTORES
 https://d5ts03kapml2e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v8lfdsdpodq1j/CuriosityMotores.m3u8
 
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://zaltv.com/logo.png?v1",CURIOSITY STREAM ANIMALES
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://curiosity-stream.ru/assets/images/logo.png",CURIOSITY STREAM ANIMALES
 https://d2j2obpavpuw3t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2lm9m9ato2sbu/CuriosityAnimales.m3u8
 
 
