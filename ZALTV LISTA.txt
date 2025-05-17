@@ -2006,6 +2006,11 @@ https://cloud2.streaminglivehd.com:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.ibb.co/NY9Gqkc/SOCCER-7.png",SOCCER 7
 https://cloud2.streaminglivehd.com:1936/8062/8062/playlist.m3u8 
 
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png", SENSA EVENTOS
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png",  SENSA EVENTOS op2
+https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 1
 https://sonicaargentina.com.ar/ARCHIVOS/pelicula3.mp4
@@ -3563,7 +3568,6 @@ https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="INTERIOR AR" ,TELEDIARIO TV
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/Telediario_Television_Argentina.m3u8
 
-https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/La_Tele_Tuya.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="INTERIOR AR",EL 9 LINK
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist.m3u8
@@ -3672,8 +3676,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/mma-engine/uploads/promotions/combate-americas-logo.png" group-title="DEPORTES", COMBATE GLOBAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="EXTRAS",TELE TUYA 
+https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/La_Tele_Tuya.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="EXTRAS",DITI TV HD
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8
