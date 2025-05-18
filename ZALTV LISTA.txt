@@ -1768,19 +1768,16 @@ https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/tZfm76V/RETROPALMARES-PNG.png",RETRO PALMARES
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/mzGNRS9/TELECLASICA-PNG.png",TELECLASICA
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/VYxDNRWF/como-antes.png",COMO ANTES TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD
 https://video06.logicahost.com.br/retropluslive03/retropluslive03/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD op2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1-1536x597.png",Mega tv Amazonia
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
@@ -2620,14 +2617,8 @@ https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
 https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS op2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/chunks.m3u8
-
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 
 https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8
-
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR
 https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
