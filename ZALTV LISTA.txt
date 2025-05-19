@@ -1689,7 +1689,7 @@ http://45.172.16.186:9981/stream/channelid/1025769842?profile=pass
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV
-https://g3.proy-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_480p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_480p.m3u8
 
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/Canal-Chacra-TV-en-vivo-Online.png", CHACRA TV op2
 https://g4.vxral-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all//Playlist.m3u8?sense=true
@@ -1776,8 +1776,14 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/VYxDNRWF/como-antes.png",COMO ANTES TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/R40wwyxH/BUIN-SOMOS-TODOS-TV.png",BUIN SOMOS TODOS TV
+https://bst.buin.cl/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD
 https://video06.logicahost.com.br/retropluslive03/retropluslive03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD op2
+https://stream.gia.tv/giatv/giatv-Retroplustv03/Retroplustv03/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://radiomegatv.com/wp-content/uploads/2021/11/casma-blanco1-1536x597.png",Mega tv Amazonia
 https://solo.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
@@ -1800,6 +1806,9 @@ https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://www.sarapiquitvcr.com/images/100.png",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Tele-Uno-Costa-Rica-en-vivo-Online.png",TELE UNO 
+https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricachannel.org/wp-content/uploads/2022/08/cropped-LOGO-CR-2022-2022-768x256.png" group-title="RETRO",COSTA RICA CHANNEL
 https://video0.rogohosting.com:19360/8006/8006.m3u8
@@ -2626,6 +2635,12 @@ https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR op2
 https://smt-usr-edge02.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
 
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/0yKxLb6j/TU-MUSICA.png",TU MUSICA
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.imgur.com/TJ5l9iI.png",ULTRA PLUS ZONA
+https://acceso.radiosportstv.online:3089/hybrid/play.m3u8
+
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1679_VHS.png",VHS MUSIC
 https://tv.arkeo.cl:19360/8138/8138.m3u8
 
@@ -3333,6 +3348,9 @@ https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op3
 https://smt-usr-edge01.sensa.com.ar/output/c12pos/playlist.m3u8
 
+#EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/981/CH_LOGO/800/542/0/0/98840360071467.png", CANAL 12 DE MISIONES op4
+https://g3.mc-hor.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8
+
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Canal-4-Jujuy-en-vivo-Online.png", CANAL 4 DE JUJUY
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/chunklist.m3u8
 
@@ -3871,17 +3889,21 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmg3VdX6/bonita-tv.png" group-title="PERU",BONITA TV op2
 https://live-evg1.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFZY75gw/unnamed.png" group-title="PERU",COSITEL ICA
+#EXTINF:-1 tvg-logo="https://cositelperu.com/wp-content/uploads/2025/02/LOGO-COSITEL-PERU-2025-1024x612-1.png" group-title="PERU",COSITEL ICA
 https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFZY75gw/unnamed.png" group-title="PERU",COSITEL ICA op2
+#EXTINF:-1 tvg-logo="https://cositelperu.com/wp-content/uploads/2025/02/LOGO-COSITEL-PERU-2025-1024x612-1.png" group-title="PERU",COSITEL ICA op2
 https://live-evg1.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cositelperu.com/wp-content/uploads/2025/02/LOGO-COSITEL-PERU-2025-1024x612-1.png" group-title="PERU",COSITEL ICA ON LINE
+https://vod3.qbi.lat:15123/cositel/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxT4NkDy/th.png" group-title="PERU",COSITEL JULIACA
 https://live-evg25.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hxT4NkDy/th.png" group-title="PERU",COSITEL JULIACA op2
 https://live-evg1.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VZygvJ-1V1I/VHaA0TDC3AI/AAAAAAAAAYU/jTSQ6WnaitY/s1600/LOGO_TV_PERU_2012.png" group-title="PERU",TV PERU
