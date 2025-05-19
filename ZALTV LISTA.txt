@@ -648,7 +648,7 @@ http://181.10.181.101:15001/play/a086/index.m3u8
 
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt5 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/kc5tdE-8k-JLOe8zVaD5lwV-iAEHqu3pscRbonattPui_QGhDUjFSVM4yQ15dWRTpWuypzvGLUSd2kX7JVmUGg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/IIBxAbENmjt002Oxt7dLmtdDYRMzNV5_uQMdXF_SPCZE0Fr6mK9AiVV8oRM_5rZCQpBgYFr6d3PKErgYwqg3kg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 
@@ -1992,6 +1992,10 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFnvv6K/1604-ZTV-Anime.png" group-title="INFANTILES",Z PLAY ANIME op2
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="INFANTILES",Anime Vision
+https://daiconnect.com/live/hls/tvup/tvfy-animevision/.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spTSnzcp/Logo-Anime-Visi-n.png" group-title="INFANTILES",Anime Vision Op2
+https://jmp2.uk/sam-ES300029LP.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://unored.tv/wp-content/uploads/2022/12/Extrema-Kids-PNG.png",EXTREMA KIDS
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist.m3u8
