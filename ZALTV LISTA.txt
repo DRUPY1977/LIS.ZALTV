@@ -4572,6 +4572,11 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 #EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="INTERIOR AR",SOMOS LA PAMPA
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="INTERIOR AR",SOMOS Gualeguaychu
+https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="INTERIOR AR",SOMOS VILLA MARIA
+https://stream.arcast.net:4443/villamaria/villamaria/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-3-Pinamar-en-vivo-Online.png" group-title="INTERIOR AR",CANAL 3 PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -4875,7 +4880,7 @@ https://rdn.essastream.com:3996/live/citricotvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="INFANTILES",Gogoplay SD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
+https://ssh101.bozztv.com/ssh101/gogoplaysd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dc3XwNr/logo-Gogoplay-TV.png" group-title="INFANTILES",Gogoplay Max
 https://stream.gia.tv/giatv/giatv-NEOGOGOPLAY/NEOGOGOPLAY/playlist.m3u8
@@ -5011,10 +5016,6 @@ https://stream.arcast.com.ar/c6laquiaca/ngrp:c6laquiaca_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="INTERIOR AR", CANAL 2 GUALEGUAY ENTRE RIOS
 https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://somos.com.ar/wp-content/uploads/2021/12/cropped-logo@2x.png" group-title="INTERIOR AR",SOMOS Gualeguaychu
-https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABfzzlG.png" group-title="EXTRAS",Antena21
