@@ -2282,6 +2282,9 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Zt0PxX/MAS-CINE-PNG.png" group-title="CINE",+ CINE
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v3k7zgg/logo-Moni-TV.png" group-title="CINE",MONI TV HD
+https://tv.arkeo.cl:19360/8134/8134.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co/kg9GHS1/Gatc-C5b-Wk-AAof2u.png" group-title="CINE",MEGA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8
 
@@ -2689,6 +2692,9 @@ https://paneltv.online:1936/8030/8030/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://cdn.m3u.cl/logo/1626_C_y_G_TV.png",C y GTV
 https://tv.telselec.cl:3254/live/cygtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qL5CXcFj/logo-Classic-Channel-1.png" group-title="🎵 MÚSICA",Classic Channel HD
+https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png",TIERRA MIA 
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8?admin=tvaccion
