@@ -1352,6 +1352,9 @@ http://45.235.37.254/espn2hd/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 CL
 http://45.235.37.254/espn3hd/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png",DAZN  F1
+https://azplay.ru.com/hls/HDGQ25/index.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
 
@@ -2020,6 +2023,17 @@ https://cloud2.streaminglivehd.com:1936/8062/8062/playlist.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png",  SENSA EVENTOS op2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png",SPORTMAX AR EVENTOS 1
+https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed1/SA_LIVE_hls_enc/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8?WORLDTV2
+
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png",SPORTMAX AR EVENTOS 2
+https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed2/SA_LIVE_hls_enc/6f2ee266-1c1e-48ad-a5aa-e977dc33740e_output_0.m3u8?WORLDTV2
+
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png",SPORTMAX CHILE EVENTOS
+https://cablemor.andremor.dev/live/sportmax-cl/index.m3u8
+#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png",SPORTMAX CHILE EVENTOS 2
+https://cablemor.andremor.dev/live/sportmax2-chile/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 1
