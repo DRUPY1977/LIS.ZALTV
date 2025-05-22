@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://i.ibb.co/vqh35pC/SIN-LOGO.gif",INFO-SERVICIO ZALTV de 10 hs a 00 hs arg
 https://ssh101.bozztv.com/ssh101/btvdigital/playlist.m3u8
 
+#EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://i.ibb.co/vqh35pC/SIN-LOGO.gif",INFO-SERVICIO ZALTV op2
+https://live20.bozztv.com/akamaissh101/ssh101/btvdigital/chunks.m3u8
+
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png", AMERICA TV 
 http://190.11.130.46/mnp/america/output.mpd
 
@@ -1379,8 +1382,6 @@ https://live-evg25.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://canala1.com/wp-content/uploads/2024/07/logo-ba-a-1.png" group-title="PERU",ANTENA UNO op2
 https://live-evg1.tv360.bitel.com.pe/bitel/auno/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV 
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1uLGa3w.png" group-title="PERU",Agro TV Peru
 https://live-evg25.tv360.bitel.com.pe/bitel/agro/chunks.m3u8
@@ -1758,7 +1759,10 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO MAGICO
-https://stream.gia.tv/giatv/giatv-retromagico/retromagico/chunks.m3u8
+https://ssh101.bozztv.com/ssh101/retromagico/playlist.m3u8
+
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO TOONS
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/sH74Jn7/TOP-TV-PERU-PNG.png",TOP TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -1950,7 +1954,10 @@ https://jmp2.uk/sam-ESBC4100003WE.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_dvr_1080.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://static.wixstatic.com/media/2c880e_a3c51090fb9a4b47baedd8cc149e4bd6~mv2.png/v1/crop/x_28,y_0,w_715,h_559/fill/w_151,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%5Bremoval_ai%5D_1f9b2042-82ae-4eda-ac8a-71ff4db92d8e_Untitled%20(1).png",BIG CHANNEL
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/chunks.m3u8
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://www.neotv.cl/assets/img/channels/magic-kids.png",MAGIC KIDS ARG
+https://live20.bozztv.com/akamaissh101/ssh101/magic2019/chunks.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://regionnet.com.ar/wp-content/uploads/2019/11/Logomagic96-450x401.png",MAGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
