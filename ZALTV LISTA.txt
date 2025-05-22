@@ -609,46 +609,41 @@ https://broker.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 🇦🇷
 https://val01.ride.com.ar/tvmia/bn45/playlist.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports PWR 🇦🇷
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/z8Bs4BfLQN93qsutEbTCfXzz4e6IaSx2p0vbFfTdbmpgq45FGAUqHWcMjox5rIZUlo94ooMOSAc0HYPSuXLP_A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt1 🇦🇷
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt2 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/z8Bs4BfLQN93qsutEbTCfXzz4e6IaSx2p0vbFfTdbmpgq45FGAUqHWcMjox5rIZUlo94ooMOSAc0HYPSuXLP_A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt3 🇦🇷
 http://190.123.90.146:8000/play/a00j/index.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt4 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt3 🇦🇷
 http://186.148.196.82:8001/play/a00p
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt5 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt4 🇦🇷
 http://181.10.181.101:15001/play/a06z/index.m3u8
 
-#EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports CL
-http://138.121.114.34:8000/play/a14i/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷 
 https://val03.ride.com.ar/tvmia/c07/playlist.m3u8
 
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium PWR 🇦🇷
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/IIBxAbENmjt002Oxt7dLmtdDYRMzNV5_uQMdXF_SPCZE0Fr6mK9AiVV8oRM_5rZCQpBgYFr6d3PKErgYwqg3kg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt1 🇦🇷
-http://201.217.246.177:8000/play/a078/index.m3u8
-
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt2 🇦🇷
 http://190.123.90.146:8000/play/a00f/index.m3u8
 
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt3 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt2 🇦🇷
 http://181.209.114.13:8000/play/a078/index.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt4 🇦🇷
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt3 🇦🇷
 http://181.10.181.101:15001/play/a086/index.m3u8
 
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt5 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/IIBxAbENmjt002Oxt7dLmtdDYRMzNV5_uQMdXF_SPCZE0Fr6mK9AiVV8oRM_5rZCQpBgYFr6d3PKErgYwqg3kg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
+#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt4 🇦🇷
+http://201.217.246.177:8000/play/a078/index.m3u8
 
 
 #EXTINF:-1 group-title="ALTERNATIVOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1621.png",ESPN 
@@ -1352,8 +1347,6 @@ http://45.235.37.254/espn2hd/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1623.png",ESPN 3 CL
 http://45.235.37.254/espn3hd/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png",DAZN  F1
-https://azplay.ru.com/hls/HDGQ25/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
 http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
