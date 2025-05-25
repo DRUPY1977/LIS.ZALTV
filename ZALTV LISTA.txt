@@ -2992,6 +2992,18 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://oxigeno.com/OxigenoAppResources/img/vivir/logo.png",OXIGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist.m3u8
 
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.ibb.co/zFVGKRW/tu-discovery.png",TU DISCOVERY
+https://amg00136-amg00136c59-canelatv-international-6415.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-tudiscovery-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.postimg.cc/Wzpvvgnp/construcciones-asombrosas-wb.png",CONSTRUCCIONES ASOMBROSAS
+https://amg00136-amg00136c56-canelatv-international-6418.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-construccionesasombrosas-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.postimg.cc/7YbVWbkg/vidas-extremas-wb.png",VIDAS EXTREMAS
+https://amg00136-amg00136c54-canelatv-international-6413.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-vidasextremas-canelatvinternational/playlist.m3u8
+
+#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.postimg.cc/HnMQT8sK/expedientes-sobrenaturales-wb.png",EXPEDIENTES SOBRENATURALES
+https://amg00136-amg00136c58-canelatv-international-6416.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-expedientessobrenaturales-canelatvinternational/playlist.m3u8
+
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://1.bp.blogspot.com/-uLn2OtnWQOg/VjkahS77ljI/AAAAAAAAAEk/wrm8bKzkiGw/s1600/elPrecioDeLaHistoria.png",EL PRECIO DE LA HISTORIA
 https://d1k3vzh2ivy22k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qcrc8tbcr8e9/Historia.m3u8
 
