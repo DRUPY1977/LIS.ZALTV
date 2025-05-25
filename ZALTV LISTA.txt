@@ -3212,6 +3212,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6132429ec9e0db0007a914
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="24/7",Telefe Hits
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3R68C7tB/caso-cerrado.png" group-title="24/7",CASO CERRADO
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991749/hls/master.m3u8?ads.xumo_channelId=99991749
+
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mr-bean-png/mr-bean-bean-fanart-fanart-20.png" group-title="24/7",MR. BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
@@ -3344,6 +3347,12 @@ https://panel.host-live.com:19360/8126/8126.m3u8
 
 #EXTINF:-1 tvg-logo="https://turoubeenkidswe.weebly.com/uploads/1/2/3/7/123794590/logocanal8rosario2006-2016_orig.png" group-title="INTERIOR AR", CANAL 8 ROSARIO
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Canal_Ocho_San_Juan_(Logo_2018).png" group-title="INTERIOR AR", CANAL 8 DE SAN JUAN
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@canal8sanjuan./live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
+
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/canal7-mendoza.png" group-title="INTERIOR AR",CANAL SIETE DE MENDOZA
+https://m.mtd.llc/get-stream.m3u8?url=https://www.youtube.com/@elsietemendoza/live&uuid=Tx+c02/KVcNzYQNqvLhhD6L0ZQRv7KDKzhU+LiI2z08=
 
 #EXTINF:-1 tvg-logo="https://tse1.mm.bing.net/th?id=OIP.tvOuz093oCINknj-HI5duwHaGq&pid=Api&P=0&h=180" group-title="INTERIOR AR",CANAL 14 ELORTONDO
 https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
