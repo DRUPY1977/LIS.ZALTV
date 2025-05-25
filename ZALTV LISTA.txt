@@ -765,47 +765,41 @@ http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 http://tv.teleclub.xyz/club/server_3/deportes/winsportsplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" group-title="PACK HBO",HBO 
-http://190.11.130.46/mnp/hbo/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png" group-title="PACK HBO",HBO op2
 https://cotel02.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png" group-title="PACK HBO",HBO 2 
-http://190.11.130.46/mnp/hbo2/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png" group-title="PACK HBO",HBO 2 op2
 https://cotel02.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png" group-title="PACK HBO",HBO MUNDI
-http://190.11.130.46/mnp/hbomund/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/540.png" group-title="PACK HBO",HBO MUNDI op2
 https://cotel02.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png" group-title="PACK HBO",HBO PLUS
-http://190.11.130.46/mnp/hboplus/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1532.png" group-title="PACK HBO",HBO PLUS op2
 https://cotel02.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP 
-http://190.11.130.46/mnp/hbopop/output.mpd
+https://broker.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/541.png" group-title="PACK HBO",HBO POP op2
 https://cotel02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO XTREME 
-http://190.11.130.46/mnp/hboxtr_hls/playlist.m3u8
+https://broker.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1542.png" group-title="PACK HBO",HBO XTREME op2
 https://cotel02.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 HD
-https://broker.cdn.rcs.net.ar/mnp/hbo2/output.mpd
-
-#EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/525.png",HBO 2 HD op3
-https://faster-viale.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 group-title="PACK HBO" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/524.png",HBO ALT
 http://190.102.139.244:7878/play/a04g/index.m3u8
@@ -1754,9 +1748,6 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/VYxDNRWF/como-antes.png",COMO ANTES TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
 
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/R40wwyxH/BUIN-SOMOS-TODOS-TV.png",BUIN SOMOS TODOS TV
-https://bst.buin.cl/0.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80qfDFn/Logo-Retro-Plus-TV.png" group-title="RETRO",Retro Plus TV 3 HD
 https://video06.logicahost.com.br/retropluslive03/retropluslive03/playlist.m3u8
 
@@ -2001,17 +1992,6 @@ https://cloud2.streaminglivehd.com:1936/8062/8062/playlist.m3u8
 https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png",  SENSA EVENTOS op2
 https://cdn-cirion01.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
-
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png",SPORTMAX AR EVENTOS 1
-https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed1/SA_LIVE_hls_enc/8f9ec7e3-88d4-40c6-8a61-16162780fd33_output_0.m3u8?WORLDTV2
-
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png",SPORTMAX AR EVENTOS 2
-https://cl-live.elekta.lat/live/c7eds/SportMax_AR_Feed2/SA_LIVE_hls_enc/6f2ee266-1c1e-48ad-a5aa-e977dc33740e_output_0.m3u8?WORLDTV2
-
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/zDHBfcbc/sportmax-1.png",SPORTMAX CHILE EVENTOS
-https://cablemor.andremor.dev/live/sportmax-cl/index.m3u8
-#EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://i.postimg.cc/mDzHB2Wd/sportsmax-2.png",SPORTMAX CHILE EVENTOS 2
-https://cablemor.andremor.dev/live/sportmax2-chile/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.laizquierdadiario.com/IMG/arton19872.png" group-title="CINE 24/7",CINE 24/7- 1
@@ -2619,7 +2599,7 @@ https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2024/11/logo-MEMORIAS-CLASSIC-OK-png-540x304-1.png",MEMORIAS CLASSIC
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memoriasfm.com/wp-content/uploads/2022/08/cropped-LOGO-MEMORIAS-standard-1-1-259x168.png",MEMORIAS LA MUSICA DE TU VIDA
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/MEMORIAS-Show-Bar-TRANSPARENTE-OKK.png",LA CANTINA DE MEMORIA TV
 https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
