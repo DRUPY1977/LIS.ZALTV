@@ -1731,10 +1731,16 @@ https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO MAGICO
-https://ssh101.bozztv.com/ssh101/retromagico/playlist.m3u8
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/02s83gy/RETROMAGICO-TV.png",RETRO TOONS
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://toonsretro.net/title.png",RETRO TOONS
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/chunks.m3u8
+
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/677hkTgc/FUN-TV-RETRO.png",FUN TV RETRO
+https://live20.bozztv.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
+
+#EXTINF:-1 group-title="RETRO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/D9A4557E-3ACD-4238-ACA3-1C8B3E586E3B.png",CARTOON CLASICO
+https://live20.bozztv.com/akamaissh101/ssh101/cartoonclasico/chunks.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/sH74Jn7/TOP-TV-PERU-PNG.png",TOP TV
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
@@ -2602,11 +2608,23 @@ https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/MEMORIAS-Show-Bar-TRANSPARENTE-OKK.png",LA CANTINA DE MEMORIA TV
 https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS 
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS TV
 https://video06.logicahost.com.br/retropluslive01/retropluslive01/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS TV op2
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv/chunks.m3u8
 
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 
 https://video06.logicahost.com.br/retropluslive02/retropluslive02/playlist.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/m5MTtR0/RETRO-PLUS-TV.png",RETRO PLUS Señal 2 op2
+https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/chunks.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/G3swLLhF/a-HR0c-HM6-Ly9wcm94e-S56-ZW5v-Lm-Zt-L2-Nvbn-Rlbn-Qvc3-Rhd-Glvbn-Mv-YWd4em-Zuc-Gxib-Th0-Yz-NSa-GRITnl.png",RETROCLUB 
+https://live20.bozztv.com/akamaissh101/ssh101/retroclub/chunks.m3u8
+
+#EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://i.ibb.co/SDwMhbrT/RADIO-BEST-MUSIC.png",BESTMUSIC CLASICOS TV
+https://live20.bozztv.com/akamaissh101/ssh101/clasicostvcr/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/billboard-logo.png" group-title="🎵 MÚSICA",Billboard AR
 https://cdn-cirion01.sensa.com.ar/output/SMT1/BLBH/playlist.m3u8
@@ -2824,6 +2842,21 @@ https://streamyes.alsolnet.com/vorterixvillademerlo/live/chunklist.m3u8
 #EXTINF:-1 group-title="🎵 MÚSICA" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/vorterix.png",VORTERIX MAR DEL PLATA
 https://vivo.solumedia.com:19360/vorterixmdp/vorterixmdp.m3u8
 
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png",UPEA TELEVISION
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png",SHOW DE GOLES
+https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/chunklist_w354558762.m3u8
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png",ZOY TV EVENTOS
+https://live20.bozztv.com/akamaissh101/ssh101/zoytvsports/chunks.m3u8
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png",ZOY TV NOVELAS TURCAS
+https://live20.bozztv.com/akamaissh101/ssh101/zoytvturcas/chunks.m3u8
+
+#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://tv.zoymilton.com/images/logo-zoytv.png",ZOY TV CINE
+https://live20.bozztv.com/akamaissh101/ssh101/zoytv/chunks.m3u8
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.ipuntotv.com/IMAGES/Construir-tv-logo.png",CONSTRUIR TV
 https://loadbalancer16.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
@@ -3728,8 +3761,8 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioextremacr.com/img/logo.png" group-title="RELIGIOSOS",EXTREMA TV
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWhTXH9/SPTV-32-DIGITAL-PNG.png" group-title="CINE",SPTV 32
-https://srv2.zcast.com.br/sptv32/sptv32/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWhTXH9/SPTV-32-DIGITAL-PNG.png" group-title="INTERIOR AR",SPTV 32
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online.png" group-title="INTERIOR AR", CANAL 4 SAN FRANCISCO CORDOBA
 http://204.199.3.2/.m3u8
