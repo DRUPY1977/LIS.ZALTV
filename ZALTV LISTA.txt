@@ -590,9 +590,6 @@ https://cotel02.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports 🇦🇷
 https://val01.ride.com.ar/tvmia/bn45/playlist.m3u8
 
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports PWR 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/z8Bs4BfLQN93qsutEbTCfXzz4e6IaSx2p0vbFfTdbmpgq45FGAUqHWcMjox5rIZUlo94ooMOSAc0HYPSuXLP_A/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
-
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/603_AR.png",TNT Sports alt1 🇦🇷
 http://201.217.246.177:8000/play/a02u/index.m3u8
@@ -609,9 +606,6 @@ http://181.10.181.101:15001/play/a06z/index.m3u8
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium 🇦🇷 
 https://val03.ride.com.ar/tvmia/c07/playlist.m3u8
-
-#EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium PWR 🇦🇷
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/IIBxAbENmjt002Oxt7dLmtdDYRMzNV5_uQMdXF_SPCZE0Fr6mK9AiVV8oRM_5rZCQpBgYFr6d3PKErgYwqg3kg/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 
 #EXTINF:-1 group-title="PACK FUTBOL" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/1604_AR.png",ESPN Premium alt1 🇦🇷
 http://190.123.90.146:8000/play/a00f/index.m3u8
