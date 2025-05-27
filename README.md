@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PRUEBA
+https://anym3u8player.com/youtube.php/id/68352e7174afd.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PRUEBA 2
+https://anym3u8player.com/youtube.php/id/68352ef993499.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
