@@ -3198,11 +3198,33 @@ https://aym-as.otteravision.com/aym/as/as.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO SPORTS GUATEMALA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23j3J4d8/IDEAS-EN-MINUTOS.png" group-title="EXTRAS",IDEAS EN 5 MINUTOS
+https://amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgmx/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",TIGO SPORTS 🇨🇷
-https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0C8LYb7/pequenos-gigantes.png" group-title="EXTRAS",PEQUEÑOS GIGANTES
+https://d24e7x8v9k5dv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vfmuyfuyluq9w/server/distrib/jYdndrTaoEZQfKmA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqnwVRk0CYxCZKe8aQeA7kGAYmkevft40rTJARgXFSjKAUQ-bTHhhNEaRveV8YwWdgzkKD5efvdFb5cFi647AfO4axofYeYI1Wi5rvjX5O7it8bfR17okFPjCDfD_zjC9GJRv3C5ECLqg-y5IELfrl_z7WGNj95nI0JFVqVr593tgMtUp8ZQ9pNbmYJ0HP743-w/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMyhZPM/jajaja.png" group-title="EXTRAS",JAJAJA
+https://d3v3mmi4g0m0ew.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9dep4gfn1ijcp/server/distrib/0bnenbTDekmrc4k0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqneaHlA15ODd243ofh4ow7byPiOMypU6EpNOlVXM0LAvEGO7MheGgBhEe3EcVhOZINDlQkAXpVg1LSgJfYM3Tqtf8SUzpfMDCWDBLW9si6Nzvzp4VDF9d4LVSqSz1TbNTsYH9uoxvheGk1btfcS3mSBRXX3Dg02LfpkYwW1jwdCUcYqkl9md3jIycfOMwsE6ag/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqWSRHj8/rebelde.png" group-title="TELENOVELAS",REBELDE
+https://d1g1ht9t48jsre.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bijuom88e2pwr/server/distrib/095g5bF4ZDmOi210/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqiS9HICoI9C-OpcX3AESJI45YBgdGvUDTKLV7OAKQkExUMHDTzb46u-4DPDOJ8m8CB14VS_0C5MyMAoLpN3GpRBVp5RXYAEzNlFh53KotWHvY8ABd7kkbFKKX-NHbi5Epg8dXtPE4himx5Dym9Q7b9sfI7BTmpICYX6JA6IMxW6r0nA7m_eWuLNznQdj74PCZA/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQxtPkPq/galanes.png" group-title="TELENOVELAS",GALANES
+https://da0n901brsxsj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pjkdactx6f506/server/distrib/0ZXvX1TrEXJzs99j/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqjgNd4p1TH49dc-WhXG-xPxfZHKiFrpuWRdcZisRPzZEElMvQLUOYSp1tdTvjRzx-Hc-KNqoy9GCgdq1rFDA_S5OPcG9kM5ROVdCEQiFQ-relBEqXoeP5iE69uu-qYLd0yROmgu5Kj7IOxX-tU-zW8OUY6_Mgu0rskXtal6_ACG46h_OiDOv5eMldr6oJIEN5Q/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t9HVg0f/grandes-parejas.png" group-title="TELENOVELAS",GRANDES PAREJAS
+https://dfthcr89xhr9b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2qakw38x191dx/server/distrib/AJzMzWfNL23JI5DA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqvFRpE0R0MAj1T3d3pBjJ8FAXLY4bpY3f-Z3bjDZohMBIoStJzmAHKYT6Ca-NeRLgLCjQh5GfzqmMexbi6ao3NBnZRGtI58hnPciSWhC5ifup2KbiX3E8LN9yGq9nbPM0ADpTVVTbx-4xHEDxvjMp5bqD_uk_GoHJoU1YiY7JzvUY75lHeqU1b02IPEFKZ5FRw/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ygGZfk4/villanos-de-novela.png" group-title="TELENOVELAS",VILLANOS DE NOVELA
+https://d3e7e3ezyu1yi3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ewewd0mivee8c/server/distrib/0MqnqghkvXVNI3p0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqnDc-LLmSDCtZcv7fvywn5qUN35gNuOlDlCmiYEgG-hRH5n-lIYU1E4FlDQItg9hj_y6EZDyym5lsojHCSSlaS03ytHRlQEgtxaFoKMOveCi_zkv6DJTaDlV7bD1QZQN7gE32kHHB6klKK-Fvm8xuVqHUJzjTVjOv0FcGMpOSiYCsr9cDcSc1IZowPvReWATWA/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15c53FbX/las-tres-marias.png" group-title="TELENOVELAS",LAS 3 MARÍAS
+https://d3ekb4nob8cu7j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n77lc2vjw29h0/server/distrib/Aazyz4fOD2Pgsymj/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqh_HOl8d0hbLtujV9vK61GdGVYf2C6MhqnnPa20cAtvJ6LVvm65_40kT67fwKzGadsWKNFo_6M_vh0u7b5w1PXogpD0O2AZh70sV29bhkrhmojeOpEFR3lkXvqvTgvOB_PUbDDBmU2t-7DZy0FLuR_ny7T0LwsM2nqXRADiWvoEo-_xAeWe-Z_EPhpcrjev0GQ/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4mMvntL/angelique.png" group-title="TELENOVELAS",ANGELIQUE
+https://d2naub2gn5bipr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nl6lg67nt9dwg/server/distrib/AVM6MyFXVOkYSpB0/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqmRj8vj-oWa2c7AfycYxckTC1Rp8nmzrppiZXhVPdfRYoOl59Uf0h9UxCofkiJnCw3KW2R4bFnT1SozYBGRYDLKLURzV-MAWj-b_a_lFT1U12CFaQ3nThA1NSqaDqgXARHgFV7D-ugKoVTxk9ngUqqUaNrkGX9qs1ZFe0OKjUmqWyPFgauMKcyShE2Cq1nhKOQ/manifest.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/J1kV1Bn.png" group-title="DEPORTES",ITV Deportes op2
@@ -3718,9 +3740,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 #EXTINF:-1 tvg-logo="https://teletuya.net/wp-content/uploads/2023/07/Logo-TeleTuya.png" group-title="EXTRAS",TELE TUYA 
 https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/La_Tele_Tuya.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b5GMG6Y/Logo-Diti-TV.png" group-title="EXTRAS",DITI TV HD
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yk4xrNL/logo-Visi-n-TV.png" group-title="EXTRAS",VISION TV HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
@@ -4055,19 +4074,6 @@ https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8
 https://live.obslivestream.com/selvatv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur Camana
-https://1667517699.rsc.cdn77.org/hls/camana.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Ilo) 
-https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Mollendo) 
-http://191.97.48.180:8000/hls/mollendo.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Moquegua) 
-https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur (Tacna) 
-https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesur.com.pe/recursos/page/telesur/images/logo.png" group-title="PERU",Telesur Arequipa
-https://telesur-stream.b-cdn.net/hls/arequipa.m3u8
-
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png",CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
 
@@ -4258,10 +4264,6 @@ https://stream.zeno.fm/cdey4pbw2ehvv.mp3
 
 #EXTINF:-1 tvg-logo="https://appnew.megainfoapp.com/files/1/Ecuador%20TV.png" group-title="EXTRAS",ECUADOR TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telemundo-logo-92AB63B32B-seeklogo.com.png" group-title="TELENOVELAS",TELEMUNDO
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1ZYMpCT/televilla-television.png" group-title="EXTRAS",TELEVILLA TELEVISION COL
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8 
