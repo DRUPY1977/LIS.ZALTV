@@ -1,8 +1,7 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT 2 🇦🇷
-http://172.93.102.112:8989/128041_.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
+http://user.tvcluboficial.com/stream/free_DANNA/emN/444.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
