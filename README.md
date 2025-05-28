@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",La liga Inside 🇪🇸
-https://is.gd/P9HFAg?LaligaInside.m3u8
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT 2 🇦🇷
 http://172.93.102.112:8989/128041_.m3u8
