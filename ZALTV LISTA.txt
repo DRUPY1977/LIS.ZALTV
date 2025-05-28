@@ -1329,6 +1329,9 @@ https://val03.ride.com.ar/tvmia/an24/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",Fox Sports 2 HD
 http://143.0.67.77:8000/play/a05c/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/608.png",Fox Sports 2 HD op3
+http://172.93.102.112:8989/128041_.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/609.png",Fox Sports 3 HD
 http://143.0.67.77:8000/play/a02t/index.m3u8
 
