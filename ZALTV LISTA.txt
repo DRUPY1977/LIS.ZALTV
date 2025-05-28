@@ -2620,7 +2620,7 @@ https://cdn1-6p.teleuptv.net/a770b798-f2c0-4251-949d-b2fdc6d51898/tracks-v3a1/mo
 
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/ynVFGHQ/GENTV-LOGO-PNG.png",GEN TV
-https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
+https://live-stream.iblups.com/video/742d100014934e52c9797c38412ff2bb6b079d31.m3u8
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://i.ibb.co/mFvqxyG1/NEXT-NUEVO-LOGO.png",NET TV HD
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
@@ -3068,9 +3068,6 @@ https://dr2t9f8nivbc6.cloudfront.net/hls/HL3SLDA/8AEDE38B77B3/m.m3u8
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://guiashistoriadorex.com/wp-content/uploads/2018/10/logo_viajar.png",VIAJAR op2
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now,-1m/m.m3u8
-
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://oxigeno.com/OxigenoAppResources/img/vivir/logo.png",OXIGENO TV
-https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist.m3u8
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://i.ibb.co/zFVGKRW/tu-discovery.png",TU DISCOVERY
 https://amg00136-amg00136c59-canelatv-international-6415.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-tudiscovery-canelatvinternational/playlist.m3u8
