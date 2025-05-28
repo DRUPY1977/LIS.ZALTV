@@ -3905,6 +3905,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="PERU",ATV op4
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSsYZStf/xtremo-tv.png" group-title="PERU",XTREMO TV
+https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSsYZStf/xtremo-tv.png" group-title="PERU",XTREMO TV op2
+https://live-evg1.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59Dd6SL7/creo-fe.png" group-title="PERU",CREO FE
 https://live-evg25.tv360.bitel.com.pe/bitel/creofe/chunks.m3u8
 
@@ -4538,8 +4545,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/solartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV 
 https://play.agenciastreaming.com:8081/xtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://xtv.pe/wp-content/uploads/2024/09/X-Tv-100px.png" group-title="PERU",XTV PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvppgYG0/xtv-plus-png.png" group-title="PERU",XTV PLUS
 https://play.agenciastreaming.com:8081/xtvplus/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvppgYG0/xtv-plus-png.png" group-title="PERU",XTV PLUS op2
+https://live-evg1.tv360.bitel.com.pe/bitel/xtvplus/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://megatvjaen.pe/wp-content/uploads/2022/12/cropped-megajaen.png" group-title="PERU",MEGA TV 
 https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
