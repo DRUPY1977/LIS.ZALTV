@@ -1,10 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PRUEBA
-https://anym3u8player.com/youtube.php/id/68352e7174afd.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",PRUEBA 2
-https://anym3u8player.com/youtube.php/id/68352ef993499.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",FOX SPORT 2 🇦🇷
+http://172.93.102.112:8989/128041_.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a00x
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN PREMIUM 🇦🇷
+http://190.102.246.93:9005/play/a029
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN 3 🇨🇴
+http://190.102.246.93:9005/play/a02l
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
