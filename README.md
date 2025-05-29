@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
-https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r3/__c/Parlamento_SD_B/__op/dash-wv/__f/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",2
-https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Discovery_HD/__op/dash-wv/__f/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",3
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd
-
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL SUR 
-https://ch01-nixval01.avatel.tv/live/eds/canalsur2/MPEG-DASH_Scrambled_High/canalsur2.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL SUR ANDALUCÍA
-https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/Andalucia_TV_HD/__op/dash-wv/__f/manifest.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ANDALUCÍA TV
-https://ch01-nixval01.avatel.tv/live/eds/andaluciatv/MPEG-DASH_Scrambled_High/andaluciatv.mpd
-
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a00x
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",ESPN PREMIUM 🇦🇷
-http://190.102.246.93:9005/play/a029
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN 3 🇨🇴
-http://190.102.246.93:9005/play/a02l
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
