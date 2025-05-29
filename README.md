@@ -9,7 +9,7 @@ https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Discovery_HD/__op/dash-w
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX02/smil:47_HD.smil/manifest.mpd
 
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL SUR 2
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL SUR 
 https://ch01-nixval01.avatel.tv/live/eds/canalsur2/MPEG-DASH_Scrambled_High/canalsur2.mpd
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL SUR ANDALUCÍA
 https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-p1/__c/Andalucia_TV_HD/__op/dash-wv/__f/manifest.mpd
