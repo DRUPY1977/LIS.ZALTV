@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
-http://user.tvcluboficial.com/stream/free_DANNA/emN/444.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL HISTORIA 🇪🇺
+https://tvup01.edge.milloh-cs.com/historia/historia.mpd
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL HISTORIA 🇪🇸
+https://ch01-nixval01.avatel.tv/live/eds/canalhistoria/MPEG-DASH_Scrambled_High/canalhistoria.mpd
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",NATIONAL GEOGRAPHIC 🇪🇸
+https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
