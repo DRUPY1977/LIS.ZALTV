@@ -1,16 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL HISTORIA 🇪🇺
-https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__a/NGEO_HD/__op/dash-wv/__f/manifest.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",CANAL HISTORIA 🇪🇸
-https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p2/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",NATIONAL GEOGRAPHIC 🇪🇸
-https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/NGEO_HD/__op/dash-wv/__f/manifest.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",NATIONAL GEOGRAPHIC 🇪🇸
-https://requestrouter.cdn.agiletv.net/__cl/cg:lv-p1/__c/Discovery_HD/__op/dash-wv/__f/manifest.mpd
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",NATIONAL GEOGRAPHIC 🇪🇸
-https://requestrouter.cdn.agiletv.net/_cl/cg:lv-p1/c/Discovery_HD/op/dash-wv/f/manifest.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="", ESPN PREMIUM 🇦🇷
 http://190.102.246.93:9005/play/a00x
