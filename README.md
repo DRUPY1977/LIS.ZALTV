@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",2
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
+
+#EXTINF:-1 group-title="ADULTOS" tvg-logo="",3
+https://ytlive.zazerconer.workers.dev/@quieromusicatv.m3u8
+
+
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
