@@ -1363,8 +1363,14 @@ http://45.235.37.254/espn2hd/index.m3u8
 http://45.235.37.254/espn3hd/index.m3u8
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png",TUDN HD
-http://190.11.225.124:5000/live/tudn_hd/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://thesportsgen.com/wp-content/uploads/2023/02/SKY-SPORTS-F1.png",SKY SPORTS F1
+https://azplay.ru.com/hls/HDGQ25/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png",DAZN  F1
+http://vavoo.to/play/270716645/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co/k6frj4P/daznf1.png",DAZN  F1 ES
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0kTMjdzMkZ2NhRTLyEmMh1SYzMGNtYmMjJTLhVmMxIjZmNzL.m3u8
 
 #EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-YLVe6I3igQ0/TqBIiqUj41I/AAAAAAAAQgc/_Mpia_yIIpI/s1600/elgaragetv.png" group-title="ALTERNATIVOS",GARAJE TV
 https://val03.ride.com.ar/tvmia/c02/playlist.m3u8
@@ -1727,8 +1733,6 @@ https://tvstream.t5satelital.blog/hls/elfolklorico.m3u8
 #EXTINF:-1 group-title="NACIONALES AR" tvg-logo="https://1.bp.blogspot.com/-Dtzw9n3DOtA/YC__fv9SzaI/AAAAAAAA8Lk/9_2dKEO7SckqsiokeJsAaEvQvO_WfXa8wCLcBGAsYHQ/s719/Arg-Sat.png", ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 group-title="RETRO" tvg-logo="https://vignette3.wikia.nocookie.net/dreamlogos/images/2/29/Canal%2B_Latino_1990.png",LATINO CLASSIC TV
-https://origin.dpsgo.com/ssai/event/tc6u4cyBTbKKP4-GEqD6pw/master.m3u8
 
 #EXTINF:-1 group-title="RETRO" tvg-logo="https://i.ibb.co/GvBsqsf/RETROXPNG.png", RETROX TV
 https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
