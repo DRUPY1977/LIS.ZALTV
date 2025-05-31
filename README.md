@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt:443/live/dash/561802/index.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",2
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/MTV80s/default/index.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",3
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",4
-https://pylocalliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/channel(CONCERT_CHANNEL_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
