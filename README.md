@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",1
-http://45.189.108.146:1935/xmp_trans/tnt_sports.stream/playlist.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",2
-http://45.189.108.146:1935/btnscrtn/ESPN5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",3
-http://45.189.108.146:1935/xmp_trans/espn_premium.stream/playlist.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",4
-http://cdn.sensa.com.ar/live/eds/TVPublica/live_dash_cld/TVPublica.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",5
-http://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",6
-http://cdn.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="",7
-https://smt-usr-edge01.sensa.com.ar/bpk-tv/Canal8cba/default/index.mpd
 
 #EXTINF:-1 group-title="ADULTOS" tvg-logo="https://www.directv.com.ar/content/dam/public-sites/channels/464.png",PLAYBOY 
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
